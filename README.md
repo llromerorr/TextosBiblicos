@@ -41,3 +41,25 @@ Solo debe enviar como argumento la dirección o path del archivo de texto y este
 ```
 dart .\main.dart .\txt\gen.txt
 ```
+
+### 4. Resultado
+Obtendrás un archivo te tipo .json.
+
+```json
+{
+    "title": "Génesis",
+    "description": "Primer libro del Antiguo Testamento",
+    "abbreviation": "Gn",
+    "chapters": [
+        {
+            "number": 1,
+            "verses": [
+                {
+                    "text": "EN el principio creó Dios el cielo y la tierra.",
+                    "id": "1:1"
+                },
+                {
+                    "text": "Y la tierra estaba sin forma y vacía, y las tinieblas estaban sobre la faz del abismo, y el Espíritu de Dios se movía sobre la faz de las aguas.",
+                    "id": "1:2"
+                },
+```
