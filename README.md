@@ -1,4 +1,4 @@
-# bible-to-jsom
+# bible-to-json
 Convertir archivo de texto que contiene la biblia a formato Json.
 
 ## Formato del archivo de texto
@@ -7,9 +7,9 @@ Este es el formato predefinido, se debe tener en cuenta los siguientes aspectos.
 ### 1. Cabeceras
 Las cabeceras contienen información relevante del libro.
 
-- Titulo: este contiene el titulo del libro.
-- Descripción: información relevante del libro.
-- Abreviatura: abreviatura del nombre del libro.
+- **Titulo:** este contiene el titulo del libro.
+- **Descripción:** información relevante del libro.
+- **Abreviatura:** abreviatura del nombre del libro.
 
 ```
 #title Génesis
@@ -20,8 +20,8 @@ Las cabeceras contienen información relevante del libro.
 ### 2. Cuerpo
 Esto son los libros y versículos de cada libro.
 
-- Id: este contiene el numero del capitulo y del versiculo separados por ':'.
-- Texto del versículo: contenido del versículo.
+- **Id:** este contiene el numero del capitulo y del versiculo separados por ':'.
+- **Texto del versículo:** contenido del versículo.
 
 ```
 1:1 EN el principio creó Dios el cielo y la tierra.
