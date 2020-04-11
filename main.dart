@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'dart:io';
-import 'chapter.dart';
-import 'verse.dart';
-import 'book.dart';
+import 'objects/chapter.dart';
+import 'objects/verse.dart';
+import 'objects/book.dart';
 
 // Variables
 String storedTitle = null;
@@ -31,8 +31,10 @@ void main(List<String> args) async {
   setHeaders();
 
   // Separar por LINEAS el documento
-  for(var verse in libroEnLineas){
-    Verse temp = checkLine(data: verse, book_name: abbreviation); // Procesar la linea
+  for(var verse in libroEnLineas)
+  {
+    if(verse[0] == '#' || verse.length < 5) continue;
+    Verse temp = checkLine(data: verse); // Procesar la linea
 
     if(temp != null) // Omitir si la linea es NULL
       listaDeVersos.add(temp);
@@ -51,38 +53,20 @@ void main(List<String> args) async {
 }
 
 
-Verse checkLine({String data, String book_name}){
-  if(data.length == 0)
-    return null;
+Verse checkLine({String data})
+{
+  if(data.length == 0 || data == '\n') return null;
 
-  final lista_verse = data.split(' ');
+  final words_verse = data.split(' ');
   final verso = Verse();
 
-  if(lista_verse[0] == book_name){
-    verso.id = lista_verse[0] + ' ' + lista_verse[1];
-    
-    if(storedTitle != null)
-    {
-      verso.title = storedTitle;
-      storedTitle = null;
-    }
-    else
-      verso.title = null;
+  verso.id = words_verse[0];
+  verso.text = '';
 
-    verso.text = '';
+  for(var i = 1; i < words_verse.length; i++)
+    verso.text += '${words_verse[i].trim()} ';
 
-    for(var i = 2; i < lista_verse.length; i++){
-      verso.text += '${lista_verse[i].trim()} ';
-    }
-
-    verso.text = verso.text.trim();
-  }
-
-  else{
-    storedTitle = data;
-    return null;
-  }
-
+  verso.text = verso.text.trim();
   return verso;
 }
 
@@ -146,8 +130,8 @@ Map<String, int> getChapterAndVerse(String id){
   int verse = null;
   
   try { 
-    chapter = int.parse(id.split(' ')[1].split(':')[0]);
-    verse = int.parse(id.split(' ')[1].split(':')[1]);
+    chapter = int.parse(id.split(':')[0]);
+    verse = int.parse(id.split(':')[1]);
   }
   
   catch (e) { print('[Error 003] el ID: $id esta mal.'); }

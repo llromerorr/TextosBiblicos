@@ -1,6 +1,6 @@
 #title Génesis
 #description Primer libro del Antiguo Testamento
-#abbreviation Gén
+#abbreviation Gn
 
 1:1 EN el principio creó Dios el cielo y la tierra.
 1:2 Y la tierra estaba sin forma y vacía, y las tinieblas estaban sobre la faz del abismo, y el Espíritu de Dios se movía sobre la faz de las aguas.
