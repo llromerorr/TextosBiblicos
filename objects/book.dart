@@ -1,7 +1,4 @@
 import 'chapter.dart';
-import 'verse.dart';
-import 'dart:convert';
-import 'dart:io';
 
 class Book{
   String title;
