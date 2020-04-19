@@ -1,6 +1,6 @@
 #title Génesis
 #description Primer libro del Antiguo Testamento
-#abbreviation Gn
+#abbreviation 1_Gn_R
 
 1:1 En el principio creó Dios el cielo y la tierra.
 1:2 Y la tierra estaba sin forma y vacía, y las tinieblas estaban sobre la faz del abismo, y el Espíritu de Dios se movía sobre la faz de las aguas.
@@ -30,7 +30,7 @@
 1:26 Y dijo Dios: Hagamos al hombre a nuestra imagen, conforme a nuestra semejanza; y señoree en los peces del mar, y en las aves del cielo, y en las bestias, y en toda la tierra, y en todo animal que anda arrastrando sobre la tierra.
 1:27 Y creó Dios al hombre a su imagen, a imagen de Dios lo creó; varón y hembra los creó.
 1:28 Y los bendijo Dios; y les dijo Dios: Fructificad y multiplicad, y henchid la tierra, y sojuzgadla, y señoread sobre los peces del mar, y sobre las aves del cielo, y sobre todas las bestias que se mueven sobre la tierra.
-1:29 Y dijo Dios: He aquí que os he dado toda hierba que da simiente, que está sobre la faz de toda la tierra; y todo árbol en que hay fruto de árbol que da simiente, seros ha para comer.
+1:29 Y dijo Dios: He aquí que os he dado toda hierba que da simiente, que está sobre la faz de toda la tierra; y todo árbol en que hay fruto de árbol que da simiente, os serán para comer.
 1:30 Y a toda bestia de la tierra, y a todas las aves del cielo, y a todo lo que se mueve sobre la tierra, en que hay vida, toda hierba verde les será para comer: y fue así.
 1:31 Y vio Dios todo lo que había hecho, y he aquí que era bueno en gran manera. Y fue la tarde y la mañana el día sexto.
 
@@ -53,25 +53,25 @@
 2:17 Mas del árbol del conocimiento del bien y del mal no comerás de él; porque el día que de él comieres, ciertamente morirás.
 2:18 Y dijo el SEÑOR Dios: No es bueno que el hombre esté solo; le haré ayuda idónea para él.
 2:19 Formó, pues, el SEÑOR Dios de la tierra toda bestia del campo, y toda ave del cielo, y las trajo a Adam, para que viese cómo les había de llamar; y todo lo que Adam llamó a los animales vivientes, ese fue su nombre.
-2:20 Y puso Adam nombres a toda bestia y ave del cielo y a todo animal del campo: más para Adam no halló ayuda que estuviese idónea para él.
+2:20 Y puso Adam nombres a toda bestia y ave del cielo y a todo animal del campo: mas para Adam no halló ayuda que estuviese idónea para él.
 2:21 Y el SEÑOR Dios hizo caer sueño sobre Adam, y se quedó dormido: entonces tomó una de sus costillas, y cerró la carne en su lugar;
 2:22 Y de la costilla que el SEÑOR Dios tomó del hombre, hizo una mujer, y la trajo al hombre.
 2:23 Y dijo Adam: Esto es ahora hueso de mis huesos, y carne de mi carne: ésta será llamada Varona, porque del varón fue tomada.
 2:24 Por tanto, dejará el hombre a su padre y a su madre, y allegarse ha a su mujer, y serán una sola carne.
 2:25 Y estaban ambos desnudos, Adam y su mujer, y no se avergonzaban.
 
-3:1 Pero la serpiente era astuta, más que todos los animales del campo que el SEÑOR Dios había hecho; la cual dijo a la mujer: ¿Conque Dios os ha dicho: ¿No comáis de todo árbol del huerto?
+3:1 Pero la serpiente era astuta, mas que todos los animales del campo que el SEÑOR Dios había hecho; la cual dijo a la mujer: ¿Conque Dios os ha dicho: No comáis de todo árbol del huerto?
 3:2 Y la mujer respondió a la serpiente: Del fruto de los árboles del huerto podemos comer
 3:3 Mas del fruto del árbol que está en medio del huerto dijo Dios: No comeréis de él, ni le tocaréis, porque no muráis.
 3:4 Entonces la serpiente dijo a la mujer: Ciertamente no moriréis;
 3:5 Mas sabe Dios que el día que comiereis de él, serán abiertos vuestros ojos, y seréis como dioses sabiendo el bien y el mal.
-3:6 Y cuando vio la mujer que el árbol era bueno para comer, y que era agradable a los ojos, y árbol codiciable para alcanzar la sabiduría; tomó de su fruto, y comió; y dio también a su marido, el cual comió, así como ella.
+3:6 Y cuando vio la mujer que el árbol era bueno para comer, y que era agradable a los ojos, y árbol codiciable para alcanzar la sabiduría; tomó de su fruto, y comió; y dio también a su marido, el cual comió así como ella.
 3:7 Y fueron abiertos los ojos de entrambos, y conocieron que estaban desnudos: entonces cosieron hojas de higuera, y se hicieron delantales.
 3:8 Y oyeron la voz del SEÑOR Dios que se paseaba en el huerto al aire del día: y se escondió el hombre y su mujer de la presencia del SEÑOR Dios entre los árboles del huerto.
 3:9 Y llamó el SEÑOR Dios al hombre, y le dijo: ¿Dónde estás tú?
 3:10 Y él respondió: Oí tu voz en el huerto, y tuve miedo, porque estaba desnudo; y me escondí.
 3:11 Y le dijo: ¿Quién te enseñó que estabas desnudo? ¿Has comido del árbol de que yo te mandé no comieses?
-3:12 Y el hombre respondió: La mujer que me disté para estar conmigo me dio del árbol, y yo comí.
+3:12 Y el hombre respondió: La mujer que me diste para estar conmigo me dio del árbol, y yo comí.
 3:13 Entonces el SEÑOR Dios dijo a la mujer: ¿Qué es lo que has hecho? Y dijo la mujer: La serpiente me engañó, y comí.
 3:14 Y el SEÑOR Dios dijo a la serpiente: Por cuanto esto hiciste, maldita serás entre todas las bestias y entre todos los animales del campo; sobre tu pecho andarás, y polvo comerás todos los días de tu vida:
 3:15 Y enemistad pondré entre ti y la mujer, y entre tu simiente y la simiente suya; esta simiente te herirá en la cabeza, y tú le herirás en el calcañar.
@@ -147,7 +147,7 @@
 
 6:1 Y aconteció  que, cuando comenzaron los hombres a multiplicarse sobre la faz de la tierra, y les nacieron hijas,
 6:2 Viendo los hijos de Dios que las hijas de los hombres eran hermosas, se tomaron mujeres, escogiendo entre todas.
-6:3 Y dijo el SEÑOR: No contenderá mi Espíritu con el hombre para siempre, porque ciertamente él es carne: más serán sus días ciento y veinte años.
+6:3 Y dijo el SEÑOR: No contenderá mi Espíritu con el hombre para siempre, porque ciertamente él es carne: mas serán sus días ciento y veinte años.
 6:4 Había gigantes en la tierra en aquellos días, y también después que entraron los hijos de Dios a las hijas de los hombres, y les engendraron hijos: éstos fueron los valientes que desde la antigüedad fueron varones de nombre.
 6:5 Y vio Dios que era mucha la maldad de los hombres en la tierra, y que toda imaginación de los pensamientos de su corazón era solamente mala todos los días.
 6:6 Y se arrepintió el SEÑOR de haber hecho hombre en la tierra, y le pesó en su corazón.
@@ -169,7 +169,7 @@
 6:22 E lo hizo así Noé; hizo conforme a todo lo que Dios le mandó.
 
 7:1 Y EL SEÑOR dijo a Noé: Ven tú y toda tu casa en el arca; porque a ti he visto justo delante de mí en esta generación.
-7:2 De todo animal limpio te tomarás de siete en siete, macho y su hembra; más de los animales que no son limpios, dos, macho y su hembra.
+7:2 De todo animal limpio te tomarás de siete en siete, macho y su hembra; mas de los animales que no son limpios, dos, macho y su hembra.
 7:3 También de las aves del cielo de siete en siete, macho y hembra; para guardar en vida la casta sobre la faz de toda la tierra.
 7:4 Porque aún siete días, y yo haré llover sobre la tierra cuarenta días y cuarenta noches; y raeré toda sustancia que hice de sobre la faz de la tierra.
 7:5 E hizo Noé conforme a todo lo que le mandó el SEÑOR.
@@ -256,7 +256,7 @@
 10:8 Y Cush engendró a Nimrod: éste comenzó a ser poderoso en la tierra.
 10:9 Este fue vigoroso cazador delante del SEÑOR; por lo cual se dice: Así como Nimrod, vigoroso cazador delante del SEÑOR.
 10:10 Y fue la cabecera de su reino Babel, y Erec, y Acad, y Calneh, en la tierra de Shinar.
-10:11 De aquella tierra salió Asur, y edificó a Nínive, y a Rehobot, y a Calah,
+10:11 De esa tierra salió Asur, y edificó a Nínive, y a Rehobot, y a Calah,
 10:12 Y a Resén entre Nínive y Calah; la cual es ciudad grande.
 10:13 Y Mizraim engendró a Ludim, y a Anamim, y a Lehabim, y a Naftuhim,
 10:14 Y a Patrusim, y a Casluim, (de donde salieron los Filisteos), y a Caftorim.
@@ -330,7 +330,7 @@
 12:16 E hizo bien a Abram por causa de ella; y tuvo ovejas, y vacas, y asnos, y siervos, y criadas, y asnas y camellos.
 12:17 Mas el SEÑOR hirió a Faraón y a su casa con grandes plagas, por causa de Sarai mujer de Abram.
 12:18 Entonces Faraón llamó a Abram, y le dijo: ¿Qué es esto que has hecho conmigo? ¿Por qué no me declaraste que era tu mujer?
-12:19 ¿Por qué dijiste: ¿Es mi hermana, poniéndome en ocasión de tomarla para mí por mujer? Ahora pues, he aquí tu mujer, tómala y vete.
+12:19 ¿Por qué dijiste: Es mi hermana, poniéndome en ocasión de tomarla para mí por mujer? Ahora pues, he aquí tu mujer, tómala y vete.
 12:20 Entonces Faraón dio orden a sus gentes acerca de Abram; y le acompañaron, y a su mujer con todo lo que tenía.
 
 13:1 Subió, pues, Abram de Egipto hacia el sur, él, y su mujer, con todo lo que tenía, y con él Lot.
@@ -343,7 +343,7 @@
 13:8 Entonces Abram dijo a Lot: No haya ahora altercado entre mí y ti, entre mis pastores y los tuyos, porque somos hermanos.
 13:9 ¿No está toda la tierra delante de ti? Yo te ruego que te apartes de mí. Si fueres a la mano izquierda, yo iré a la derecha: y si tú a la derecha, yo iré a la izquierda.
 13:10 Y alzó Lot sus ojos, y vio toda la llanura del Jordán, que toda ella era de riego, antes que destruyese el SEÑOR a Sodoma y a Gomorra, como el huerto del SEÑOR, como la tierra de Egipto entrando en Zoar.
-13:11 Entonces Lot escogió para sí toda la llanura del Jordán: y se partió Lot de Oriente, y se apartaron el uno del otro.
+13:11 Entonces Lot escogió para sí toda la llanura del Jordán: y se fue Lot al oriente, y se apartaron el uno del otro.
 13:12 Abram asentó en la tierra de Canaán, y Lot asentó en las ciudades de la llanura, y fue poniendo sus tiendas hasta Sodoma.
 13:13 Mas los hombres de Sodoma eran malos y pecadores para con el SEÑOR en gran manera.
 13:14 Y el SEÑOR dijo a Abram, después que Lot se apartó de él: Alza ahora tus ojos, y mira desde el lugar donde estás hacia el norte, y al sur, y al oriente y al occidente;
@@ -366,7 +366,7 @@
 14:12 Tomaron también a Lot, hijo del hermano de Abram, que moraba en Sodoma, y su hacienda, y se fueron.
 14:13 Y vino uno de los que escaparon, y lo denuncio a Abram el Hebreo, que habitaba en el llano de Mamre Amorreo, hermano de Escol y hermano de Aner, los cuales estaban confederados con Abram.
 14:14 Y oyó Abram que su hermano estaba prisionero, y armó sus criados, los criados de su casa, trescientos dieciocho, y los siguió hasta Dan.
-14:15 Y se derramo sobre ellos de noche él y sus siervos, e los hirió, y los fue siguiendo hasta Hobah, que está a la izquierda de Damasco.
+14:15 Y se derramo sobre ellos de noche él y sus siervos, y los hirió, y los fue siguiendo hasta Hobah, que está a la izquierda de Damasco.
 14:16 Y recobró todos los bienes, y también a Lot su hermano y su hacienda, y también las mujeres y gente.
 14:17 Y salió el rey de Sodoma a recibirlo, cuando volvía de la derrota de Quedorlaomer y de los reyes que con él estaban, al valle de Shave, que es el valle del Rey.
 14:18 Entonces Melquisedec, rey de Salem, sacó pan y vino; el cual era sacerdote del Dios Altísimo;
@@ -404,7 +404,7 @@
 16:3 Y Sarai, mujer de Abram, tomó a Agar su sierva egipcia, al cabo de diez años que había habitado Abram en la tierra de Canaán, y la dio a Abram su marido por mujer.
 16:4 Y él cohabitó con Agar, la cual concibió: y cuando vio que había concebido, miraba con desprecio a su señora.
 16:5 Entonces Sarai dijo a Abram: Mi afrenta sea sobre ti: yo puse mi sierva en tu seno, y viéndose embarazada, me mira con desprecio; juzgue el SEÑOR entre mí y ti.
-16:6 Y respondió Abram a Sarai: He ahí tu sierva en tu mano, haz con ella lo que bien te pareciere. Y como Sarai la afligiese, se huyó de su presencia.
+16:6 Y respondió Abram a Sarai: He ahí tu sierva en tu mano, haz con ella lo que bien te pareciere. Y como Sarai la afligió, huyó de su presencia.
 16:7 Y la halló el ángel del SEÑOR junto a una fuente de agua en el desierto, junto a la fuente que está en el camino del Sur.
 16:8 Y le dijo: Agar, sierva de Sarai, ¿de dónde vienes tú, y a dónde vas? Y ella respondió: Huyo de delante de Sarai, mi señora.
 16:9 Y le dijo el ángel del SEÑOR: Vuélvete a tu señora, y ponte sumisa bajo de su mano.
@@ -430,7 +430,7 @@
 17:12 Y de edad de ocho días será circuncidado todo varón entre vosotros por vuestras generaciones: el nacido en casa, y el comprado a dinero de cualquier extranjero, que no fuere de tu simiente.
 17:13 Debe ser circuncidado el nacido en tu casa, y el comprado por tu dinero: y estará mi pacto en vuestra carne para pacto perpetuo.
 17:14 Y el varón incircunciso que no hubiere circuncidado la carne de su prepucio, aquella alma será borrada de su pueblo; ha violado mi pacto.
-17:15 Dijo también Dios a Abraham: A Sarai tu mujer no la llamarás Sarai, más Sara será su nombre.
+17:15 Dijo también Dios a Abraham: A Sarai tu mujer no la llamarás Sarai, mas Sara será su nombre.
 17:16 Y bendecirla he, y también te daré de ella hijo; sí, la bendeciré, y vendrá a ser madre de naciones; reyes de pueblos serán de ella.
 17:17 Entonces Abraham cayó sobre su rostro, y se rio, y dijo en su corazón: ¿A hombre de cien años ha de nacer hijo? ¿y Sara, ya de noventa años, ha de parir?
 17:18 Y dijo Abraham a Dios: ¡Quiera Dios! que Ismael viva delante de ti.
@@ -456,7 +456,7 @@
 18:10 Entonces dijo: De cierto volveré a ti según el tiempo de la vida, y he aquí, tendrá un hijo Sara tu mujer. Y Sara escuchaba a la puerta de la tienda, que estaba detrás de él.
 18:11 Y Abraham y Sara eran viejos, entrados en días: a Sara había cesado ya la costumbre de las mujeres.
 18:12 Se rio, pues, Sara entre si, diciendo: ¿Después que he envejecido tendré deleite, siendo también mi señor ya viejo?
-18:13 Entonces el SEÑOR dijo a Abraham: ¿Por qué se ha reído Sara diciendo: ¿Será cierto que he de parir siendo ya vieja?
+18:13 Entonces el SEÑOR dijo a Abraham: ¿Por qué se ha reído Sara diciendo: Será cierto que he de parir siendo ya vieja?
 18:14 ¿Hay para el SEÑOR alguna cosa difícil? Al tiempo señalado volveré a ti, según el tiempo de la vida, y Sara tendrá un hijo.
 18:15 Entonces Sara negó, diciendo: No me reí; porque tuvo miedo. Y él dijo: No es así, sino que te has reído.
 18:16 Y los varones se levantaron de allí, y miraron hacia Sodoma: y Abraham iba con ellos acompañándolos.
@@ -465,7 +465,7 @@
 18:19 Porque yo lo he conocido, sé que mandará a sus hijos y a su casa después de si, que guarden el camino del SEÑOR, haciendo justicia y juicio, para que haga venir el SEÑOR sobre Abraham lo que ha hablado acerca de él.
 18:20 Entonces el SEÑOR le dijo: Por cuanto el clamor de Sodoma y Gomorra se aumenta más y más, y el pecado de ellos se ha agravado en extremo,
 18:21 Descenderé ahora, y veré si han consumado su obra según el clamor que ha venido hasta mí; y si no, saberlo he.
-18:22 Y se apartaron de allí los varones, y fueron hacia Sodoma: más Abraham estaba aún delante del SEÑOR.
+18:22 Y se apartaron de allí los varones, y fueron hacia Sodoma: mas Abraham estaba aún delante del SEÑOR.
 18:23 Y se acercó Abraham y dijo: ¿Destruirás también al justo con el impío?
 18:24 Quizá hay cincuenta justos dentro de la ciudad: ¿destruirás también y no perdonarás al lugar por cincuenta justos que estén dentro de él?
 18:25 Lejos de ti el hacer tal, que hagas morir al justo con el impío, y que sea el justo tratado como el impío; nunca tal hagas. El juez de toda la tierra, ¿no ha de hacer lo que es justo?
@@ -515,13 +515,13 @@
 19:35 Y dieron a beber vino a su padre también aquella noche: y se levantó la menor, y durmió con él; pero no echó de ver cuándo se acostó ella, ni cuándo se levantó.
 19:36 Y concibieron las dos hijas de Lot, de su padre.
 19:37 Y parió la mayor un hijo, y llamó su nombre Moab, el cual es padre de los Moabitas hasta hoy.
-19:38 La menor también parió un hijo, y llamó su nombre Benamí, el cual es padre de los Amonitas hasta hoy.
+19:38 La menor también parió un hijo, y llamó su nombre Ben-amí, el cual es padre de los Amonitas hasta hoy.
 
 20:1 De allí partió Abraham a la tierra del sur, y asentó entre Cades y Shur, y habitó como forastero en Gerar.
 20:2 Y dijo Abraham de Sara su mujer: Mi hermana es. Y Abimelec, rey de Gerar, envió y tomó a Sara.
 20:3 Pero Dios vino a Abimelec en sueños de noche, y le dijo: He aquí muerto eres a causa de la mujer que has tomado, la cual es casada con marido.
 20:4 Mas Abimelec no había llegado a ella, y dijo: Señor, ¿matarás también la gente justa?
-20:5 ¿No me dijo él: Mi hermana es; y ella también dijo: ¿Es mi hermano? Con sencillez de mi corazón, y con limpieza de mis manos he hecho esto.
+20:5 ¿No me dijo él: Mi hermana es; y ella también dijo: Es mi hermano? Con sencillez de mi corazón, y con limpieza de mis manos he hecho esto.
 20:6 Y le dijo Dios en sueños: Yo también sé que con integridad de tu corazón has hecho esto; y yo también te detuve de pecar contra mí, y así no te permití que la tocases.
 20:7 Ahora, pues, vuelve la mujer a su marido; porque es profeta, y orará por ti, y vivirás. Y si tú no la volvieres, sabe que de cierto morirás, con todo lo que fuere tuyo.
 20:8 Entonces Abimelec se levantó de mañana, y llamó a todos sus siervos, y dijo todas estas palabras en los oídos de ellos; y temieron los hombres en gran manera.
@@ -649,7 +649,7 @@
 24:30 Y sucedió que como vio el pendiente y los brazaletes en las manos de su hermana, que decía, así me habló aquel hombre; vino a él: y he aquí que estaba junto a los camellos a la fuente.
 24:31 Y le dijo: Ven, bendito del SEÑOR; ¿por qué estás fuera? yo he limpiado la casa, y el lugar para los camellos.
 24:32 Entonces el hombre vino a casa, y Labán desató los camellos; y les dio paja y forraje, y agua para lavar los pies de él, y los pies de los hombres que con él venían.
-24:33 Y le pusieron delante qué comer; más él dijo: No comeré hasta que haya dicho mi mensaje. Y él le dijo: Habla.
+24:33 Y le pusieron delante qué comer; mas él dijo: No comeré hasta que haya dicho mi mensaje. Y él le dijo: Habla.
 24:34 Entonces dijo: Yo soy criado de Abraham;
 24:35 Y el SEÑOR ha bendecido mucho a mi amo, y él se ha engrandecido: y le ha dado ovejas y vacas, plata y oro, siervos y siervas, camellos y asnos.
 24:36 Y Sara, mujer de mi amo, parió en su vejez un hijo a mi amo, quien le ha dado todo cuanto tiene.
@@ -664,7 +664,7 @@
 24:45 Y antes que acabase de hablar en mi corazón, he aquí Rebeca, que salía con su cántaro sobre su hombro; y descendió a la fuente, y sacó agua; y le dije: Te ruego que me des a beber.
 24:46 Y prestamente bajó su cántaro de encima de sí, y dijo: Bebe, y también a tus camellos daré a beber. Y bebí, y dio también de beber a mis camellos.
 24:47 Entonces le pregunté, y dije: ¿De quién eres hija? Y ella respondió: Hija de Betuel, hijo de Nacor, que le parió Milca. Entonces le puse un pendiente sobre su nariz, y brazaletes sobre sus manos:
-24:48 E me incliné, y adoré al SEÑOR, y bendije al SEÑOR, Dios de mi amo Abraham, que me había guiado por camino de verdad para tomar la hija del hermano de mi amo para su hijo.
+24:48 Y me incliné, y adoré al SEÑOR, y bendije al SEÑOR, Dios de mi amo Abraham, que me había guiado por camino de verdad para tomar la hija del hermano de mi amo para su hijo.
 24:49 Ahora pues, si vosotros hacéis misericordia y verdad con mi amo, declarádmelo; y si no, declarádmelo; y echaré a la diestra o a la siniestra.
 24:50 Entonces Labán y Betuel respondieron y dijeron: Del SEÑOR ha salido esto; no podemos hablarte malo ni bueno.
 24:51 He ahí Rebeca delante de ti; tómala y vete, y sea mujer del hijo de tu amo, como lo ha dicho el SEÑOR.
@@ -690,7 +690,7 @@
 25:3 Y Joksan engendró a Seba, y a Dedán: e hijos de Dedán fueron Asurim, y Letusim, y Leumim.
 25:4 E hijos de Midiam: Efa, y Efer, y Hanoc, y Abida, y Eldaa. Todos estos fueron hijos de Cetura.
 25:5 Y Abraham dio todo cuanto tenía a Isaac.
-25:6 Y a los hijos de sus concubinas dio Abraham dones, y los envió de junto Isaac su hijo, mientras él vivía, hacia el oriente, a la tierra oriental.
+25:6 Y a los hijos de sus concubinas dio Abraham dones, y los envió lejos de Isaac su hijo, mientras él vivía, hacia el oriente, a la tierra oriental.
 25:7 Y estos fueron los días de vida que vivió Abraham: ciento setenta y cinco años.
 25:8 Y exhaló el espíritu, y murió Abraham en buena vejez, anciano y lleno de días, y fue unido a su pueblo.
 25:9 Y lo sepultaron Isaac e Ismael sus hijos en la cueva de Macpela, en la heredad de Efrón, hijo de Zoar Heteo, que está enfrente de Mamre;
@@ -721,7 +721,7 @@
 25:34 Entonces Jacob dio a Esaú pan y del guisado de las lentejas; y él comió y bebió, y se levantó, y se fue. Así menospreció Esaú la primogenitura.
 
 26:1 Y hubo hambre en la tierra, además de la primera hambre que fue en los días de Abraham: y se fue Isaac a Abimelec rey de los Filisteos, en Gerar.
-26:2 Y apareció sele el SEÑOR, y le dijo: No desciendas a Egipto: habita en la tierra que yo te diré;
+26:2 Y se le apareció el SEÑOR, y le dijo: No desciendas a Egipto: habita en la tierra que yo te diré;
 26:3 Habita en esta tierra, y seré contigo, y te bendeciré; porque a ti y a tu simiente daré todas estas tierras, y confirmaré el juramento que juré a Abraham tu padre:
 26:4 Y multiplicaré tu simiente como las estrellas del cielo, y daré a tu simiente todas estas tierras; y todas las gentes de la tierra serán benditas en tu simiente:
 26:5 Por cuanto oyó Abraham mi voz, y guardó mi precepto, mis mandamientos, mis estatutos y mis leyes.
@@ -771,7 +771,7 @@
 27:13 Y su madre respondió: Hijo mío, sobre mí tu maldición: solamente obedece a mi voz, y ve y tráemelos.
 27:14 Entonces él fue, y tomó, y los trajo a su madre: y su madre hizo guisados, como su padre gustaba.
 27:15 Y tomó Rebeca los vestidos de Esaú su hijo mayor, los preciosos, que ella tenía en casa, y vistió a Jacob su hijo menor:
-27:16 E le hizo vestir sobre sus manos, y sobre la cerviz donde no tenía vello, las pieles de los cabritos de las cabras;
+27:16 Y le hizo vestir sobre sus manos, y sobre la cerviz donde no tenía vello, las pieles de los cabritos de las cabras;
 27:17 Y entregó los guisados y el pan que había aderezado, en mano de Jacob su hijo.
 27:18 Y él fue a su padre, y dijo: Padre mío: y él respondió: Heme aquí, ¿quién eres, hijo mío?
 27:19 Y Jacob dijo a su padre: Yo soy Esaú tu primogénito; he hecho como me dijiste: levántate ahora, y siéntate, y come de mi caza, para que me bendiga tu alma.
@@ -956,7 +956,7 @@
 31:48 Porque Labán dijo: Este majano es testigo hoy entre mí y entre ti; por eso fue llamado su nombre Galaad;
 31:49 Y Mizpa, por cuanto dijo: Atalaye el SEÑOR entre mí y entre ti, cuando nos apartáremos el uno del otro.
 31:50 Si afligieres mis hijas, o si tomares otras mujeres además de mis hijas, nadie está con nosotros; mira, Dios es testigo entre mí y entre ti.
-31:51 Dijo más Labán a Jacob: He aquí este majano, y he aquí este título, que he erigido entre mí y ti.
+31:51 Dijo mas Labán a Jacob: He aquí este majano, y he aquí este título, que he erigido entre mí y ti.
 31:52 Testigo sea este majano, y testigo sea este título, que ni yo pasaré contra ti este majano, ni tú pasarás contra mí este majano ni este título, para mal.
 31:53 El Dios de Abraham, y el Dios de Nacor juzgue entre nosotros, el Dios de sus padres. Y Jacob juró por el temor de Isaac su padre.
 31:54 Entonces Jacob inmoló víctimas en el monte, y llamó a sus hermanos a comer pan: y comieron pan, y durmieron aquella noche en el monte.
@@ -992,7 +992,7 @@
 32:28 Y él dijo: No se dirá más tu nombre Jacob, sino Israel: porque como un príncipe tienes poder con Dios y con los hombres, y has prevalecido.
 32:29 Entonces Jacob le preguntó, y dijo: Declárame ahora tu nombre. Y él respondió: ¿Por qué preguntas por mi nombre? Y lo bendijo allí.
 32:30 Y llamó Jacob el nombre de aquel lugar, Peniel: porque vi a Dios cara a cara, y fue librada mi alma.
-32:31 El sol salió cuando él había partido de Peniel, y cojeaba de su cadera.
+32:31 Y cuando había pasado Peniel, le salió el sol; y cojeaba de su cadera.
 32:32 Por esto no comen los hijos de Israel, hasta hoy día, del tendón que se contrajo, el cual está en el encaje del muslo: porque tocó a Jacob este sitio de su muslo en el tendón que se contrajo.
 
 33:1 Y alzando Jacob sus ojos miró, y he aquí venía Esaú, y los cuatrocientos hombres con él: entonces repartió él los niños entre Lea y Raquel y las dos siervas.
@@ -1045,14 +1045,14 @@
 34:27 Y los hijos de Jacob vinieron a los muertos, y saquearon la ciudad; por cuanto habían amancillado a su hermana.
 34:28 Tomaron sus ovejas y vacas y sus asnos, y lo que había en la ciudad y en el campo,
 34:29 Y toda su hacienda; se llevaron cautivos a todos sus niños y sus mujeres, y robaron todo lo que había en casa.
-34:30 Entonces dijo Jacob a Simeón y a Leví: Me habéis turbado con hacerme abominable a los moradores de aquella tierra, el Cananeo y el Ferezeo; y teniendo yo pocos hombres, juntarse han contra mí, y me herirán, y seré destruido yo y mi casa.
+34:30 Entonces dijo Jacob a Simeón y a Leví: Me habéis turbado con hacerme abominable a los moradores de esta tierra, el Cananeo y el Ferezeo; y teniendo yo pocos hombres, juntarse han contra mí, y me herirán, y seré destruido yo y mi casa.
 34:31 Y ellos respondieron: ¿Había él de tratar a nuestra hermana como a una ramera?
 
-35:1 Y dijo Dios a Jacob: Levántate, sube a Betel, y te está allí; y haz allí un altar al Dios que te apareció cuando huías de tu hermano Esaú.
+35:1 Y dijo Dios a Jacob: Levántate, sube a Betel, estáte allí; y haz allí un altar al Dios que te apareció cuando huías de tu hermano Esaú.
 35:2 Entonces Jacob dijo a su familia y a todos los que con él estaban: Quitad los dioses ajenos que hay entre vosotros, y limpiaos, y mudad vuestros vestidos.
 35:3 Y levantémonos, y subamos a Betel; y haré allí altar al Dios que me respondió en el día de mi angustia, y ha sido conmigo en el camino que he andado.
 35:4 Así dieron a Jacob todos los dioses ajenos que había en poder de ellos, y los zarcillos que estaban en sus orejas; y Jacob los escondió debajo de una encina, que estaba junto a Siquem.
-35:5 Y se partieron, y el terror de Dios fue sobre las ciudades que había en sus alrededores, y no siguieron tras los hijos de Jacob.
+35:5 Y partieron, y el terror de Dios fue sobre las ciudades que había en sus alrededores, y no siguieron tras los hijos de Jacob.
 35:6 Y llegó Jacob a Luz, que está en tierra de Canaán, (esta es Betel) él y todo el pueblo que con él estaba;
 35:7 Y edificó allí un altar, y llamó el lugar El-Betel, porque allí le había aparecido Dios, cuando huía de su hermano.
 35:8 Entonces murió Débora, ama de Rebeca, y fue sepultada a las raíces de Betel, debajo de una encina: y se llamó su nombre Alon-Bacut.
@@ -1065,7 +1065,7 @@
 35:15 Y llamó Jacob el nombre de aquel lugar donde Dios había hablado con él, Betel.
 35:16 Y partieron de Betel, y había aún como media legua de tierra para llegar a Efrata, cuando parió Raquel, y hubo trabajo en su parto.
 35:17 Y aconteció, que como había trabajo en su parir, le dijo la partera: No temas, que también tendrás este hijo.
-35:18 Y acaeció que al salírsele el alma, (pues murió) llamó su nombre Benoni; más su padre lo llamó Benjamín.
+35:18 Y acaeció que al salírsele el alma, (pues murió) llamó su nombre Benoni; mas su padre lo llamó Benjamín.
 35:19 Así murió Raquel, y fue sepultada en el camino de Efrata, la cual es Belem.
 35:20 Y puso Jacob un título sobre su sepultura: este es el título de la sepultura de Raquel hasta hoy.
 35:21 Y partió Israel, y tendió su tienda de la otra parte de Migdaleder.
@@ -1169,7 +1169,7 @@
 38:8 Entonces Judá dijo a Onán: Entra a la mujer de tu hermano, y despósate con ella, y suscita simiente a tu hermano.
 38:9 Y sabiendo Onán que la simiente no había de ser suya, sucedía que cuando entraba a la mujer de su hermano vertía en tierra, por no dar simiente a su hermano.
 38:10 Y desagradó en ojos del SEÑOR lo que hacía, y también quitó a él la vida.
-38:11 Y Judá dijo a Tamar su nuera: Quédate viuda en casa de tu padre, hasta que crezca Sela mi hijo; porque dijo: Que quizá no muera él también como sus hermanos. Y se fue Tamar, y se estuvo en casa de su padre.
+38:11 Y Judá dijo a Tamar su nuera: Estáte viuda en casa de tu padre, hasta que crezca Sela mi hijo; porque dijo: Que quizá no muera él también como sus hermanos. Y se fue Tamar, y se estuvo en casa de su padre.
 38:12 Y pasaron muchos días, y murió la hija de Súa, mujer de Judá; y Judá se consoló, y subía a los trasquiladores de sus ovejas a Timnat, él y su amigo Hira el Adulamita.
 38:13 Y fue dado aviso a Tamar, diciendo: He aquí tu suegro sube a Timnat a trasquilar sus ovejas.
 38:14 Entonces quitó ella de sobre sí los vestidos de su viudez, y se cubrió con un velo, y se arrebozó, y se puso a la puerta de las aguas que están junto al camino de Timnat: porque veía que había crecido Sela, y ella no era dada a él por mujer.
@@ -1280,7 +1280,7 @@
 41:40 Tú serás sobre mi casa, y por tu dicho se gobernará todo mi pueblo: solamente en el trono seré yo mayor que tú.
 41:41 Dijo más Faraón a José: He aquí yo te he puesto sobre toda la tierra de Egipto.
 41:42 Entonces Faraón quitó su anillo de su mano, y púsolo en la mano de José, e le hizo vestir de ropas de lino finísimo, y puso un collar de oro en su cuello;
-41:43 E lo hizo subir en su segundo carro, y pregonaron delante de él: Doblad la rodilla: y le puso sobre toda la tierra de Egipto.
+41:43 Y lo hizo subir en su segundo carro, y pregonaron delante de él: Doblad la rodilla: y le puso sobre toda la tierra de Egipto.
 41:44 Y dijo Faraón a José: Yo Faraón; y sin ti ninguno alzará su mano ni su pie en toda la tierra de Egipto.
 41:45 Y llamó Faraón el nombre de José, Zafnat-paaneah; y le dio por mujer a Asenat, hija de Potifera, sacerdote de On. Y salió José por toda la tierra de Egipto.
 41:46 Y era José de edad de treinta años cuando fue presentado delante de Faraón, rey de Egipto: y salió José de delante de Faraón, y transitó por toda la tierra de Egipto.
@@ -1291,7 +1291,7 @@
 41:51 Y llamó José el nombre del primogénito Manasés; porque Dios (dijo) me hizo olvidar todo mi trabajo, y toda la casa de mi padre.
 41:52 Y el nombre del segundo lo llamó Efraím; porque Dios (dijo) me hizo fértil en la tierra de mi aflicción.
 41:53 Y se cumplieron los siete años de la hartura, que hubo en la tierra de Egipto.
-41:54 Y comenzaron a venir los siete años del hambre, como José había dicho: y hubo hambre en todos los países, más en toda la tierra de Egipto había pan.
+41:54 Y comenzaron a venir los siete años del hambre, como José había dicho: y hubo hambre en todos los países, mas en toda la tierra de Egipto había pan.
 41:55 Y cuando se sintió el hambre en toda la tierra de Egipto, el pueblo clamó a Faraón por pan. Y dijo Faraón a todos los Egipcios: Id a José, y haced lo que él os dijere.
 41:56 Y el hambre estaba por toda la extensión del país. Entonces abrió José todo granero donde había, y vendía a los Egipcios; porque había crecido el hambre en la tierra de Egipto.
 41:57 Y toda la tierra venía a Egipto para comprar de José, porque por toda la tierra había crecido el hambre.
@@ -1301,11 +1301,11 @@
 42:3 Y descendieron los diez hermanos de José a comprar trigo a Egipto.
 42:4 Mas Jacob no envió a Benjamín hermano de José con sus hermanos; porque dijo: No sea acaso que le acontezca algún desastre.
 42:5 Y vinieron los hijos de Israel a comprar entre los que venían: porque había hambre en la tierra de Canaán.
-42:6 Y José era el señor de la tierra, que vendía a todo el pueblo de la tierra: y llegaron los hermanos de José, e se inclinaron a él rostro por tierra.
-42:7 Y José como vio a sus hermanos, los conoció; más hizo que no los conocía, y habló ásperamente, y les dijo: ¿De dónde habéis venido? Ellos respondieron: De la tierra de Canaán a comprar alimentos.
+42:6 Y José era el señor de la tierra, que vendía a todo el pueblo de la tierra: y llegaron los hermanos de José, y se inclinaron a él rostro por tierra.
+42:7 Y José como vio a sus hermanos, los conoció; mas hizo que no los conocía, y habló ásperamente, y les dijo: ¿De dónde habéis venido? Ellos respondieron: De la tierra de Canaán a comprar alimentos.
 42:8 José, pues, conoció a sus hermanos; pero ellos no le conocieron.
 42:9 Entonces se acordó José de los sueños que había tenido de ellos, y les dijo: Espías sois; por ver lo descubierto del país habéis venido.
-42:10 Y ellos le respondieron: No, señor mío: más tus siervos han venido a comprar alimentos.
+42:10 Y ellos le respondieron: No, señor mío: mas tus siervos han venido a comprar alimentos.
 42:11 Todos nosotros somos hijos de un varón: somos hombres de verdad: tus siervos nunca fueron espías.
 42:12 Y él les dijo: No; a ver lo descubierto del país habéis venido.
 42:13 Y ellos respondieron: Tus siervos somos doce hermanos, hijos de un varón en la tierra de Canaán; y he aquí el menor está hoy con nuestro padre, y otro no parece.
@@ -1370,7 +1370,7 @@
 43:33 Y se sentaron delante de él, el mayor conforme a su mayoría, y el menor conforme a su menoría; y estaban aquellos hombres atónitos mirándose el uno al otro.
 43:34 Y él tomó viandas de delante de sí para ellos; mas la porción de Benjamín era cinco veces como cualquiera de las de ellos. Y bebieron, y se alegraron con él.
 
-44:1 Y mandó José al mayordomo de su casa, diciendo: Hinche los costales de aquellos varones de alimentos, cuanto pudieren llevar, y pon el dinero de cada uno en la boca de su costal:
+44:1 Y mandó José al mayordomo de su casa, diciendo: Hinche los costales de estos varones de alimentos, cuanto pudieren llevar, y pon el dinero de cada uno en la boca de su costal:
 44:2 Y pondrás mi copa, la copa de plata, en la boca del costal del menor, con el dinero de su trigo. Y él hizo como dijo José.
 44:3 Venida la mañana, los hombres fueron despedidos con sus asnos.
 44:4 Habiendo ellos salido de la ciudad, de la que aún no se habían alejado, dijo José a su mayordomo: Levántate, y sigue a esos hombres; y cuando los alcanzares, diles: ¿Por qué habéis vuelto mal por bien?
@@ -1425,7 +1425,7 @@
 45:18 Y tomad a vuestro padre y vuestras familias, y venid a mí, que yo os daré lo bueno de la tierra de Egipto y comeréis la grosura de la tierra.
 45:19 Y tú manda: Haced esto: tomaos de la tierra de Egipto carros para vuestros niños y vuestras mujeres; y tomad a vuestro padre, y venid.
 45:20 Y no se os dé nada de vuestras alhajas, porque el bien de la tierra de Egipto será vuestro.
-45:21 E lo hicieron así los hijos de Israel: y les dio José carros conforme a la orden de Faraón, y les suministró víveres para el camino.
+45:21 Y lo hicieron así los hijos de Israel: y les dio José carros conforme a la orden de Faraón, y les suministró víveres para el camino.
 45:22 A cada uno de todos ellos dio mudas de vestidos, y a Benjamín dio trescientas piezas de plata, y cinco mudas de vestidos.
 45:23 Y a su padre envió esto: diez asnos cargados de lo mejor de Egipto, y diez asnas cargadas de trigo, y pan y comida para su padre en el camino.
 45:24 Y despidió a sus hermanos, y se fueron. Y él les dijo: No riñáis por el camino.
@@ -1434,7 +1434,7 @@
 45:27 Y ellos le contaron todas las palabras de José, que él les había hablado; y viendo él los carros que José enviaba para llevarlo, el espíritu de Jacob su padre revivió.
 45:28 Entonces dijo Israel: Basta: José mi hijo vive todavía: iré, y le veré antes que yo muera.
 
-46:1 Y se partió Israel con todo lo que tenía, y vino a Beerseba, y ofreció sacrificios al Dios de su padre Isaac.
+46:1 Y partió Israel con todo lo que tenía, y vino a Beerseba, y ofreció sacrificios al Dios de su padre Isaac.
 46:2 Y habló Dios a Israel en visiones de noche, y dijo: Jacob, Jacob. Y él respondió: Heme aquí.
 46:3 Y dijo: Yo soy Dios, el Dios de tu padre; no temas de descender a Egipto, porque yo te pondré allí en gran gente.
 46:4 Yo descenderé contigo a Egipto, y yo también te haré volver: y José pondrá su mano sobre tus ojos.
@@ -1513,7 +1513,7 @@
 48:10 Y los ojos de Israel estaban tan agravados de la vejez, que no podía ver. Les hizo, pues, llegar a él, y él los besó y abrazó.
 48:11 Y dijo Israel a José: No pensaba yo ver tu rostro, y he aquí Dios me ha hecho ver también tu simiente.
 48:12 Entonces José los sacó de entre sus rodillas, e se inclinó a tierra.
-48:13 Y los tomo José a ambos, Efraím a su diestra, a la siniestra de Israel; y a Manasés a su izquierda, a la derecha de Israel; e les hizo llegar a él.
+48:13 Y los tomo José a ambos, Efraím a su diestra, a la siniestra de Israel; y a Manasés a su izquierda, a la derecha de Israel; y les hizo llegar a él.
 48:14 Entonces Israel extendió su diestra, y la puso sobre la cabeza de Efraím, que era el menor, y su siniestra sobre la cabeza de Manasés, colocando así sus manos adrede, aunque Manasés era el primogénito.
 48:15 Y bendijo a José, y dijo: El Dios en cuya presencia anduvieron mis padres Abraham e Isaac, el Dios que me mantiene desde que yo soy hasta este día,
 48:16 El Ángel que me liberta de todo mal, bendiga a estos mozos: y mi nombre sea llamado en ellos, y el nombre de mis padres Abraham e Isaac: y multipliquen en gran manera en medio de la tierra.
@@ -1521,7 +1521,7 @@
 48:18 Y dijo José a su padre: No así, padre mío, porque éste es el primogénito; pon tu diestra sobre su cabeza.
 48:19 Mas su padre no quiso, y dijo: Lo sé, hijo mío, lo sé: también él vendrá a ser un pueblo, y será también acrecentado; pero su hermano menor será más grande que él, y su simiente será plenitud de gentes.
 48:20 Y los bendijo aquel día, diciendo: En ti bendecirá Israel, diciendo: Te ponga Dios como a Efraím y como a Manasés. Y puso a Efraím delante de Manasés.
-48:21 Y dijo Israel a José: He aquí, yo muero, más Dios será con vosotros, y os hará volver a la tierra de vuestros padres.
+48:21 Y dijo Israel a José: He aquí, yo muero, mas Dios será con vosotros, y os hará volver a la tierra de vuestros padres.
 48:22 Y yo te he dado a ti una parte sobre tus hermanos, la cual tomé yo de mano del Amorreo con mi espada y con mi arco.
 
 49:1 Y llamó Jacob a sus hijos, y dijo: Juntaos, y os declararé lo que os ha de acontecer en los postreros días.
@@ -1577,10 +1577,10 @@
 50:17 Así diréis a José: Te ruego que perdones ahora la maldad de tus hermanos y su pecado, porque mal te trataron: por tanto ahora te rogamos que perdones la maldad de los siervos del Dios de tu padre. Y José lloró mientras hablaban.
 50:18 Y vinieron también sus hermanos, y se postraron delante de él, y dijeron: Henos aquí por tus siervos.
 50:19 Y les respondió José: No temáis: ¿estoy yo en lugar de Dios?
-50:20 Vosotros pensasteis mal sobre mí, más Dios lo encaminó a bien, para hacer lo que vemos hoy, para mantener en vida a mucho pueblo.
+50:20 Vosotros pensasteis mal sobre mí, mas Dios lo encaminó a bien, para hacer lo que vemos hoy, para mantener en vida a mucho pueblo.
 50:21 Ahora, pues, no tengáis miedo; yo os sustentaré a vosotros y a vuestros hijos. Así los consoló, y les habló al corazón.
 50:22 Y estuvo José en Egipto, él y la casa de su padre: y vivió José ciento diez años.
 50:23 Y vio José los hijos de Efraím hasta la tercera generación: también los hijos de Maquir, hijo de Manasés, fueron criados sobre las rodillas de José.
-50:24 Y José dijo a sus hermanos: Yo me muero; más Dios ciertamente os visitará, y os hará subir de aquella tierra a la tierra que juró a Abraham, a Isaac, y a Jacob.
+50:24 Y José dijo a sus hermanos: Yo me muero; mas Dios ciertamente os visitará, y os hará subir de aquella tierra a la tierra que juró a Abraham, a Isaac, y a Jacob.
 50:25 Y conjuró José a los hijos de Israel, diciendo: Dios ciertamente os visitará, y haréis llevar de aquí mis huesos.
 50:26 Y murió José de edad de ciento diez años; y lo embalsamaron, y fue puesto en un ataúd en Egipto.
