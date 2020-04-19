@@ -1,5 +1,5 @@
 # bible-to-json
-Convierte un archivo de texto que contiene un capitulo de la biblia a formato Json.
+Convierte un archivo de texto que contiene los capitulos de la biblia a formato Json.
 
 
 ## Formato del archivo de texto
@@ -19,7 +19,7 @@ Las cabeceras contienen información relevante del libro.
 ```
 
 ### 2. Cuerpo
-Esto son versículos de cada capitulo del libro.
+Esto son versículos de cada capitulo del libro. (recuerde no dejar lineas vacias despues del ultimo versiculo del capitulo).
 
 - **Id:** este contiene el número del capítulo y del versículo separados por ':'.
 - **Texto del versículo:** contenido del versículo.
