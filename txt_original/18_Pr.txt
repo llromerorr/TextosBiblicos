@@ -1,0 +1,5 @@
+#title Proverbios
+#description Descripcion
+#abbreviation 18_Pr
+
+1:1 Sin contenido
