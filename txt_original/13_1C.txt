@@ -1,6 +1,6 @@
 #title 1 Crónicas
 #description Descripcion
-#abbreviation 11_1C
+#abbreviation 13_1C
 
 1:1 ADAM, Set, Enos,
 1:2 Cainán, Mahalaleel, Jared,

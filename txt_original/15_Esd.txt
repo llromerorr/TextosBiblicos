@@ -1,6 +1,6 @@
 #title Esdras
 #description Descripcion
-#abbreviation 13_Esd
+#abbreviation 15_Esd
 
 1:1 Y EN el primer año de Ciro rey de Persia, para que se cumpliese la palabra del SEÑOR por boca de Jeremías, excitó el SEÑOR el espíritu de Ciro rey de Persia, el cual hizo pasar pregón por todo su reino, y también por escrito, diciendo:
 1:2 Así ha dicho Ciro rey de Persia: el SEÑOR Dios del cielo me ha dado todos los reinos de la tie­rra, y me ha mandado que le edi­fique casa en Jerusalem, que está en Judá.

@@ -1,6 +1,6 @@
 #title Salmos
 #description Descripcion
-#abbreviation 17_Sal
+#abbreviation 19_Sal
 
 1:1 BIENAVENTURADO el varón que no anduvo en consejo de malos, ni estuvo en camino de pecadores, ni en silla de escarnecedores se ha sentado;
 1:2 Antes en la ley del SEÑOR está su delicia, y en su ley medi­ta de día y de noche.

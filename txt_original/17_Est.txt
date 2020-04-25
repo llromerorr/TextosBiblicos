@@ -1,6 +1,6 @@
 #title Ester
 #description Descripcion
-#abbreviation 15_Est
+#abbreviation 17_Est
 
 1:1 Y ACONTECIÓ en los días de Asuero, (el Asuero que reinó desde la India hasta la Etiopía sobre ciento veinte y siete provincias,)
 1:2 Que en aquellos días, asentado que fue el rey Asuero en la silla de su reino, la cual estaba en Susán capital del reino,

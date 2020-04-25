@@ -1,6 +1,6 @@
 #title Job
 #description Descripcion
-#abbreviation 16_Job
+#abbreviation 18_Job
 
 1:1 HUBO un varón en tierra de Uz, llamado Job; y era este hombre perfecto y recto, y temeroso de Dios, y apartado del mal.
 1:2 Y naciéronle siete hijos y tres hijas.
