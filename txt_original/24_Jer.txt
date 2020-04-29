@@ -1,6 +1,6 @@
 #title Jeremías
 #description Descripcion
-#abbreviation 23_Jer
+#abbreviation 24_Jer
 
 1:1 LAS palabras de Jeremías hijo de Hilquías, de los sacerdotes que estuvieron en Anatot, en tierra de Benjamín.
 1:2 La palabra del SEÑOR que vino a él en los días de Josías hijo de Amón, rey de Judá, en el año décimotercio de su reinado.
