@@ -1,0 +1,903 @@
+#title Juan
+#description Descripcion
+#abbreviation 43_Jn
+
+1:1 EN el principio era la Palabra, y la Palabra era con Dios, y la Palabra era Dios.
+1:2 Él era en el principio con Dios.
+1:3 Todas las cosas por él fueron hechas; y sin él nada de lo que es hecho, fue hecho.
+1:4 En él era la vida; y la vida era la Luz de los hombres.
+1:5 Y la Luz en las tinieblas resplandece; y las tinieblas no la comprendieron.
+1:6 Fue un hombre enviado de Dios, el cual se llamaba Juan.
+1:7 Éste vino por testimonio, para que diese testimonio de la Luz, para que por él todos creyesen.
+1:8 Él no era la Luz; mas fue enviado para que diese testimonio de la Luz.
+1:9 Aquél era la Luz verdadera, que alumbra a todo hombre que viene en este mundo.
+1:10 En el mundo estaba, y el mundo fue hecho por él, y el mundo no le conoció.
+1:11 A lo suyo vino, y los suyos no le recibieron.
+1:12 Mas a todos los que le recibieron, dióles potestad de ser hechos hijos de Dios, a los que creen en su nombre:
+1:13 Los cuales nacieron, no de sangre, ni de voluntad de la carne, ni de voluntad de hombre, sino de Dios.
+1:14 Y la Palabra fue hecha carne, y habitó entre nosotros (y vimos su gloria, gloria como del unigénito del Padre), lleno de gracia y de verdad.
+1:15 Juan dio testimonio de él, y clamó, diciendo: Éste era aquél de quien yo decía: El que viene tras mí es preferido antes que yo; porque era primero que yo.
+1:16 Y de su plenitud todos nosotros hemos recibido, y gracia por gracia.
+1:17 Porque la ley fue dada por Moisés, mas la gracia y la verdad vino por Jesu Cristo.
+1:18 Nadie jamás ha visto a Dios; el unigénito Hijo que está en el seno del Padre, él lo ha declarado.
+1:19 Y éste es el testimonio de Juan, cuando los Judíos enviaron de Jerusalem sacerdotes y Levitas, que le preguntasen: ¿Tú, quién eres?
+1:20 Y confesó, y no negó; mas confesó: Yo no soy el Cristo.
+1:21 Y le preguntaron: ¿Qué pues? ¿Eres tú Elias? Dijo: No soy. ¿Eres tú el profeta? Y respondió: No.
+1:22 Entonces ellos le dijeron: ¿Quién eres? para que podamos dar una respuesta a los que nos enviaron. ¿Qué dices de ti mismo?
+1:23 Él dijo: Yo soy la voz del que clama en el desierto: Enderezad el camino del Señor, como dijo el profeta Isaías.
+1:24 Y los que habían sido enviados eran de los Fariseos.
+1:25 Y ellos le preguntaron, y le dijeron: ¿Por qué pues bautizas, si tú no eres el Cristo, ni Elías, ni aquel profeta?
+1:26 Juan les respondió, diciendo: Yo bautizo en agua; mas en medio de vosotros está de pie uno, a quien vosotros no conocéis:
+1:27 Éste es el que viniendo después de mí, el cual es preferido antes que yo, del cual yo no soy digno de desatar la correa de zapato.
+1:28 Estas cosas fueron hechas en Betábara de la otra parte del Jordán, donde Juan estaba bautizando.
+1:29 El siguiente día ve Juan a Jesús que venía a él, y dice: He aquí el Cordero de Dios, que quita el pecado del mundo.
+1:30 Éste es aquel de quien yo dije: Tras mí viene un varón el cual es preferido antes que yo, porque era primero que yo.
+1:31 Y yo no le conocía; mas para que fuese manifestado a Israel, por eso vine yo bautizando en agua.
+1:32 Y Juan dio testimonio, diciendo: Vi al Espíritu descendiendo del cielo como paloma, y reposó sobre él.
+1:33 Y yo no le conocía; mas el que me envió a bautizar en agua, éste me dijo: Sobre aquel que vieres descender el Espíritu, y reposar sobre él, éste es el que bautiza con el Espíritu Santo.
+1:34 Y yo vi, y di testimonio, que éste es el Hijo de Dios.
+1:35 El siguiente día otra vez estaba Juan de pie, y dos de sus discípulos.
+1:36 Y mirando a Jesús que andaba por allí, dice: He aquí el Cordero de Dios.
+1:37 Y oyéronle los dos discípulos hablar, y siguieron a Jesús.
+1:38 Entonces Jesús se volvió y viéndoles que le seguían, les dice: ¿Qué buscáis? Y ellos le dijeron: Rabí, (que interpretado, quiere decir, Maestro), ¿dónde moras?
+1:39 Díceles: Venid, y ved. Vinieron, y vieron donde moraba; y quedáronse con él aquel día; porque era como la hora décima.
+1:40 Uno de los dos que habían oído a Juan, y le siguieron, era Andrés, hermano de Simón Pedro.
+1:41 Éste halla primero a su propio hermano Simón, y le dice: Hemos hallado al Mesías, que interpretado es, el Cristo.
+1:42 Y le trajo a Jesús. Y mirándole Jesús, dijo: Tú eres Simón, hijo de Jonás: tú serás llamado Cefas, que interpretado es, Piedra.
+1:43 El día siguiente quiso Jesús ir a Galilea, y halla a Felipe; y le dice: Sígueme.
+1:44 Y Felipe era de Betsaida, la ciudad de Andrés y de Pedro.
+1:45 Felipe halla a Natanael, y le dice: Hemos hallado a aquel de quien escribió Moisés en la ley, y los profetas: Jesús de Nazaret, el hijo de José.
+1:46 Y le dijo Natanael: ¿De Nazaret puede salir alguna cosa buena? Dícele Felipe: Ven, y ve.
+1:47 Jesús vio venir a sí a Natanael, y dice de él: He aquí un verdadero Israelita, en el cual no hay engaño.
+1:48 Dícele Natanael: ¿De dónde me conoces? Respondióle Jesús, y le dijo: Antes que Felipe te llamara, cuando estabas debajo de la higuera, te vi.
+1:49 Respondió Natanael, y le dijo: Rabí, tú eres el Hijo de Dios; tú eres el Rey de Israel.
+1:50 Respondió Jesús, y le dijo: ¿Porque te dije: Te vi debajo de la higuera, crees? cosas mayores que estas verás.
+1:51 Y le dice: De cierto, de cierto os digo: De aquí adelante veréis el cielo abierto, y los ángeles de Dios subiendo y descendiendo sobre el Hijo del hombre.
+
+2:1 Y AL tercer día hubo una boda en Caná de Galilea; y estaba allí la madre de Jesús.
+2:2 Y fue también llamado Jesús, y sus discípulos a la boda.
+2:3 Y cuando faltó el vino, la madre de Jesús le dijo: No tienen vino.
+2:4 Y le dice Jesús: ¿Qué tengo yo que ver contigo mujer? Aún no ha venido mi hora.
+2:5 Su madre dice a los que servían: Haced todo lo que él os dijere.
+2:6 Y estaban puestas allí seis tinajas de piedra para agua, conforme a la purificación de los Judíos, que cabía en cada una dos o tres cántaros.
+2:7 Díceles Jesús: Llenad estas tinajas de agua. Y las llenaron hasta arriba.
+2:8 Y díceles: Sacad ahora, y llevad al maestresala. Y lleváronselo.
+2:9 Y cuando el maestresala gustó el agua hecha vino, y no sabía de dónde era (mas lo sabían los siervos que habían sacado el agua), el maestresala llama al desposado,
+2:10 Y le dice: Todo hombre pone primero el buen vino; y cuando han bebido bien, entonces lo que es peor; mas tú has guardado el buen vino hasta ahora.
+2:11 Este principio de milagros hizo Jesús en Caná de Galilea, y manifestó su gloria; y sus discípulos creyeron en él.
+2:12 Después de esto descendió a Capernaum, él, y su madre, y sus hermanos, y sus discípulos, y estuvieron allí no muchos días.
+2:13 Y estaba cerca la pascua de los Judíos, y subió Jesús a Jerusalem.
+2:14 Y halló en el templo a los que vendían bueyes, y ovejas, y palomas, y a los cambiadores de dinero sentados.
+2:15 Y cuando hubo hecho un azote de cuerdas, echólos a todos del templo, y las ovejas, y los bueyes, y derramó los dineros de los cambiadores, y trastornó las mesas.
+2:16 Y a los que vendían las palomas dijo: Quitad de aquí estas cosas, y no hagáis la casa de mi Padre casa de mercadería.
+2:17 Entonces se acordaron sus discípulos que estaba escrito: El celo de tu casa me ha comido.
+2:18 Y los Judíos respondieron, y le dijeron: ¿Qué señal nos muestras, siendo así que tú haces estas cosas?
+2:19 Respondió Jesús, y les dijo: Destruid este templo, y en tres días yo lo levantaré.
+2:20 Dijeron luego los Judíos: En cuarenta y seis años fue este templo edificado, ¿Y tú en tres días lo levantarás?
+2:21 Mas él hablaba del templo de su cuerpo.
+2:22 Por tanto cuando resucitó de los muertos, sus discípulos se acordaron que les había dicho esto, y creyeron a la Escritura, y a la palabra que Jesús había dicho.
+2:23 Y estando él en Jerusalem en la pascua, en el día de la fiesta, muchos creyeron en su nombre, viendo los milagros que hacía.
+2:24 Mas el mismo Jesús no se confiaba a sí mismo de ellos, porque él conocía a todos,
+2:25 Y no tenía necesidad que nadie le diese testimonio del hombre; porque él sabía lo que había en el hombre.
+
+3:1 Y HABÍA un hombre de los Fariseos que se llamaba Nicodemo, príncipe de los Judíos.
+3:2 Este vino a Jesús de noche, y le dijo: Rabí, nosotros sabemos que tú eres un maestro venido de Dios; porque nadie puede hacer estos milagros que tú haces, si no estuviere Dios con él.
+3:3 Respondió Jesús, y le dijo: De cierto, de cierto te digo, que el que no naciere otra vez, no puede ver el reino de Dios.
+3:4 Dícele Nicodemo: ¿Cómo puede el hombre nacer, siendo viejo? ¿puede entrar segunda vez en el vientre de su madre, y nacer?
+3:5 Respondió Jesús: De cierto, de cierto te digo, que el que no naciere de agua y del Espíritu, no puede entrar en el reino de Dios.
+3:6 Lo que es nacido de la carne, carne es; y lo que es nacido del Espíritu, espíritu es.
+3:7 No te maravilles de que te dije: Os es menester nacer otra vez.
+3:8 El viento de donde quiere sopla; y oyes su sonido, mas ni sabes de dónde viene, ni a dónde va: así es todo aquel que es nacido del Espíritu.
+3:9 Respondió Nicodemo, y le dijo: ¿Cómo pueden estas cosas hacerse?
+3:10 Respondió Jesús, y le dijo: ¿Tú eres un maestro de Israel, y no sabes estas cosas?
+3:11 De cierto, de cierto te digo, que lo que sabemos hablamos; y testificamos lo que hemos visto, y vosotros no recibís nuestro testimonio.
+3:12 Si os he dicho cosas terrenales, y no creéis: ¿cómo creeréis, si os dijere cosas celestiales?
+3:13 Y nadie subió al cielo, sino el que descendió del cielo, es a saber, el Hijo del hombre, que está en el cielo.
+3:14 Y como Moisés levantó la serpiente en el desierto, así también es menester que el Hijo del hombre sea levantado;
+3:15 Para que todo aquel que en él cree, no perezca, mas tenga vida eterna.
+3:16 Porque de tal manera amó Dios al mundo, que dio a su Hijo unigénito; para que todo aquel que en él cree, no perezca, mas tenga vida eterna.
+3:17 Porque no envió Dios a su Hijo al mundo, para condenar al mundo; sino para que el mundo sea salvo por él.
+3:18 El que en él cree, no es condenado; mas el que no cree, ya es condenado; porque no ha creído en el nombre del unigénito Hijo de Dios.
+3:19 Y ésta es la condenación, que la luz ha venido al mundo, y los hombres amaron más las tinieblas que la luz; porque sus obras eran malas.
+3:20 Porque todo aquel que hace lo malo, aborrece la luz, y no viene a la luz, porque sus obras no sean redargüidas.
+3:21 Mas el que obra verdad, viene a la luz, para que sus obras sean manifiestas, que son hechas en Dios.
+3:22 Después de estas cosas, vino Jesús y sus discípulos a la tierra de Judea; y estaba allí con ellos, y bautizaba.
+3:23 Y estaba bautizando también Juan en Enón junto a Salim, porque había allí muchas aguas; y venían, y eran bautizados.
+3:24 Porque aún Juan no había sido echado en la cárcel.
+3:25 Y se movió una cuestión entre algunos de los discípulos de Juan y los Judíos acerca de la purificación.
+3:26 Y vinieron a Juan, y le dijeron: Rabí, el que estaba contigo de la otra parte del Jordán, del cual tú diste testimonio, he aquí, éste bautiza, y todos vienen a él.
+3:27 Respondió Juan, y dijo: No puede el hombre recibir nada si no le fuere dado del cielo.
+3:28 Vosotros mismos me sois testigos que dije: Yo no soy el Cristo; mas soy enviado delante de él.
+3:29 El que tiene la desposada, es el desposado; mas el amigo del desposado, que está de pie y le oye, se goza grandemente de la voz del desposado. Así, pues, este mi gozo es cumplido.
+3:30 Es menester que él crezca, mas que yo disminuya.
+3:31 El que de arriba viene, sobre todos es: el que es de la tierra, terreno es, y cosas terrenas habla: el que viene del cielo, sobre todos es.
+3:32 Y lo que ha visto y oído, esto testifica; y nadie recibe su testimonio.
+3:33 El que ha recibido su testimonio, ha puesto su sello a esto, que Dios es verdadero;
+3:34 Porque el que Dios ha enviado, las palabras de Dios habla; porque no le da Dios el Espíritu por medida.
+3:35 El Padre ama al Hijo, y le ha dado todas las cosas en su mano.
+3:36 El que cree en el Hijo tiene vida eterna; mas el que no cree al Hijo no verá la vida; sino que la ira de Dios está sobre él.
+
+4:1 CUANDO, pues, el Señor supo que los Fariseos habían oído que Jesús hacía y bautizaba más discípulos que Juan,
+4:2 (Aunque Jesús mismo no bautizaba, sino sus discípulos,)
+4:3 Dejó a Judea, y se fue otra vez a Galilea.
+4:4 Y era menester que pasase por Samaria.
+4:5 Vino pues a una ciudad de Samaria que se llama Sichar, junto a la heredad que Jacob dio a José su hijo.
+4:6 Y estaba allí el pozo de Jacob. Jesús, pues, cansado del camino, se sentó así sobre el pozo. Era como la hora de sexta.
+4:7 Viene una mujer de Samaria a sacar agua; y Jesús le dice: Dame de beber.
+4:8 (Porque sus discípulos habían ido a la ciudad a comprar de comer.)
+4:9 Y la mujer Samaritana le dice: ¿Cómo tú, siendo Judío, me pides a mí de beber, que soy mujer Samaritana? Porque los Judíos no se tratan con los Samaritanos.
+4:10 Respondió Jesús, y le dijo: Si conocieses el don de Dios, y quién es el que te dice: Dame de beber: tú pedirías de él, y él te daría agua viva.
+4:11 La mujer le dice: Señor, no tienes con qué sacarla, y el pozo es hondo: ¿De dónde, pues, tienes el agua viva?
+4:12 ¿Eres tú mayor que nuestro padre Jacob, que nos dio este pozo, del cual él bebió, y sus hijos, y sus ganados?
+4:13 Respondió Jesús, y le dijo: Cualquiera que bebiere de esta agua, volverá a tener sed;
+4:14 Mas el que bebiere del agua que yo le daré, por siempre no tendrá sed; mas el agua que yo le daré, será en él fuente de agua, que salte para vida eterna.
+4:15 La mujer le dice: Señor, dame esta agua, para que yo no tenga sed, ni venga acá a sacarla.
+4:16 Jesús le dice: Ve, llama a tu marido, y ven acá.
+4:17 Respondió la mujer, y le dijo: No tengo marido. Dícele Jesús: Bien has dicho: No tengo marido;
+4:18 Porque cinco maridos has tenido; y el que ahora tienes, no es tu marido: esto has dicho con verdad.
+4:19 Dícele la mujer: Señor paréceme que tú eres profeta.
+4:20 Nuestros padres adoraron en este monte, y vosotros decís que en Jerusalem es el lugar donde es menester adorar.
+4:21 Dícele Jesús: Mujer, créeme, que la hora viene, cuando vosotros ni en este monte, ni en Jerusalem adoraréis al Padre.
+4:22 Vosotros adoráis lo que no sabéis: nosotros adoramos lo que sabemos; porque la salvación es de los Judíos.
+4:23 Mas la hora viene, y ahora es, cuando los verdaderos adoradores adorarán al Padre en espíritu y en verdad; porque también el Padre tales busca que le adoren.
+4:24 Dios es un Espíritu, y los que le adoran, es menester que le adoren en espíritu y en verdad.
+4:25 Dícele la mujer: Yo sé que el Mesías ha de venir, el cual se llama Cristo: cuando él viniere, nos declarará todas las cosas.
+4:26 Dícele Jesús: Yo soy, que hablo contigo.
+4:27 Y en esto vinieron sus discípulos, y se maravillaron de que hablaba con la mujer; mas ninguno dijo: ¿Qué buscas? o ¿Por qué hablas con ella?
+4:28 Entonces la mujer dejó su cántaro, y fue a la ciudad, y dice a los hombres:
+4:29 Venid, ved a un hombre que me ha dicho todo cuanto he hecho: ¿no es éste el Cristo?
+4:30 Entonces salieron de la ciudad, y venían a él.
+4:31 Entre tanto los discípulos le rogaban, diciendo: Rabí, come.
+4:32 Y él les dijo: Yo tengo comida que comer, que vosotros no sabéis.
+4:33 Entonces los discípulos decían el uno al otro: ¿Le ha traído alguien de comer?
+4:34 Díceles Jesús: Mi comida es que yo haga la voluntad del que me envió, y que acabe su obra.
+4:35 ¿No decís vosotros, que aún hay cuatro meses y viene la siega? He aquí, yo os digo: Alzad vuestros ojos, y mirad los campos; porque ya están blancos para la siega.
+4:36 Y el que siega recibe salario, y allega fruto para vida eterna; para que también se goce juntamente el que siembra y el que siega.
+4:37 Porque en esto es el dicho verdadero: Que uno es el que siembra, y otro es el que siega.
+4:38 Yo os he enviado a segar lo que vosotros no labrasteis: otros labraron, y vosotros habéis entrado en sus labores.
+4:39 Y muchos de los Samaritanos de aquella ciudad creyeron en él por la palabra de la mujer que daba testimonio: El me dijo todo cuanto he hecho.
+4:40 Así que, cuando vinieron los Samaritanos a él, le rogaron que se quedase allí; y se quedó allí dos días.
+4:41 Y creyeron muchos más por la palabra de él.
+4:42 Y decían a la mujer: Ya no creemos por tu dicho; porque nosotros mismos le hemos oído; y sabemos, que verdaderamente éste es el Cristo, el Salvador del mundo.
+4:43 Y después de dos días salió de allí, y fuese a Galilea.
+4:44 Porque Jesús mismo dio testimonio, que el profeta no tiene honra en su propia tierra.
+4:45 Y cuando vino a Galilea, los Galileos le recibieron, habiendo visto todas las cosas que él hizo en Jerusalem en la fiesta; porque también ellos habían ido a la fiesta.
+4:46 Vino pues Jesús otra vez a Caná de Galilea, donde había hecho el vino del agua. Y había un cierto cortesano, cuyo hijo estaba enfermo en Capernaum.
+4:47 Este, cuando oyó que Jesús venía de Judea a Galilea, fue a él, y le rogaba que descendiese, y sanase su hijo; porque estaba a punto de morir.
+4:48 Entonces Jesús le dijo: Si no viereis señales y maravillas, no creeréis.
+4:49 El cortesano le dijo: Señor, desciende antes que mi hijo muera.
+4:50 Dícele Jesús: Ve, tu hijo vive. Creyó el hombre a la palabra que Jesús le dijo, y se fue.
+4:51 Y como él iba ya descendiendo, sus criados le salieron a recibir, y le dieron nuevas, diciendo: Tu hijo vive.
+4:52 Entonces él les preguntó a qué hora comenzó a estar mejor; y le dijeron: Ayer a la séptima hora le dejó la fiebre.
+4:53 El padre entonces supo, que aquella hora era cuando Jesús le dijo: Tu hijo vive; y creyó él, y toda su casa.
+4:54 Este segundo milagro volvió Jesús a hacer cuando vino de Judea a Galilea.
+
+5:1 DESPUÉS de estas cosas, había una fiesta de los Judíos, y subió Jesús a Jerusalem.
+5:2 Y hay en Jerusalem junto a la puerta de las ovejas un estanque, que en lengua Hebrea es llamado Betesda, el cual tiene cinco pórticos.
+5:3 En éstos estaba echada una grande multitud de enfermos, ciegos, cojos, secos, que estaban esperando el movimiento del agua;
+5:4 Porque un ángel descendía a cierto tiempo al estanque, y revolvía el agua; y el que primero entraba en el estanque, después del movimiento del agua, quedaba sano de cualquier enfermedad que tuviese.
+5:5 Y estaba allí cierto hombre, que había treinta y ocho años que estaba enfermo.
+5:6 Cuando Jesús le vio estar echado, y supo que ya por mucho tiempo había estado enfermo, dícele: ¿Quieres ser sano?
+5:7 Y el enfermo le respondió: Señor, no tengo hombre que cuando el agua fuere revuelta, me meta en el estanque; porque entre tanto que yo vengo, desciende otro antes que yo.
+5:8 Dícele Jesús: Levántate, toma tu lecho, y anda.
+5:9 Y al instante aquel hombre fue sano, y tomó su lecho, y andaba; y era sábado aquel día.
+5:10 Entonces los Judíos decían a aquel que había sido sanado: Sábado es, no te es lícito llevar tu lecho.
+5:11 Respondióles: El que me sanó, él mismo me dijo: Toma tu lecho, y anda.
+5:12 Y le preguntaron entonces: ¿Quién es el hombre que te dijo: Toma tu lecho, y anda?
+5:13 Y el que había sido sanado, no sabía quién fuese; porque Jesús se había apartado de la multitud que estaba en aquel lugar.
+5:14 Después le halló Jesús en el templo, y le dijo: He aquí, has sido sanado: no peques más, porque no te venga alguna cosa peor.
+5:15 El hombre se fue y dio aviso a los Judíos, que Jesús era el que le había sanado.
+5:16 Y por esta causa los Judíos perseguían a Jesús, y procuraban matarle, porque hacía estas cosas en sábado.
+5:17 Y Jesús les respondió: Mi Padre hasta ahora obra, y yo obro.
+5:18 Por esto pues, tanto más procuraban los Judíos matarle; porque no sólo quebrantaba el sábado, mas también decía que Dios era su propio Padre, haciéndose igual a Dios.
+5:19 Respondió pues Jesús, y les dijo: De cierto, de cierto os digo: No puede el Hijo hacer nada de sí mismo, sino lo que viere hacer al Padre; porque todo lo que él hace, esto también hace el Hijo igualmente.
+5:20 Porque el Padre ama al Hijo, y le muestra todas las cosas que él hace; y mayores obras que éstas le mostrará, para que vosotros os maravilléis.
+5:21 Porque como el Padre levanta los muertos, y les da vida, así también el Hijo da vida a los que él quiere.
+5:22 Porque el Padre a nadie juzga, mas todo el juicio ha dado al Hijo;
+5:23 Para que todos honren al Hijo, así como honran al Padre: el que no honra al Hijo, no honra al Padre que le envió.
+5:24 De cierto, de cierto os digo: El que oye mi palabra, y cree al que me envió, tiene vida eterna; y no vendrá a condenación, mas ha pasado de muerte a vida.
+5:25 De cierto, de cierto os digo: Que vendrá la hora, y ahora es, cuando los muertos oirán la voz del Hijo de Dios; y los que oyeren, vivirán.
+5:26 Porque como el Padre tiene vida en sí mismo, así dio también al Hijo que tuviese vida en sí mismo.
+5:27 Y también le dio autoridad de hacer juicio, porque es el Hijo del hombre.
+5:28 No os maravilléis de esto; porque vendrá hora, en la cual todos los que están en los sepulcros oirán su voz;
+5:29 Y saldrán; los que hicieron bien, a resurrección de vida, y los que hicieron mal, a resurrección de condenación.
+5:30 Yo no puedo de mí mismo hacer nada: como oigo, juzgo; y mi juicio es justo, porque no busco mi propia voluntad, mas la voluntad del Padre que me envió.
+5:31 Si yo doy testimonio de mí mismo, mi testimonio no es verdadero.
+5:32 Otro es el que da testimonio de mí; y yo sé que el testimonio que él testifica de mí es verdadero.
+5:33 Vosotros enviasteis a Juan, y él dio testimonio a la verdad.
+5:34 Empero yo no recibo el testimonio de hombre: mas digo estas cosas, para que vosotros seáis salvos.
+5:35 Él era antorcha que ardía, y alumbraba; y vosotros quisisteis regocijaros por un poco en su luz.
+5:36 Mas yo tengo mayor testimonio que el de Juan; porque las obras que el Padre me dio que cumpliese, las mismas obras que yo hago, dan testimonio de mí, que el Padre me haya enviado.
+5:37 Y el Padre mismo, que me envió, ha dado testimonio de mí. Vosotros nunca habéis oído su voz, ni habéis visto su parecer,
+5:38 Ni tenéis su palabra permaneciendo en vosotros; porque al que él envió, a éste vosotros no creéis.
+5:39 Escudriñad las Escrituras; porque a vosotros os parece, que en ellas tenéis la vida eterna; y ellas son las que dan testimonio de mí;
+5:40 Y no queréis venir a mí, para que tengáis vida.
+5:41 Gloria de los hombres no recibo.
+5:42 Mas yo os conozco, que no tenéis el amor de Dios en vosotros mismos.
+5:43 Yo soy venido en nombre de mi Padre, y no me recibís: si otro viniere en su propio nombre, a aquél recibiréis.
+5:44 ¿Cómo podéis vosotros creer, los que recibís gloria los unos de los otros, y no buscáis la gloria que de sólo Dios viene?
+5:45 No penséis que yo os he de acusar delante del Padre: hay quien os acusa, es a saber, Moisés, en quien vosotros esperáis.
+5:46 Porque si vosotros hubieseis creído a Moisés, me habríais creído a mí: porque de mí escribió él.
+5:47 Pero si a sus escritos no creéis, ¿Cómo creeréis a mis palabras?
+
+6:1 DESPUÉS de estas cosas, se fue Jesús a la otra parte del mar de Galilea, que es el mar de Tiberias.
+6:2 Y seguíale grande multitud, porque veían sus milagros que hacía en los enfermos.
+6:3 Subió pues Jesús a un monte, y se sentó allí con sus discípulos.
+6:4 Y estaba cerca la pascua, la fiesta de los Judíos.
+6:5 Y cuando alzó Jesús los ojos, y vio que había venido a él una grande multitud, dice a Felipe: ¿De dónde compraremos pan para que coman éstos?
+6:6 Mas esto decía probándole; porque él sabía lo que había de hacer.
+6:7 Respondióle Felipe: Doscientos denarios de pan no les bastarán, para que cada uno de ellos tome un poco.
+6:8 Dícele uno de sus discípulos, Andrés, hermano de Simón Pedro:
+6:9 Un muchacho está aquí que tiene cinco panes de cebada y dos pececillos; ¿Mas qué es esto entre tantos?
+6:10 Entonces Jesús dijo: Haced sentar los hombres. Y había mucha hierba en aquel lugar; y se sentaron como en número de cinco mil varones.
+6:11 Y tomó Jesús aquellos panes, y habiendo dado gracias, repartió a los discípulos, y los discípulos a los que estaban sentados; y asimismo de los peces cuanto querían.
+6:12 Y cuando estuvieron hartos, dijo a sus discípulos: recoged los pedazos que han sobrado, porque no se pierda nada.
+6:13 Recogieron, pues, y llenaron doce canastos de pedazos de los cinco panes de cebada, que sobraron a los que habían comido.
+6:14 Aquellos hombres entonces, cuando vieron el milagro que Jesús había hecho, decían: Este verdaderamente es el profeta, que había de venir al mundo.
+6:15 Entendiendo entonces Jesús, que habían de venir para arrebatarle, y hacerle rey, volvió a retirarse a un monte, él solo.
+6:16 Y cuando se hizo tarde, descendieron sus discípulos al mar,
+6:17 Y entrando en una nave, iban atravesando el mar hacia Capernaum. Y era ya oscuro, y Jesús no había venido a ellos.
+6:18 Y el mar se comenzó a levantar con un gran viento que soplaba.
+6:19 Y cuando hubieron navegado como veinte y cinco, o treinta estadios, ven a Jesús que andaba sobre el mar, y se acercaba a la nave; y tuvieron miedo.
+6:20 Mas él les dijo: Yo soy: no tengáis miedo.
+6:21 Entonces ellos le recibieron de buena gana en la nave, y la nave llegó inmediatamente a la tierra donde iban.
+6:22 El día siguiente, cuando la gente que estaba de pie al otro lado del mar vio que no había allí otra navecilla sino una, en la cual se habían entrado sus discípulos, y que Jesús no había entrado con sus discípulos en la navecilla, sino que sus discípulos se habían ido solos;
+6:23 Y que otras navecillas habían venido de Tiberias, cerca del lugar donde habían comido el pan, después de haber el Señor dado gracias;
+6:24 Cuando vio pues la gente que Jesús no estaba allí, ni sus discípulos, ellos mismos también entraron en las navecillas, y vinieron a Capernaum buscando a Jesús.
+6:25 Y cuando lo hubieron hallado de la otra parte del mar, dijéronle: Rabí, ¿cuándo llegaste acá?
+6:26 Respondióles Jesús, y dijo: De cierto, de cierto os digo, que me buscáis, no porque visteis los milagros, mas porque comisteis de los panes y fuisteis hartos.
+6:27 Trabajad, no por la comida que perece, mas por la comida que a vida eterna permanece, la cual el Hijo del hombre os dará; porque a éste selló Dios el Padre.
+6:28 Entonces le dijeron; ¿Qué haremos para que obremos las obras de Dios?
+6:29 Respondió Jesús, y les dijo; Ésta es la obra de Dios, que creáis en el que él envió.
+6:30 Dijéronle entonces; ¿Qué señal pues haces tú, para que veamos, y te creamos? ¿Qué obras tú?
+6:31 Nuestros padres comieron el maná en el desierto, como está escrito: Pan del cielo les dio a comer.
+6:32 Entonces Jesús les dijo: De cierto de cierto os digo, no os dio Moisés el pan del cielo, mas mi Padre os da el verdadero pan del cielo.
+6:33 Porque el pan de Dios es aquel que desciende del cielo, y da vida al mundo.
+6:34 Entonces le dijeron: Señor, danos siempre este pan.
+6:35 Y Jesús les dijo: Yo soy el pan de vida: el que a mí viene, nunca tendrá hambre; y el que en mí cree, no tendrá sed jamás.
+6:36 Mas yo os dije, que también me habéis visto y no creéis.
+6:37 Todo lo que el Padre me da, vendrá a mí; y al que a mí viene, de ninguna manera le echaré fuera.
+6:38 Porque he descendido del cielo, no para hacer mi voluntad, sino la voluntad de aquél que me envió.
+6:39 Y ésta es la voluntad del Padre que me envió: Que de todo lo que me ha dado no pierda yo nada, sino que lo resucite en el día postrero.
+6:40 Y ésta es la voluntad de aquél que me envió: Que todo aquel que ve al Hijo, y cree en él, tenga vida eterna; y yo le resucitaré en el día postrero.
+6:41 Murmuraban entonces de él los Judíos, porque había dicho: Yo soy el pan que descendí del cielo.
+6:42 Y decían: ¿No es éste Jesús, el hijo de José cuyo padre y madre nosotros conocemos? ¿Cómo pues dice éste: Yo he descendido del cielo?
+6:43 Jesús pues respondió, y les dijo: No murmuréis entre vosotros.
+6:44 Ninguno puede venir a mí, si el Padre que me envió, no le trajere; y yo le resucitaré en el día postrero.
+6:45 Escrito está en los profetas: Y serán todos enseñados de Dios: Así que, todo aquel que ha oído, y ha aprendido del Padre, viene a mí.
+6:46 No que alguno haya visto al Padre, sino aquel que es de Dios, éste ha visto al Padre.
+6:47 De cierto, de cierto os digo: El que cree en mí, tiene vida eterna.
+6:48 Yo soy el pan de vida.
+6:49 Vuestros padres comieron el maná en el desierto, y son muertos.
+6:50 Éste es el pan que desciende del cielo, para que el que de él comiere, no muera.
+6:51 Yo soy el pan vivo que descendí del cielo: si alguno comiere de este pan, vivirá por siempre; y el pan que yo daré es mi carne, la cual yo daré por la vida del mundo.
+6:52 Entonces los Judíos altercaban entre sí, diciendo: ¿Cómo puede este hombre darnos su carne a comer?
+6:53 Jesús les dijo entonces: De cierto, de cierto os digo: Si no coméis la carne del Hijo del hombre, y bebéis su sangre, no tenéis vida en vosotros.
+6:54 El que come mi carne, y bebe mi sangre, tiene vida eterna; y yo le resucitaré en el día postrero.
+6:55 Porque mi carne es verdaderamente comida, y mi sangre es verdaderamente bebida.
+6:56 El que come mi carne, y bebe mi sangre, en mí permanece, y yo en él.
+6:57 Como me envió el Padre viviente, y yo vivo por el Padre, así también el que me come, él también vivirá por mí.
+6:58 Éste es el pan que descendió del cielo: no como vuestros padres que comieron el maná, y son muertos: el que come de este pan, vivirá eternamente.
+6:59 Estas cosas dijo en la sinagoga, enseñando en Capernaum.
+6:60 Entonces muchos de sus discípulos oyendo esto, dijeron: Dura es esta palabra, ¿Quién la puede oír?
+6:61 Pero sabiendo Jesús en sí mismo que sus discípulos murmuraban de esto, les dijo: ¿Esto os escandaliza?
+6:62 ¿Pues qué si viereis al Hijo del hombre subir a donde estaba primero?
+6:63 El espíritu es el que da vida: la carne de nada aprovecha: las palabras que yo os hablo, espíritu son, y vida son.
+6:64 Mas hay algunos de vosotros que no creen. Porque Jesús desde el principio sabía quiénes eran los que no habían de creer, y quién le había de entregar.
+6:65 Y decía: Por eso os he dicho: Que ninguno puede venir a mí, si no le fuere dado de mi Padre.
+6:66 Desde entonces muchos de sus discípulos volvieron atrás, y ya no andaban más con él.
+6:67 Dijo, pues, Jesús a los doce: ¿Queréis vosotros iros también?
+6:68 Respondióle entonces Simón Pedro: Señor, ¿a quién iremos? tú tienes las palabras de vida eterna.
+6:69 Y nosotros creemos y conocemos, que tú eres el Cristo, el Hijo del Dios viviente.
+6:70 Jesús les respondió: ¿No os he yo escogido doce, y el uno de vosotros es diablo?
+6:71 Y hablaba de Judas Iscariote, hijo de Simón; porque éste era el que le había de entregar, el cual era uno de los doce.
+
+7:1 Y DESPUÉS de estas cosas andaba Jesús en Galilea; porque no quería andar en Judea, porque los Judíos procuraban de matarle.
+7:2 Y estaba cerca la fiesta de los Judíos, llamada, de los tabernáculos.
+7:3 Dijéronle pues sus hermanos: Pásate de aquí, y vete a Judea, para que también tus discípulos vean las obras que haces;
+7:4 Porque ninguno hace las cosas en secreto, y procura él mismo ser conocido en público. Si haces estas cosas, manifiéstate al mundo.
+7:5 Porque ni aun sus hermanos creían en él.
+7:6 Díceles entonces Jesús: Mi tiempo aún no es venido; mas vuestro tiempo siempre es presto.
+7:7 No puede el mundo aborreceros a vosotros; mas a mí me aborrece, porque yo doy testimonio de él, que sus obras son malas.
+7:8 Subid vosotros a esta fiesta: yo no subo aún a esta fiesta; porque mi tiempo no es aún cumplido.
+7:9 Y habiéndoles dicho estas cosas, se quedó en Galilea.
+7:10 Mas cuando sus hermanos hubieron subido, entonces él también subió a la fiesta, no públicamente, mas como en secreto.
+7:11 Entonces los Judíos le buscaban en la fiesta, y decían: ¿Dónde está aquél?
+7:12 Y había grande murmullo acerca de él entre el pueblo; porque unos decían: Buen hombre es; y otros decían; No, antes engaña al pueblo.
+7:13 Mas ninguno hablaba abiertamente de él, por miedo de los Judíos.
+7:14 Y al medio de la fiesta, subió Jesús al templo, y enseñaba.
+7:15 Y maravillábanse los Judíos, diciendo: ¿Cómo sabe este hombre letras, no habiendo aprendido?
+7:16 Respondióles Jesús, y dijo: Mi doctrina no es mía, sino del que me envió.
+7:17 Si alguno quisiere hacer su voluntad, conocerá de la doctrina si es de Dios, o si yo hablo de mí mismo.
+7:18 El que habla de sí mismo, busca su propia gloria: mas el que busca la gloria del que le envió, éste es verdadero, y no hay en él injusticia.
+7:19 ¿No os dio Moisés la ley; y ninguno de vosotros guarda la ley? ¿Por qué me procuráis matar?
+7:20 Respondió el pueblo, y dijo: Demonio tienes: ¿Quién te procura matar?
+7:21 Jesús respondió, y les dijo: Una obra hice, y vosotros todos os maravilláis.
+7:22 Por eso Moisés os dio la circuncisión, (no porque sea de Moisés, sino de los padres,) y en sábado circuncidáis al hombre.
+7:23 Si recibe el hombre la circuncisión en sábado, para que la ley de Moisés no sea quebrantada, ¿Os enojáis conmigo porque en sábado hice sano todo un hombre?
+7:24 No juzguéis según lo que parece, mas juzgad justo juicio.
+7:25 Decían entonces unos de los de Jerusalem: ¿No es éste al que buscan para matarle?
+7:26 Y he aquí, habla públicamente, y no le dicen nada: ¿No saben ciertamente los príncipes, que éste es verdaderamente el Cristo?
+7:27 Mas éste, nosotros sabemos de dónde es; empero cuando viniere el Cristo, nadie sabrá de dónde es.
+7:28 Entonces clamaba Jesús en el templo enseñando, y diciendo: Y a mí me conocéis, y sabéis de dónde yo soy; y no he venido de mí mismo; mas el que me envió es verdadero, al cual vosotros no conocéis.
+7:29 Empero yo le conozco; porque de él yo soy, y él me envió.
+7:30 Entonces procuraban prenderle; mas ninguno echó sobre él la mano, porque aún no había venido su hora.
+7:31 Y del pueblo, muchos creyeron en él, y decían: El Cristo, cuando viniere, ¿hará más milagros que los que éste ha hecho?
+7:32 Los Fariseos oyeron al pueblo que murmuraba de él estas cosas; y los príncipes de los sacerdotes, y los Fariseos enviaron oficiales que le prendiesen.
+7:33 Y Jesús les dijo: Aún un poco de tiempo estoy con vosotros, y después voy al que me envió.
+7:34 Me buscaréis, y no me hallaréis; y donde yo estoy, vosotros no podéis venir.
+7:35 Entonces los Judíos dijeron entre sí: ¿Dónde se ha de ir éste que no le hallaremos? ¿Irá a los dispersos entre los Gentiles, y enseñará a los Gentiles?
+7:36 ¿Qué dicho es éste que dijo: Me buscaréis, y no me hallaréis; y donde yo estoy, vosotros no podéis venir?
+7:37 En el último y grande día de la fiesta, Jesús se puso de pie, y clamaba, diciendo: Si alguno tiene sed, venga a mí, y beba.
+7:38 El que cree en mí, como dice la Escritura, de su vientre correrán ríos de agua viva.
+7:39 (Y esto dijo del Espíritu, que habían de recibir los que creyesen en él; porque aún no había sido dado el Espíritu Santo, porque Jesús aún no había sido glorificado.)
+7:40 Entonces muchos del pueblo cuando oyeron este dicho, decían: Verdaderamente éste es el Profeta.
+7:41 Otros decían: Este es el Cristo. Algunos empero decían: ¿De Galilea ha de venir el Cristo?
+7:42 ¿No ha dicho la Escritura: Que de la simiente de David, y de la aldea de Belem, de donde era David, vendrá el Cristo?
+7:43 Así que había disensión entre el pueblo a causa de él.
+7:44 Y algunos de ellos le querían prender; mas ninguno le echó sobre él las manos.
+7:45 Y los oficiales vinieron a los príncipes de los sacerdotes, y a los Fariseos; y ellos les dijeron: ¿Por qué no le trajisteis?
+7:46 Los oficiales respondieron: Nunca así ha hablado hombre, como este hombre.
+7:47 Entonces los Fariseos les respondieron: ¿Sois también vosotros engañados?
+7:48 ¿Ha creído en él alguno de los príncipes, o de los Fariseos?
+7:49 Mas esta gente común que no sabe la ley, malditos son.
+7:50 Díceles Nicodemo, (el que vino a Jesús de noche, el cual era uno de ellos:)
+7:51 ¿Juzga nuestra ley a hombre alguno, si primero no le oye, y sabe lo que hace?
+7:52 Respondieron y dijéronle: ¿Eres tú también de Galilea? Escudriña, y ve, que de Galilea nunca se levantó profeta.
+7:53 Y se fue cada uno a su casa.
+
+8:1 Y JESÚS se fue al monte de las Olivas.
+8:2 Y muy de mañana vino otra vez al templo y todo el pueblo vino a él, y sentado él los enseñaba.
+8:3 Y entonces los escribas y los Fariseos traen a él una mujer tomada en adulterio; y poniéndola en medio,
+8:4 Dícenle: Maestro, esta mujer ha sido tomada en el hecho mismo adulterando.
+8:5 Y en la ley Moisés nos mandó apedrear a las tales: ¿Tú, pues, qué dices?
+8:6 Mas esto decían tentándole, para poderle acusar; empero Jesús, inclinado hacia abajo, escribía en la tierra con el dedo, como si no los oyera.
+8:7 Y como perseverasen preguntándole, enderezóse, y les dijo: El que de vosotros es sin pecado arroje primero contra ella la piedra.
+8:8 Y volviéndose a inclinar hacia abajo, escribía en tierra.
+8:9 Oyendo pues ellos esto, y reprendidos por su propia conciencia, salíanse uno a uno, comenzando desde los más viejos, hasta los postreros, y quedó solo Jesús, y la mujer que estaba de pie en medio.
+8:10 Y enderezándose Jesús, y no viendo a nadie más que a la mujer, le dijo: ¿Mujer, dónde están los que te acusaban? ¿Ninguno te ha condenado?
+8:11 Y ella dijo: Señor, ninguno. Entonces Jesús le dijo: Ni yo te condeno: vete, y no peques más.
+8:12 Y hablóles Jesús otra vez, diciendo: Yo soy la luz del mundo: el que me sigue, no andará en tinieblas; mas tendrá la luz de vida.
+8:13 Entonces los Fariseos le dijeron: Tú de ti mismo das testimonio: tu testimonio no es verdadero.
+8:14 Respondió Jesús, y les dijo: Aunque yo doy testimonio de mí mismo, mi testimonio es verdadero; porque sé de dónde vine, y a dónde voy; mas vosotros no sabéis de dónde vengo, y a dónde voy.
+8:15 Vosotros según la carne juzgáis; mas yo no juzgo a nadie.
+8:16 Mas si yo juzgo, mi juicio es verdadero; porque no soy yo solo, sino yo, y el Padre que me envió.
+8:17 También está escrito en vuestra ley, que el testimonio de dos hombres es verdadero.
+8:18 Yo soy el que doy testimonio de mí mismo; y da testimonio de mí el Padre que me envió.
+8:19 Entonces le decían: ¿Dónde está tu Padre? Respondió Jesús: Ni a mí me conocéis, ni a mi Padre. Si a mí me conocieseis, a mi Padre también conoceríais.
+8:20 Estas palabras habló Jesús en el lugar del tesoro, enseñando en el templo; y nadie le prendió, porque aún no había venido su hora.
+8:21 Y díjoles otra vez Jesús: Yo me voy, y me buscaréis, y en vuestro pecado moriréis: a donde yo voy, vosotros no podéis venir.
+8:22 Decían entonces los Judíos: ¿Hase de matar a sí mismo, porque dice: A donde yo voy, vosotros no podéis venir?
+8:23 Y les decía: Vosotros sois de abajo, yo soy de arriba: vosotros sois de este mundo, yo no soy de este mundo.
+8:24 Por eso os dije, que moriríais en vuestros pecados; porque si no creyereis que yo soy, en vuestros pecados moriréis.
+8:25 Y decíanle: ¿Tú, quién eres? Entonces Jesús les dijo: El que al principio también os he dicho.
+8:26 Muchas cosas tengo que decir, y que juzgar de vosotros; mas el que me envió, es verdadero; y yo lo que he oído de él, esto hablo en el mundo.
+8:27 Mas no entendieron que él les hablaba del Padre.
+8:28 Díjoles pues Jesús: Cuando levantareis al Hijo del hombre, entonces conoceréis que yo soy, y que nada hago de mí mismo; mas como mi Padre me enseñó, esto hablo.
+8:29 Y el que me envió, conmigo está, no me ha dejado solo el Padre; porque hago siempre las cosas que le agradan a él.
+8:30 Hablando él estas cosas, muchos creyeron en él.
+8:31 Entonces decía Jesús a los Judíos que le habían creído: Si vosotros permanecéis en mi palabra, sois verdaderamente mis discípulos;
+8:32 Y conoceréis la verdad, y la verdad os hará libres.
+8:33 Y respondiéronle: Simiente de Abraham somos, y jamás servimos a nadie: ¿Cómo dices tú: Seréis hechos libres?
+8:34 Jesús les respondió: De cierto, de cierto os digo, que todo aquel que hace pecado, es siervo del pecado.
+8:35 Y el siervo no queda en casa por siempre; mas el Hijo queda por siempre.
+8:36 Así que, si el Hijo os hiciera libres, seréis verdaderamente libres.
+8:37 Yo sé que sois simiente de Abraham; mas procuráis matarme, porque mi palabra no tiene lugar en vosotros.
+8:38 Yo, lo que he visto con mi Padre, hablo; y vosotros lo que habéis visto con vuestro padre, hacéis.
+8:39 Respondieron, y dijéronle: Nuestro padre es Abraham. Díceles Jesús: Si fuerais hijos de Abraham, las obras de Abraham haríais.
+8:40 Empero ahora procuráis matarme, hombre que os ha hablado la verdad, la cual he oído de Dios: no hizo esto Abraham.
+8:41 Vosotros hacéis las obras de vuestro padre. Dijéronle pues: Nosotros no somos nacidos de fornicación: un solo Padre tenemos, que es Dios.
+8:42 Jesús entonces les dijo: Si vuestro Padre fuera Dios, ciertamente me amaríais a mí; porque yo de Dios he salido, y he venido; que no he venido de mí mismo, mas él me envió.
+8:43 ¿Por qué no entendéis mi lenguaje? porque no podéis oír mi palabra.
+8:44 Vosotros de vuestro padre el diablo sois, y los deseos de vuestro padre queréis hacer: Él, homicida era desde el principio; y no permaneció en la verdad; porque no hay verdad en él. Cuando habla mentira, de suyo habla; porque es mentiroso, y padre de mentira.
+8:45 Y porque yo os digo la verdad, no me creéis.
+8:46 ¿Quién de vosotros me redarguye de pecado? Y si digo la verdad, ¿Por qué vosotros no me creéis?
+8:47 El que es de Dios, las palabras de Dios oye: las cuales por tanto no oís vosotros, porque no sois de Dios.
+8:48 Respondieron entonces los Judíos, y dijéronle: ¿No decimos bien nosotros, que tú eres Samaritano, y que tienes demonio?
+8:49 Respondió Jesús: Yo no tengo demonio; antes honro a mi Padre, y vosotros me deshonráis.
+8:50 Y yo no busco mi gloria: hay quien la busque, y juzgue.
+8:51 De cierto, de cierto os digo, si alguno guardare mi palabra, no verá muerte por siempre.
+8:52 Entonces los Judíos le dijeron: Ahora conocemos que tienes demonio: Abraham murió, y los profetas; y tú dices: El que guardare mi palabra, no gustará muerte por siempre.
+8:53 ¿Eres tú mayor que nuestro padre Abraham, el cual murió? y los profetas murieron: ¿Quién te haces a ti mismo?
+8:54 Respondió Jesús: Si yo me glorifico a mí mismo, mi gloria es nada: mi Padre es el que me glorifica: el que vosotros decís, que es vuestro Dios.
+8:55 Mas no le habéis conocido: yo empero le conozco; y si dijere que no le conozco, seré como vosotros, mentiroso; mas le conozco, y guardo su palabra.
+8:56 Abraham vuestro padre se regocijó por ver mi día; y lo vio, y se regocijó.
+8:57 Dijéronle entonces los Judíos: Aún no tienes cincuenta años; ¿Y has visto a Abraham?
+8:58 Díjoles Jesús: De cierto, de cierto os digo, antes que Abraham fuese, Yo soy.
+8:59 Tomaron entonces piedras para arrojarle; mas Jesús se encubrió, y se salió del templo, atravesando por medio de ellos, y así pasó.
+
+9:1 Y PASANDO Jesús, vio a un hombre ciego desde su nacimiento.
+9:2 Y preguntáronle sus discípulos, diciendo: Rabí, ¿quién pecó, éste o sus padres, para que naciese ciego?
+9:3 Respondió Jesús: Ni éste pecó, ni sus padres: sino para que las obras de Dios se manifiesten en él.
+9:4 Es menester que yo obre las obras de aquél que me envió, entre tanto que el día dura: la noche viene, cuando nadie puede obrar.
+9:5 Entre tanto que estoy en el mundo, Yo soy la luz del mundo.
+9:6 Habiendo dicho esto, escupió en tierra; e hizo lodo de la saliva, y untó con el lodo sobre los ojos del ciego,
+9:7 Y le dijo: Ve, lávate en el estanque de Siloé, que interpretado es, Enviado. Se fue pues, y se lavó, y vino viendo.
+9:8 Entonces los vecinos, y los que antes le habían visto que era ciego, decían: ¿No es éste el que se sentaba, y mendigaba?
+9:9 Otros decían: Este es; y otros: Se le parece; mas él decía: Yo soy.
+9:10 Por esto le decían: ¿Cómo te fueron abiertos los ojos?
+9:11 Respondió él, y dijo: Aquel hombre que se llama Jesús, hizo lodo, y me untó los ojos, y me dijo: Ve al estanque de Siloé, y lávate; y yo fui, y me lavé, y recibí la vista.
+9:12 Entonces le dijeron: ¿Dónde está aquél? Dice él: No sé.
+9:13 Llévanle a los Fariseos, al que antes había sido ciego.
+9:14 Y era sábado cuando Jesús había hecho el lodo, y le había abierto los ojos.
+9:15 Y volviéronle a preguntar también los Fariseos, de qué manera había recibido la vista. Él les dijo: Púsome lodo sobre los ojos, y me lavé, y veo.
+9:16 Entonces unos de los Fariseos le decían: Este hombre no es de Dios, porque no guarda el sábado. Y otros decían: ¿Cómo puede un hombre pecador hacer tales milagros? Y había división entre ellos.
+9:17 Vuelven a decir al ciego: ¿Tú, qué dices del que te abrió los ojos? Y él dijo: Que es un profeta.
+9:18 Mas los Judíos no creían de él, que había sido él ciego, y hubiese recibido la vista, hasta que llamaron a los padres del que había recibido la vista.
+9:19 Y preguntáronles, diciendo: ¿Es éste vuestro hijo, el que vosotros decís, que nació ciego? ¿Cómo, pues, ve ahora?
+9:20 Respondiéronles sus padres, y dijeron: Sabemos que éste es nuestro hijo, y que nació ciego:
+9:21 Mas cómo vea ahora, no lo sabemos; o quién le haya abierto los ojos, nosotros no lo sabemos: él tiene edad, preguntadle a él, él hablará por sí mismo.
+9:22 Esto dijeron sus padres, porque tenían miedo de los Judíos; porque ya los Judíos habían concluido que si alguno confesase que él era Cristo, que fuese echado fuera de la sinagoga.
+9:23 Por eso dijeron sus padres: Edad tiene, preguntadle a él.
+9:24 Así que volvieron a llamar al hombre que había sido ciego, y le dijeron: Da gloria a Dios: nosotros sabemos que este hombre es pecador.
+9:25 Entonces él respondió, y dijo: Si es pecador o no, yo no lo sé: una cosa sé, que habiendo yo sido ciego, ahora veo.
+9:26 Y volviéronle a decir: ¿Qué te hizo? ¿Cómo te abrió los ojos?
+9:27 Respondióles: Ya os lo he dicho, y no lo habéis oído: ¿Por qué lo queréis otra vez oír? ¿Queréis también vosotros haceros sus discípulos?
+9:28 Entonces le injuriaron, y dijeron: Tú eres su discípulo; mas nosotros discípulos de Moisés somos.
+9:29 Nosotros sabemos que a Moisés habló Dios; mas éste no sabemos de dónde es.
+9:30 Respondióles el hombre, y les dijo: Cierto maravillosa cosa es ésta, que vosotros no sabéis de dónde sea, y a mí me abrió los ojos.
+9:31 Y sabemos que Dios no oye a los pecadores; mas si alguno es adorador de Dios, y hace su voluntad, a éste oye.
+9:32 Desde el principio del mundo no fue oído, que abriese alguno los ojos de uno que nació ciego.
+9:33 Si este hombre no fuera de Dios, no pudiera hacer nada.
+9:34 Respondieron, y le dijeron: En pecados eres nacido todo; ¿y tú nos enseñas? Y echáronle fuera.
+9:35 Oyó Jesús que le habían echado fuera; y hallándole, le dijo: ¿Tú crees en el Hijo de Dios?
+9:36 Respondió él, y dijo: ¿Quién es, Señor, para que crea en él?
+9:37 Y díjole Jesús: Ya le has visto, y el que habla contigo, él es.
+9:38 Y él dijo: Creo, Señor. Y le adoró.
+9:39 Y dijo Jesús: Yo, para juicio he venido a este mundo, para que los que no ven, vean; y para que los que ven, sean cegados.
+9:40 Y oyeron esto algunos de los Fariseos que estaban con él, y le dijeron: ¿Somos nosotros también ciegos?
+9:41 Díjoles Jesús: Si fuerais ciegos, no tuvierais pecado; mas ahora decís: Vemos; por tanto vuestro pecado permanece.
+
+10:1 DE cierto, de cierto os digo, que el que no entra por la puerta en el aprisco de las ovejas, mas sube por otra parte, el tal ladrón es y robador.
+10:2 Mas el que entra por la puerta, el pastor de las ovejas es.
+10:3 A éste abre el portero, y las ovejas oyen su voz; y a sus propias ovejas él llama por nombre, y las saca fuera.
+10:4 Y cuando saca fuera sus propias ovejas, va delante de ellas, y las ovejas le siguen; porque conocen su voz.
+10:5 Mas al extraño no seguirán, antes huirán de él; porque no conocen la voz de los extraños.
+10:6 Esta parábola les dijo Jesús; mas ellos no entendieron qué era lo que les decía.
+10:7 Volvióles pues Jesús a decir: De cierto, de cierto os digo, que yo soy la puerta de las ovejas.
+10:8 Todos los que antes de mí vinieron, ladrones son y robadores, mas no los oyeron las ovejas.
+10:9 Yo soy la puerta: el que por mí entrare, será salvo; y entrará, y saldrá, y hallará pastos.
+10:10 El ladrón no viene sino para hurtar, y matar, y destruir: yo he venido para que tengan vida, y para que la tengan en abundancia.
+10:11 Yo soy el buen Pastor: el buen pastor su vida da por las ovejas.
+10:12 Mas el asalariado, y que no es el pastor, cuyas no son propias las ovejas, ve al lobo que viene, y deja las ovejas, y huye; y el lobo arrebata, y dispersa las ovejas.
+10:13 Así que el asalariado huye, porque es asalariado, y no tiene cuidado de las ovejas.
+10:14 Yo soy el buen Pastor; y conozco mis ovejas, y soy conocido de las mías,
+10:15 Como el Padre me conoce a mí, así yo también conozco al Padre; y pongo mi vida por las ovejas.
+10:16 También tengo otras ovejas que no son de este redil: aquéllas también he de traer, y oirán mi voz; y habrá un rebaño, y un pastor.
+10:17 Por eso me ama mi Padre, porque yo pongo mi vida, para volverla a tomar.
+10:18 Nadie la quita de mí, mas yo la pongo de mí mismo, tengo potestad para ponerla, y tengo potestad para volverla a tomar. Este mandamiento recibí de mi Padre.
+10:19 Y volvió a haber división entre los Judíos por estas palabras.
+10:20 Y muchos de ellos decían: Demonio tiene, y está loco: ¿para qué le oís?
+10:21 Decían otros: Estas palabras no son de endemoniado: ¿Puede el demonio abrir los ojos de los ciegos?
+10:22 Y hacíase la fiesta de la dedicación en Jerusalem, y era invierno.
+10:23 Y Jesús andaba en el templo por el pórtico de Salomón.
+10:24 Y rodeáronle los Judíos, y le dijeron: ¿Hasta cuándo traes suspensa nuestra alma? Si tú eres el Cristo, dínoslo abiertamente.
+10:25 Respondióles Jesús: Os dije, y vosotros no creéis: las obras que yo hago en nombre de mi Padre, estas dan testimonio de mí.
+10:26 Mas vosotros no creéis, porque no sois de mis ovejas, como os he dicho.
+10:27 Mis ovejas oyen mi voz, y yo las conozco, y ellas me siguen;
+10:28 Y yo les doy vida eterna, y no perecerán por siempre, ni nadie las arrebatará de mi mano.
+10:29 Mi Padre que me las dio, mayor que todos es; y nadie las puede arrebatar de la mano de mi Padre.
+10:30 Yo y mi Padre somos uno.
+10:31 Entonces volvieron a tomar piedras los Judíos, para apedrearle.
+10:32 Respondióles Jesús: Muchas buenas obras os he mostrado de mi Padre, ¿Por cuál obra de ellas me apedreáis?
+10:33 Respondiéronle los Judíos, diciendo: Por la buena obra no te apedreamos, sino por la blasfemia; y porque tú, siendo hombre, te haces Dios.
+10:34 Respondióles Jesús: ¿No está escrito en vuestra ley: Yo dije: dioses sois?
+10:35 Si llamó dioses a aquellos, a los cuales vino la palabra de Dios, y la Escritura no puede ser quebrantada,
+10:36 ¿A quien el Padre santificó, y envió al mundo, vosotros decís: Tú blasfemas; porque dije: Yo soy el Hijo de Dios?
+10:37 Si no hago obras de mi Padre, no me creáis.
+10:38 Mas si las hago, aunque a mí no creáis, creed a las obras, para que conozcáis y creáis, que el Padre es en mí, y yo en él.
+10:39 Y procuraban otra vez prenderle; mas él se salió de sus manos.
+10:40 Y se fue otra vez de la otra parte del Jordán, a aquel lugar donde primero había estado bautizando Juan, y se estuvo allí.
+10:41 Y muchos venían a él, y decían: Juan a la verdad ningún milagro hizo; mas todo lo que Juan dijo de éste, era verdad.
+10:42 Y muchos creyeron allí en él.
+
+11:1 ESTABA entonces enfermo cierto hombre llamado Lázaro, de Betania, la aldea de María y de Marta su hermana.
+11:2 (Era María la que ungió al Señor con ungüento, y limpió sus pies con sus cabellos, cuyo hermano Lázaro estaba enfermo.)
+11:3 Enviaron pues sus hermanas a él, diciendo: Señor, he aquí, el que amas está enfermo.
+11:4 Y oyéndolo Jesús, dijo: Esta enfermedad no es para muerte, sino por la gloria de Dios, para que el Hijo de Dios sea glorificado por ella.
+11:5 Y amaba Jesús a Marta, y a su hermana, y a Lázaro.
+11:6 Cuando oyó, pues, que estaba enfermo, entonces se quedó dos días más en aquel lugar donde estaba.
+11:7 Entonces, después de esto, dijo a sus discípulos: Vamos a Judea otra vez.
+11:8 Dícenle sus discípulos: Rabí, ahora procuraban los Judíos apedrearte, ¿Y vas otra vez allá?
+11:9 Respondió Jesús: ¿No tiene el día doce horas? El que anduviere de día, no tropieza, porque ve la luz de este mundo.
+11:10 Mas el que anduviere de noche, tropieza, porque no hay luz en él.
+11:11 Él dijo estas cosas; y después de esto les dice: Lázaro nuestro amigo duerme; mas voy a despertarle del sueño.
+11:12 Dijéronle entonces sus discípulos: Señor, si duerme, sano estará.
+11:13 Mas esto decía Jesús de la muerte de él; y ellos pensaron que hablaba del reposar del sueño.
+11:14 Entonces pues Jesús les dijo claramente: Lázaro es muerto;
+11:15 Y huélgome por vosotros, que yo no haya estado allí, para que creáis; mas vamos a él.
+11:16 Dijo entonces Tomás, el que se llama Dídimo, a sus condiscípulos: Vamos también nosotros, para que muramos con él.
+11:17 Vino pues Jesús, y hallólo, que había ya cuatro días que estaba en el sepulcro.
+11:18 Y Betania estaba cerca de Jerusalem como quince estadios.
+11:19 Y muchos de los Judíos habían venido a Marta y a María, para consolarlas de su hermano.
+11:20 Entonces Marta, cuando oyó que Jesús venía, le salió a recibir; mas María estaba sentada en casa.
+11:21 Entonces Marta, dijo a Jesús: Señor, si hubieras estado aquí, mi hermano no hubiera muerto.
+11:22 Mas sé que también ahora, todo lo que pidieres a Dios, te lo dará Dios.
+11:23 Dícele Jesús: Resucitará tu hermano.
+11:24 Marta le dice: Yo sé que resucitará en la resurrección en el día postrero.
+11:25 Dícele Jesús: Yo soy la resurrección, y la vida: el que cree en mí, aunque esté muerto, vivirá;
+11:26 Y todo aquel que vive, y cree en mí, no morirá eternamente. ¿Crees esto?
+11:27 Ella le dice: Sí, Señor, yo creo que tú eres el Cristo, el Hijo de Dios, que había de venir al mundo.
+11:28 Y cuando ella hubo dicho esto, se fue, y llamó en secreto a María su hermana, diciendo: El Maestro está aquí, y te llama.
+11:29 Ella, como lo oyó, se levanta prestamente, y viene a él.
+11:30 Porque aún no había llegado Jesús a la aldea, mas estaba en aquel lugar donde Marta le había salido a recibir.
+11:31 Entonces los Judíos que estaban en casa con ella, y la consolaban, cuando vieron que María se había levantado prestamente, y había salido, la siguieron, diciendo: Va al sepulcro a llorar allí.
+11:32 Mas María, cuando vino a donde estaba Jesús, viéndole, derribóse a sus pies, diciéndole: Señor, si hubieras estado aquí, no hubiera muerto mi hermano.
+11:33 Jesús entonces cuando la vio llorando, y a los Judíos que habían venido juntamente con ella llorando, gimió en espíritu, y se turbó,
+11:34 Y dijo: ¿Dónde le pusisteis? Dícenle: Señor, ven, y ve.
+11:35 Jesús lloró.
+11:36 Dijeron entonces los Judíos: ¡He aquí cómo le amaba!
+11:37 Y algunos de ellos dijeron: ¿No podía éste, que abrió los ojos del ciego, hacer también que éste no muriera?
+11:38 Y Jesús, gimiendo otra vez en sí mismo, vino al sepulcro, que era una cueva, la cual tenía una piedra puesta encima.
+11:39 Dice Jesús: Quitad la piedra. Marta, la hermana del que había sido muerto, le dice: Señor, hiede ya; porque es muerto de cuatro días.
+11:40 Jesús le dice: ¿No te he dicho que si creyeres, verás la gloria de Dios?
+11:41 Entonces quitaron la piedra de donde el muerto había sido puesto; y Jesús, alzando sus ojos arriba, dijo: Padre, gracias te doy que me has oído.
+11:42 Y yo sabía que siempre me oyes; mas por causa de la gente que está en pie alrededor lo dije, para que crean que tú me has enviado.
+11:43 Y habiendo dicho estas cosas, clamó a gran voz: Lázaro, ven fuera.
+11:44 Y el que había sido muerto, salió, atadas las manos y los pies con vendas; y su rostro estaba envuelto en un sudario. Díceles Jesús: Desatadle, y dejadle ir.
+11:45 Entonces muchos de los Judíos que habían venido a María, y habían visto lo que había hecho Jesús, creyeron en él.
+11:46 Mas algunos de ellos fueron a los Fariseos, y les dijeron lo que Jesús había hecho.
+11:47 Entonces los príncipes de los sacerdotes, y los Fariseos juntaron concilio, y decían: ¿Qué hacemos? porque este hombre hace muchos milagros.
+11:48 Si le dejamos así, todos creerán en él; y vendrán los Romanos, y quitarán nuestro lugar y nación.
+11:49 Entonces Caifás, uno de ellos, sumo sacerdote de aquel año, les dijo: Vosotros no sabéis nada,
+11:50 Ni consideráis que nos conviene que un hombre muera por el pueblo, y no que toda la nación perezca.
+11:51 Mas esto no lo dijo de sí mismo; sino que, como era el sumo sacerdote de aquel año, profetizó que Jesús había de morir por la nación;
+11:52 Y no solamente por aquella nación mas también para que juntase en uno a los hijos de Dios que estaban dispersos.
+11:53 Así que desde aquel día consultaban juntos para matarle.
+11:54 Por tanto que Jesús ya no andaba públicamente entre los Judíos; mas se fue de allí a la tierra que está junto al desierto, a una ciudad que se llama Efraím; y estábase allí con sus discípulos.
+11:55 Y la pascua de los Judíos estaba cerca; y muchos de aquella tierra subieron a Jerusalem antes de la pascua para purificarse.
+11:56 Y buscaban a Jesús, y hablaban los unos con los otros estando de pie en el templo: ¿Qué os parece? ¿Qué no vendrá a la fiesta?
+11:57 Mas los príncipes de los sacerdotes y los Fariseos habían dado mandamiento, que si alguno supiese dónde estuviera, que lo manifestase, para que le prendiesen.
+
+12:1 ENTONCES Jesús, seis días antes de la pascua, vino a Betania, donde estaba Lázaro, el que había muerto, al cual él había resucitado de entre los muertos.
+12:2 E hiciéronle allí una cena, y Marta servía; mas Lázaro era uno de los que estaban sentados a la mesa juntamente con él.
+12:3 Entonces María tomó una libra de ungüento de nardo puro de mucho precio, y ungió los pies de Jesús, y limpió sus pies con sus cabellos; y la casa se llenó del olor del ungüento.
+12:4 Entonces dijo uno de sus discípulos, Judas Iscariote, hijo de Simón, el que le había de entregar;
+12:5 ¿Por qué no se ha vendido este ungüento por trescientos denarios, y se dio a los pobres?
+12:6 Mas esto dijo, no por el cuidado que él tenía de los pobres; sino porque era ladrón; y tenía la bolsa, y traía lo que se echaba en ella.
+12:7 Entonces Jesús dijo: Déjala: para el día de mi sepultura ha guardado esto.
+12:8 Porque a los pobres siempre los tenéis con vosotros, mas a mí no siempre me tenéis.
+12:9 Entonces una gran multitud de los Judíos supo que él estaba allí; y vinieron no solamente por causa de Jesús, sino también por ver a Lázaro al cual había resucitado de entre los muertos.
+12:10 Empero consultaron los príncipes de los sacerdotes, para matar también a Lázaro;
+12:11 Porque muchos de los Judíos iban y creían en Jesús por causa de él.
+12:12 El siguiente día gran multitud de gente que había venido a la fiesta, cuando oyeron que Jesús venía a Jerusalem,
+12:13 Tomaron ramos de palmas, y salieron a recibirle, y clamaban: ¡Hosanna: Bendito el que viene en el nombre del Señor, el Rey de Israel!
+12:14 Y halló Jesús un asnillo, y se sentó sobre él, como está escrito:
+12:15 No temas, oh hija de Sión, he aquí, tu Rey viene asentado sobre un pollino de una asna.
+12:16 Mas estas cosas no las entendieron sus discípulos al principio: empero cuando Jesús fue glorificado, entonces se acordaron que estas cosas estaban escritas de él, y que le hicieron estas cosas.
+12:17 La gente, pues, que estaba con él, cuando llamó a Lázaro del sepulcro, y le resucitó de entre los muertos, daba testimonio.
+12:18 Por lo cual también había venido la gente a recibirle; porque habían oído que él había hecho este milagro.
+12:19 Mas los Fariseos dijeron entre sí: ¿Veis que nada aprovecháis? he aquí, que el mundo se va en pos de él.
+12:20 Y había ciertos Griegos de los que habían subido a adorar en la fiesta.
+12:21 Estos, pues, se llegaron a Felipe, que era de Betsaida de Galilea, y le rogaron, diciendo: Señor, querríamos ver a Jesús.
+12:22 Vino Felipe, y lo dijo a Andrés: Y después Andrés, y Felipe, lo dicen a Jesús.
+12:23 Y Jesús les respondió, diciendo: Venida es la hora en que el Hijo del hombre ha de ser glorificado.
+12:24 De cierto, de cierto os digo, que si el grano de trigo que cae en la tierra, no muriere, él queda solo; mas si muriere, mucho fruto lleva.
+12:25 El que ama su vida, la perderá; y el que aborrece su vida en este mundo, para vida eterna la guardará.
+12:26 Si alguno me sirve, sígame; y donde yo estuviere, allí también estará mi servidor. Si alguno me sirviere, mi Padre le honrará.
+12:27 Ahora es turbada mi alma; ¿y qué diré? Padre, sálvame de esta hora; mas por esta causa he venido a esta hora.
+12:28 Padre, glorifica tu nombre. Entonces vino una voz del cielo, diciendo: Ya lo he glorificado, y lo glorificaré otra vez.
+12:29 El pueblo, pues, que estaba de pie allí, y la había oído, decía que había sido un trueno: otros decían: Un ángel le ha hablado.
+12:30 Respondió Jesús, y dijo: No ha venido esta voz por mi causa, sino por causa de vosotros.
+12:31 Ahora es el juicio de este mundo: ahora el príncipe de este mundo será echado fuera.
+12:32 Y yo, si fuere levantado de la tierra, a todos atraeré a mí mismo.
+12:33 Y esto decía significando de qué muerte había de morir.
+12:34 Respondióle la gente: Nosotros hemos oído de la ley, que el Cristo permanece por siempre: ¿cómo pues dices tú: Es menester que el Hijo del hombre sea levantado? ¿Quién es este Hijo del hombre?
+12:35 Entonces Jesús les dijo: Aún por un poco está la luz entre vosotros: andad mientras que tenéis la luz, no sea que os alcancen las tinieblas; porque el que anda en tinieblas, no sabe dónde va.
+12:36 Mientras que tenéis la luz, creed en la luz, para que seáis hijos de luz. Estas cosas habló Jesús, y se fue, y se escondió de ellos.
+12:37 Empero aunque había hecho delante de ellos tantos milagros, no creían en él;
+12:38 Para que se cumpliese el dicho que dijo el profeta Isaías: ¿Señor, quién ha creído a nuestro dicho? ¿y el brazo del Señor, a quién ha sido revelado?
+12:39 Por esto no podían creer, porque otra vez dijo Isaías:
+12:40 Él ha cegado los ojos de ellos, y ha endurecido el corazón de ellos para que no vean con sus ojos ni entiendan con su corazón, y se conviertan, y yo los sane.
+12:41 Estas cosas dijo Isaías, cuando vio su gloria, y habló de él.
+12:42 Con todo eso aun de los príncipes muchos creyeron en él; mas por causa de los Fariseos no le confesaban, por no ser echados de la sinagoga.
+12:43 Porque amaban más la gloria de los hombres que la gloria de Dios.
+12:44 Mas Jesús clamó, y dijo: El que cree en mí, no cree en mí, sino en aquél que me envió.
+12:45 Y el que me ve, ve al que me envió.
+12:46 Yo, la luz, he venido al mundo, para que todo aquel que cree en mí, no permanezca en tinieblas.
+12:47 Y si alguno oye mis palabras y no creyere, yo no le juzgo; porque no he venido a juzgar al mundo, sino a salvar al mundo.
+12:48 El que me desecha, y no recibe mis palabras, tiene quien le juzgue: la palabra que he hablado, la misma le juzgará en el día postrero.
+12:49 Porque yo no he hablado de mí mismo; mas el Padre que me envió, él me dio mandamiento de lo que tengo de decir, y de lo que debo de hablar.
+12:50 Y sé que su mandamiento es vida eterna: así que lo que yo hablo, como el Padre me lo ha dicho, así hablo.
+
+13:1 Y ANTES de la fiesta de la pascua, sabiendo Jesús que su hora era venida para que pasase de este mundo al Padre, como había amado a los suyos que estaban en el mundo, los amó hasta el fin.
+13:2 Y acabada la cena, el diablo ya había metido en el corazón de Judas Iscariote, hijo de Simón, que le entregase:
+13:3 Sabiendo Jesús que el Padre le había dado todas las cosas en sus manos, y que había venido de Dios, y a Dios iba:
+13:4 Levántase de la cena, y se quita su ropa, y tomando una toalla, ciñóse.
+13:5 Luego puso agua en el lebrillo, y comenzó a lavar los pies de los discípulos, y a limpiarlos con la toalla con que estaba ceñido.
+13:6 Entonces vino a Simón Pedro; y Pedro le dice: ¿Señor, tú me lavas a mí los pies?
+13:7 Respondió Jesús, y le dijo: Lo que yo hago, tú no lo sabes ahora; mas lo sabrás después.
+13:8 Dícele Pedro: No me lavarás los pies jamás. Respondióle Jesús: Si no te lavare, no tendrás parte conmigo.
+13:9 Dícele Simón Pedro: Señor, no sólo mis pies, mas aún mis manos, y mi cabeza.
+13:10 Dícele Jesús: El que está lavado, no ha menester sino que lave sus pies, pues está todo limpio. Y vosotros limpios sois, aunque no todos.
+13:11 Porque sabía quién era el que le entregaba; por eso dijo: No sois limpios todos.
+13:12 Así que, después que les hubo lavado los pies, y tomado su ropa, volviéndose a asentar otra vez, les dijo: ¿Sabéis lo que os he hecho?
+13:13 Vosotros me llamáis Maestro y Señor; y decís bien; porque lo soy:
+13:14 Pues si yo, el Señor y el Maestro, he lavado vuestros pies, vosotros también debéis lavar los pies los unos a los otros.
+13:15 Porque ejemplo os he dado, para que como yo os he hecho, vosotros también hagáis.
+13:16 De cierto, de cierto os digo: El siervo no es mayor que su señor: ni el enviado es mayor que el que le envió.
+13:17 Si sabéis estas cosas, bienaventurados sois, si las hiciereis.
+13:18 No hablo de todos vosotros: yo sé los que he elegido; mas para que se cumpla la Escritura: El que come pan conmigo, levantó contra mí su calcañar.
+13:19 Desde ahora os lo digo, antes que suceda, para que cuando sucediere, creáis que yo soy.
+13:20 De cierto, de cierto os digo, que el que recibe al que yo enviare, a mí recibe; y el que a mí recibe, recibe al que me envió.
+13:21 Cuando hubo Jesús dicho esto, fue turbado en espíritu, y testificó, y dijo: De cierto, de cierto os digo, que uno de vosotros me ha de entregar.
+13:22 Entonces los discípulos mirábanse los unos a los otros, dudando de quién hablaba.
+13:23 Ahora estaba uno de sus discípulos, al cual Jesús amaba, recostando en el pecho de Jesús.
+13:24 A éste pues hizo señas Simón Pedro, para que preguntase quién era aquél de quien hablaba.
+13:25 El entonces recostado sobre el pecho de Jesús, le dice: Señor, ¿quién es?
+13:26 Respondió Jesús: Aquél es, a quien yo diere el pan mojado. Y mojando el pan, diólo a Judas Iscariote, el hijo de Simón.
+13:27 Y tras el bocado Satanás entró en él. Entonces Jesús le dice: Lo que haces, hazlo más presto.
+13:28 Empero esto ninguno de los que estaban a la mesa entendió a qué propósito se lo dijo.
+13:29 Porque algunos de ellos pensaban, porque Judas tenía la bolsa, que Jesús le decía: Compra las cosas que nos son necesarias para la fiesta: o que diese algo a los pobres.
+13:30 Entonces él, habiendo recibido el bocado, inmediatamente salió; y era noche.
+13:31 Entonces cuando él salió, dijo Jesús: Ahora es glorificado el Hijo del hombre, y Dios es glorificado en él.
+13:32 Si Dios es glorificado en él, Dios también le glorificará en sí mismo; y luego le glorificará.
+13:33 Hijitos, aun un poco estoy con vosotros. Me buscaréis; y, así como dije a los Judíos: Donde yo voy, vosotros no podéis venir; así ahora a vosotros lo digo.
+13:34 Un mandamiento nuevo os doy: Que os améis los unos a los otros: como os amé yo, que también os améis los unos a los otros.
+13:35 En esto conocerán todos que sois mis discípulos, si tuvieres amor los unos con los otros.
+13:36 Le dijo Simón Pedro: ¿Señor, a dónde vas? Respondióle Jesús: Donde yo voy, no me puedes seguir ahora; mas me seguirás después.
+13:37 Dícele Pedro: ¿Señor, por qué no te puedo seguir ahora? mi vida pondré por ti.
+13:38 Respondióle Jesús: ¿Tu vida pondrás por mí? De cierto, de cierto te digo: No cantará el gallo, hasta que me hayas negado tres veces.
+
+14:1 NO se turbe vuestro corazón: creéis en Dios, creed también en mí.
+14:2 En la casa de mi Padre muchas mansiones hay; si así no fuera, os lo hubiera yo dicho. Yo voy a aparejar el lugar para vosotros.
+14:3 Y si me fuere y os aparejare el lugar, vendré otra vez, y os tomaré a mí mismo, para que donde yo estoy, vosotros también estéis.
+14:4 Y sabéis a dónde yo voy, y el camino sabéis.
+14:5 Dícele Tomás: Señor, no sabemos a dónde vas: ¿y cómo podemos saber el camino?
+14:6 Jesús le dice: Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí.
+14:7 Si me hubiereis conocido, habrías también conocido a mi Padre; y desde ahora le conocéis, y le habéis visto.
+14:8 Dícele Felipe: Señor, muéstranos el Padre, y nos basta.
+14:9 Jesús le dice: ¿Tanto tiempo ha que estoy con vosotros, y no me has conocido aún, Felipe? El que me ha visto, ha visto al Padre. ¿Cómo pues dices tú: Muéstranos el Padre?
+14:10 ¿No crees que yo soy en el Padre, y el Padre en mí? Las palabras que yo os hablo, no las hablo de mí mismo; mas el Padre que mora en mí, él hace las obras.
+14:11 Creedme que yo soy en el Padre, y el Padre en mí: o si no, creedme por causa de las mismas obras.
+14:12 De cierto, de cierto os digo: El que en mí cree, las obras que yo hago también él las hará, y mayores que estas hará; porque yo voy a mi Padre.
+14:13 Y todo lo que pidiereis en mi nombre, esto haré; para que el Padre sea glorificado en el Hijo.
+14:14 Si algo pidiereis en mi nombre, yo lo haré.
+14:15 Si me amáis, guardad mis mandamientos.
+14:16 Y yo rogaré al Padre, el cual os dará otro Consolador para que more con vosotros por siempre;
+14:17 Es a saber, al Espíritu de verdad, al cual el mundo no puede recibir; porque no le ve, ni le conoce; mas vosotros le conocéis, porque mora con vosotros, y será en vosotros.
+14:18 No os dejaré huérfanos: yo vendré a vosotros.
+14:19 Aún un poquito, y el mundo no me verá más; empero vosotros me veréis: por cuanto yo vivo, vosotros también viviréis.
+14:20 En aquel día vosotros conoceréis que yo soy en mi Padre, y vosotros en mí, y yo en vosotros.
+14:21 El que tiene mis mandamientos, y los guarda, aquél es el que me ama; y el que me ama, será amado de mi Padre; y yo le amaré a él, y me manifestaré a él.
+14:22 Dícele Judas, no el Iscariote: Señor, ¿qué hay porque te has de manifestar a nosotros, y no al mundo?
+14:23 Respondió Jesús, y le dijo: Si alguno me ama, mis palabras guardará; y mi Padre le amará, y vendremos a él, y haremos con él morada.
+14:24 El que no me ama, no guarda mis palabras; y la palabra que habéis oído, no es mía, sino del Padre que me envió.
+14:25 Estas cosas os he hablado estando aún con vosotros.
+14:26 Mas el Consolador, el Espíritu Santo, al cual el Padre enviará en mi nombre; él os enseñará todas las cosas, y os recordará todas las cosas que os he dicho.
+14:27 Paz os dejo: mi paz os doy: no como el mundo la da, yo os la doy: no se turbe vuestro corazón, ni tenga miedo.
+14:28 Habéis oído cómo yo os he dicho: Voy, y vengo otra vez a vosotros. Si me amaseis, ciertamente os regocijaríais, porque he dicho que voy al Padre; porque mi Padre mayor es que yo.
+14:29 Y ahora os lo he dicho antes que se haga, para que cuando se hiciere, creáis.
+14:30 Ya no hablaré mucho con vosotros; porque viene el príncipe de este mundo; mas no tiene nada en mí.
+14:31 Empero para que conozca el mundo que amo al Padre, y como el Padre me dio mandamiento, así hago. Levantaos, vamos de aquí.
+
+15:1 Yo soy la vid verdadera, y mi Padre es el labrador.
+15:2 Todo pámpano en mí que no lleva fruto, le quita; y todo aquel que lleva fruto, le limpia, para que lleve más fruto.
+15:3 Ya vosotros sois limpios por la palabra que os he hablado.
+15:4 Permaneced en mí, y yo en vosotros. Como el pámpano no puede llevar fruto de sí mismo, si no permaneciere en la vid, así ni vosotros, si no permaneciereis en mí.
+15:5 Yo soy la vid, vosotros los pámpanos: el que está en mí, y yo en él, éste lleva mucho fruto: porque sin mí nada podéis hacer.
+15:6 Si alguno no permaneciere en mí, es echado fuera como el pámpano, y se seca; y los recogen, y échanlos en el fuego, y arden.
+15:7 Si permaneciereis en mí, y mis palabras permanecieren en vosotros, todo lo que quisiereis pediréis, y os será hecho.
+15:8 En esto es glorificado mi Padre, en que llevéis mucho fruto; así seréis mis discípulos.
+15:9 Como el Padre me amó, también yo os he amado: estad en mi amor.
+15:10 Si guardareis mis mandamientos, permaneceréis en mi amor: como yo también he guardado los mandamientos de mi Padre, y permanezco en su amor.
+15:11 Estas cosas os he hablado, para que mi gozo esté en vosotros, y vuestro gozo sea cumplido.
+15:12 Este es mi mandamiento: Que os améis los unos a los otros, como yo os amé.
+15:13 Nadie tiene mayor amor que este, que ponga alguno su vida por sus amigos.
+15:14 Vosotros sois mis amigos, si hiciereis las cosas que yo os mando.
+15:15 Ya no os llamaré siervos, porque el siervo no sabe lo que hace su señor; mas os he llamado amigos, porque todas las cosas que oí de mi Padre, os he hecho conocer.
+15:16 No me escogisteis vosotros a mí; mas yo os escogí a vosotros, y os he ordenado para que vayáis, y llevéis fruto; y vuestro fruto permanezca; para que todo lo que pidiereis al Padre en mi nombre, él os lo dé.
+15:17 Esto os mando: Que os améis los unos a los otros.
+15:18 Si el mundo os aborrece, sabed que a mí me ha aborrecido antes que a vosotros.
+15:19 Si fuerais del mundo, el mundo amaría lo que es suyo; mas porque no sois del mundo, sino que yo os escogí del mundo, por eso os aborrece el mundo.
+15:20 Acordaos de la palabra que yo os he dicho: No es el siervo mayor que su señor: Si a mí me han perseguido, también a vosotros perseguirán: si han guardado mi palabra, también guardarán la vuestra.
+15:21 Mas todo esto os harán por causa de mi nombre; porque no conocen al que me ha enviado.
+15:22 Si yo no hubiera venido, ni les hubiera hablado, no tendrían pecado; mas ahora no tienen excusa de su pecado.
+15:23 El que me aborrece, también a mi Padre aborrece.
+15:24 Si yo no hubiese hecho entre ellos obras cuales ningún otro ha hecho, no tendrían pecado; mas ahora, ellos las han visto, y han aborrecido tanto a mí como a mi Padre.
+15:25 Mas esto sucede, para que se cumpla la palabra que está escrita en su ley: Sin causa me aborrecieron.
+15:26 Empero cuando viniere el Consolador, el cual yo os enviaré del Padre, es a saber, el Espíritu de verdad, el cual procede del Padre, él dará testimonio de mí.
+15:27 Y vosotros también daréis testimonio, porque habéis estado conmigo desde el principio.
+
+16:1 ESTAS cosas os he hablado, para que no seáis ofendidos.
+16:2 Os echarán de las sinagogas: aún más, la hora viene, cuando cualquiera que os matare, pensará que hace servicio a Dios.
+16:3 Y estas cosas os harán, porque no conocen al Padre, ni a mí.
+16:4 Mas os he dicho esto, para que cuando aquella hora viniere, os acordéis de ello, que yo os lo había dicho: esto empero no os lo dije al principio, porque yo estaba con vosotros.
+16:5 Mas ahora voy al que me envió; y ninguno de vosotros me pregunta: ¿Adónde vas?
+16:6 Mas, porque os he hablado estas cosas, tristeza ha henchido vuestro corazón.
+16:7 Empero yo os digo la verdad, que os es necesario que yo vaya; porque si yo no fuese, el Consolador no vendría a vosotros; mas si yo fuere, os le enviaré.
+16:8 Y cuando él viniere, redargüirá al mundo de pecado, y de justicia, y de juicio:
+16:9 De pecado, porque no creen en mí;
+16:10 De justicia, por cuanto voy a mi Padre, y no me veréis más;
+16:11 Y de juicio, por cuanto el príncipe de este mundo ya es juzgado.
+16:12 Aún tengo muchas cosas que deciros, mas no las podéis llevar ahora.
+16:13 Empero cuando viniere aquel, el Espíritu de verdad, él os guiará a toda verdad; porque no hablará de sí mismo, mas todo lo que oyere hablará; y las cosas que han de venir os hará saber.
+16:14 El me glorificará, porque recibirá de lo mío, y os lo hará saber.
+16:15 Todo lo que tiene el Padre, mío es: por eso dije que tomará de lo mío, y os lo hará saber.
+16:16 Un poco, y no me veréis; y otra vez un poco, y me veréis; porque yo voy al Padre.
+16:17 Entonces dijeron algunos de sus discípulos unos a otros: ¿Qué es esto que nos dice: Un poco, y no me veréis; y otra vez, un poco, y me veréis; y, porque yo voy al Padre?
+16:18 Así que decían: ¿Qué es esto que dice: Un poco? No sabemos lo que dice.
+16:19 Jesús conocía que le querían preguntar, y les dijo: ¿Preguntáis entre vosotros de esto que dije: Un poco, y no me veréis; y otra vez, un poco, y me veréis?
+16:20 De cierto, de cierto os digo: Vosotros lloraréis y lamentaréis, el mundo empero se alegrará: y vosotros seréis tristes, mas vuestra tristeza será vuelta en gozo.
+16:21 La mujer cuando pare, tiene dolor, porque es venida su hora; mas después que ha parido un niño, ya no se acuerda de la angustia por el gozo de que haya nacido un hombre en el mundo.
+16:22 Vosotros pues también ahora ciertamente tenéis tristeza; mas otra vez os veré, y se gozará vuestro corazón, y nadie quitará de vosotros vuestro gozo.
+16:23 Y en aquel día no me preguntaréis nada. De cierto, de cierto os digo: Todo cuanto pidiereis al Padre en mi nombre, os lo dará.
+16:24 Hasta ahora nada habéis pedido en mi nombre: pedid, y recibiréis para que vuestro gozo sea cumplido.
+16:25 Estas cosas os he hablado en proverbios; mas la hora viene cuando ya no os hablaré en proverbios, sino que claramente os anunciaré del Padre.
+16:26 Aquel día pediréis en mi nombre, y no os digo que yo rogaré al Padre por vosotros;
+16:27 Porque el Padre mismo os ama, por cuanto vosotros me habéis amado, y habéis creído que yo salí de Dios.
+16:28 Salí del Padre, y he venido al mundo: otra vez dejo el mundo, y voy al Padre.
+16:29 Dícenle sus discípulos: He aquí, ahora hablas claramente, y ningún proverbio dices.
+16:30 Ahora sabemos que sabes todas las cosas, y no has menester que nadie te pregunte: por esto creemos que has salido de Dios.
+16:31 Respondióles Jesús: ¿Ahora creéis?
+16:32 He aquí la hora viene, y ya es venida, en que seréis esparcidos cada uno a los suyos, y me dejaréis solo; mas no estoy solo, porque el Padre está conmigo.
+16:33 Estas cosas os he hablado para que en mí tengáis paz: en el mundo tendréis tribulación; mas tened buen ánimo, yo he vencido al mundo.
+
+17:1 ESTAS cosas habló Jesús, y levantados los ojos al cielo, dijo: Padre, la hora es venida, glorifica a tu Hijo, para que también tu Hijo te glorifique a ti:
+17:2 Como le has dado potestad sobre toda carne, para que dé vida eterna a todos los que le diste.
+17:3 Y esta es la vida eterna, que te conozcan a ti, el único Dios verdadero, y a Jesu Cristo a quien tú enviaste.
+17:4 Yo te he glorificado en la tierra, he acabado la obra que me diste que hiciese.
+17:5 Y Ahora, Oh Padre, glorifícame tú contigo mismo con aquella gloria que tuve contigo antes que el mundo fuese.
+17:6 He manifestado tu nombre a los hombres que del mundo me diste: tuyos eran, y me los diste a mí, y han guardado tu palabra.
+17:7 Ahora han conocido que todas las cosas que me has dado, son de ti.
+17:8 Porque las palabras que me diste, les he dado; y ellos las han recibido, y han conocido verdaderamente que salí de ti, y han creído que tú me enviaste.
+17:9 Yo ruego por ellos: no ruego por el mundo, sino por los que me has dado, porque tuyos son.
+17:10 Y todo lo mío es tuyo, y lo tuyo, mío; y he sido glorificado en ellos.
+17:11 Y ya no estoy en el mundo; mas éstos están en el mundo, que yo a ti vengo. Padre Santo, guárdalos por tu nombre; a los cuales me has dado, para que sean uno, así como nosotros lo somos.
+17:12 Cuando yo estaba con ellos en el mundo, yo los guardaba en tu nombre, a los cuales que me has dado yo los guardé, y ninguno de ellos se perdió sino el hijo de perdición, para que la Escritura se cumpliese.
+17:13 Mas ahora vengo a ti, y hablo estas cosas en el mundo, para que ellos tengan mi gozo cumplido en sí mismos.
+17:14 Yo les he dado tu palabra, y el mundo los ha aborrecido; porque ellos no son del mundo, como tampoco yo soy del mundo.
+17:15 No ruego que los quites del mundo, sino que los guardes del mal.
+17:16 Ellos no son del mundo, como tampoco yo soy del mundo.
+17:17 Santifícalos por tu verdad: tu palabra es verdad.
+17:18 Como tú me enviaste al mundo, también yo los he enviado al mundo.
+17:19 Y por ellos yo me santifico a mí mismo; para que también ellos sean santificados por la verdad.
+17:20 Mas no ruego solamente por ellos; sino también por los que han de creer en mí por la palabra de ellos.
+17:21 Para que todos ellos sean uno: así como tú, oh Padre, eres en mí, y yo en ti; que también ellos en nosotros sean uno; para que el mundo crea que tú me enviaste.
+17:22 Y la gloria que me diste, yo les he dado a ellos; para que sean uno, como también nosotros somos uno:
+17:23 Yo en ellos, y tú en mí, para que sean perfeccionados en uno, y para que el mundo conozca que tú me enviaste, y que los has amado a ellos, como también a mí me has amado.
+17:24 Padre, aquellos que me has dado, quiero que donde yo estoy, ellos estén también conmigo; para que vean mi gloria que me has dado, porque me has amado desde antes de la fundación del mundo.
+17:25 Oh Padre justo, el mundo no te ha conocido; mas yo te he conocido; y éstos han conocido que tú me enviaste.
+17:26 Y yo he declarado tu nombre a ellos, y lo declararé; para que el amor, con que me has amado, esté en ellos, y yo en ellos.
+
+18:1 CUANDO Jesús hubo dicho estas cosas, salióse con sus discípulos al otro lado del arroyo de Cedrón, donde había un huerto, en el cual entró él, y sus discípulos.
+18:2 Y también Judas, el que le entregaba, conocía aquel lugar, porque muchas veces Jesús se juntaba allí con sus discípulos.
+18:3 Judas, pues, tomando una compañía de hombres, y oficiales de los sumos sacerdotes y de los Fariseos, vino allí con linternas y antorchas, y con armas.
+18:4 Empero Jesús, sabiendo todas las cosas que habían de venir sobre él, salió delante, y les dijo. ¿A quién buscáis?
+18:5 Respondiéronle: A Jesús de Nazaret. Díceles Jesús: Yo soy. Y estaba de pie también con ellos Judas el que le entregaba.
+18:6 Y luego pues que les dijo: Yo soy: Retrocedieron, y cayeron en tierra.
+18:7 Volvióles pues a preguntar: ¿A quién buscáis? Y ellos dijeron: A Jesús de Nazaret.
+18:8 Respondió Jesús: Ya os he dicho que yo soy: pues si a mí buscáis, dejad ir a éstos:
+18:9 Para que se cumpliese la palabra que había dicho: De los que me diste, ninguno de ellos perdí.
+18:10 Entonces Simón Pedro, que tenía una espada, la sacó, e hirió a un siervo del sumo sacerdote, y le cortó la oreja derecha. Y el siervo se llamaba Malco.
+18:11 Jesús entonces dijo a Pedro: Mete tu espada en la vaina: la copa que mi Padre me ha dado, ¿no la tengo de beber?
+18:12 Entonces la compañía, y el capitán, y los oficiales de los Judíos prendieron a Jesús, y le ataron.
+18:13 Y le llevaron primeramente a Anás, porque era suegro de Caifás, el cual era sumo sacerdote en aquel año.
+18:14 Y Caifás era el que había dado el consejo a los Judíos, que era necesario que un hombre muriese por el pueblo.
+18:15 Y seguía a Jesús Simón Pedro, y otro discípulo; y aquel discípulo era conocido del sumo sacerdote, y entró con Jesús en el palacio del sumo sacerdote.
+18:16 Mas Pedro estaba fuera de pie a la puerta. Entonces salió aquel discípulo que era conocido del sumo sacerdote, y habló a la portera, y trajo dentro a Pedro.
+18:17 Entonces la criada portera dijo a Pedro: ¿No eres tú también uno de los discípulos de este hombre? Dice él: No soy.
+18:18 Y estaban en pie los siervos y los oficiales que habían hecho fuego de carbón, porque hacía frío, y se calentaban; y también con ellos estaba Pedro en pie calentándose.
+18:19 Y el sumo sacerdote preguntó a Jesús de sus discípulos, y de su doctrina.
+18:20 Jesús le respondió: Yo públicamente he hablado al mundo: yo siempre he enseñado en la sinagoga, y en el templo, donde siempre se juntan los Judíos; y nada he hablado en oculto.
+18:21 ¿Por qué me preguntas a mí? Pregunta a los que me han oído, qué les haya yo hablado: he aquí, éstos saben lo que yo he dicho.
+18:22 Y cuando él hubo dicho esto, uno de los oficiales que estaba de pie allí, dio una bofetada a Jesús diciendo: ¿Así respondes al sumo sacerdote?
+18:23 Respondióle Jesús: Si he hablado mal, da testimonio del mal; mas si bien, ¿por qué me hieres?
+18:24 Pues, habíale enviado Anás atado a Caifás el sumo sacerdote.
+18:25 Estaba pues Pedro en pie calentándose; Entonces ellos le dijeron: ¿No eres tu también uno de sus discípulos? El lo negó, y dijo: No soy.
+18:26 Uno de los siervos del sumo sacerdote, pariente de aquel a quien Pedro había cortado la oreja, le dice: ¿No te vi yo en el huerto con él?
+18:27 Y negó Pedro otra vez; y al instante el gallo cantó.
+18:28 Y llevan a Jesús de Caifás al pretorio; y era de mañana; y ellos no entraron en el pretorio por no ser contaminados, mas para que pudiesen comer la pascua.
+18:29 Entonces salió Pilato a ellos fuera, y dijo: ¿Qué acusación traéis contra este hombre?
+18:30 Respondieron, y le dijeron: Si éste no fuera malhechor, no te le hubiéramos entregado.
+18:31 Díceles entonces Pilato: Tomadle vosotros, y juzgadle según vuestra ley. Y los Judíos le dijeron: A nosotros no nos es lícito matar a nadie.
+18:32 Para que se cumpliese la palabra de Jesús, qué había dicho, significando de que muerte había de morir.
+18:33 Entonces Pilato volvióse a entrar en el pretorio, y llamó a Jesús, y le dijo: ¿Eres tú el Rey de los Judíos?
+18:34 Respondióle Jesús: ¿Dices tú esto de ti mismo, o te lo han dicho otros de mí?
+18:35 Pilato respondió: ¿Soy yo Judío? Tu misma nación, y los sumos sacerdotes, te han entregado a mí: ¿qué has hecho?
+18:36 Respondió Jesús: Mi reino no es de este mundo: si de este mundo fuera mi reino, mis servidores pelearían para que yo no fuera entregado a los Judíos, mas ahora mi reino no es de aquí.
+18:37 Díjole entonces Pilato: ¿Luego rey eres tú? Respondió Jesús: Tú dices que yo soy rey. Yo para esto he nacido, y para esto he venido al mundo, para dar testimonio a la verdad. Todo aquel que es de la verdad, oye mi voz.
+18:38 Dícele Pilato: ¿Qué es verdad? Y cuando hubo dicho esto, volvió a los Judíos, y les dice: Yo no hallo ninguna falta en él.
+18:39 Empero vosotros tenéis costumbre, que yo os suelte uno en la pascua: ¿queréis pues que os suelte al Rey de los Judíos?
+18:40 Entonces todos dieron voces otra vez, diciendo: No a este hombre, sino a Barrabás. Y Barrabás era un ladrón.
+
+19:1 ASÍ que, entonces tomó Pilato a Jesús, y le azotó.
+19:2 Y los soldados entretejieron de espinas una corona, y la pusieron sobre su cabeza, y le vistieron de una ropa de púrpura,
+19:3 Y decían: ¡Salve, Rey de los Judíos! Y le daban de bofetadas.
+19:4 Entonces Pilato salió otra vez fuera, y les dijo: He aquí, os le traigo fuera, para que sepáis que no hallo ninguna falta en él.
+19:5 Entonces salió Jesús fuera llevando la corona de espinas, y la vestidura de púrpura. Y díceles Pilato: ¡He aquí el hombre!
+19:6 Y cuando le vieron los príncipes de los sacerdotes, y los oficiales, dieron voces, diciendo: Crucifícale, crucifícale. Díceles Pilato: Tomadle vosotros, y crucificadle; porque yo no hallo en él falta.
+19:7 Respondiéronle los Judíos: Nosotros tenemos una ley, y según nuestra ley debe morir, porque él se hizo a sí mismo el Hijo de Dios.
+19:8 Pilato pues cuando oyó esta palabra, tuvo más miedo.
+19:9 Y entró otra vez en el pretorio, y dijo a Jesús: ¿De dónde eres tú? Mas Jesús no le dio respuesta.
+19:10 Entonces dicele Pilato: ¿A mí no me hablas? ¿no sabes que tengo potestad para crucificarte, y que tengo potestad para soltarte?
+19:11 Respondió Jesús: Ninguna potestad tendrías contra mí, si no te fuese dada de arriba; por tanto el que a ti me ha entregado, mayor pecado tiene.
+19:12 Desde entonces procuraba Pilato de soltarle; mas los Judíos daban voces, diciendo: Si a éste sueltas, no eres amigo de César: cualquiera que se hace rey, habla contra César.
+19:13 Cuando, pues, Pilato oyó este dicho, llevó fuera a Jesús, y se sentó en el tribunal, en el lugar que se llama el Pavimento, y en el Hebreo, Gabata.
+19:14 Y era la preparación de la pascua, y como la hora de sexta: entonces dijo a los Judíos: ¡He aquí vuestro Rey!
+19:15 Mas ellos dieron voces: Quítale, quítale, crucifícale. Díceles Pilato: ¿A vuestro Rey tengo de crucificar? Respondieron los sumos sacerdotes: No tenemos rey, sino a César.
+19:16 Así que entonces lo entregó a ellos para que fuese crucificado. Y tomaron a Jesús, y le llevaron.
+19:17 Y él llevando su cruz, salió al lugar que se llama el lugar de la Calavera, y en Hebreo Gólgota:
+19:18 Donde le crucificaron, y con él otros dos, uno a cada lado, y Jesús en medio.
+19:19 Y escribió Pilato un título, el cual puso encima de la cruz; y el escrito era: JESÚS DE Nazaret, REY DE LOS JUDÍOS.
+19:20 Y muchos de los Judíos leyeron este título; porque el lugar donde fue crucificado Jesús, estaba cerca de la ciudad; y era escrito en Hebreo, y en Griego, y en Latín.
+19:21 Y decían a Pilato los sumos sacerdotes de los Judíos: No escribas: Rey de los Judíos; sino que él dijo: Yo soy Rey de los Judíos.
+19:22 Respondió Pilato: Lo que he escrito, he escrito.
+19:23 Y cuando los soldados hubieron crucificado a Jesús tomaron sus vestidos, e hicieron cuatro partes a cada soldado una parte, y también la túnica, mas la túnica era sin costura, todo tejida desde arriba.
+19:24 Dijeron pues entre sí: No la partamos, sino echemos suertes sobre ella cúya será; para que se cumpliese la Escritura que dice: Partieron para sí mis vestidos, y sobre mi vestidura echaron suertes. Estas cosas pues los soldados hicieron.
+19:25 Y estaban de pie junto a la cruz de Jesús su madre, y la hermana de su madre, María esposa de Cleofas, y María Magdalena.
+19:26 Pues, cuando vio Jesús a su madre, y al discípulo que él amaba, que estaba de pie cerca, dice a su madre: Mujer, he ahí tu hijo.
+19:27 Y luego dice al discípulo: He ahí tu madre. Y desde aquella hora el discípulo la recibió en su propia casa.
+19:28 Después de esto, sabiendo Jesús que todas las cosas estaban ya cumplidas, para que la Escritura se cumpliese, dijo: Tengo sed.
+19:29 Y había allí puesta una vasija llena de vinagre. Entonces ellos hinchieron una esponja de vinagre, y puesta sobre un hisopo se la llegaron a la boca.
+19:30 Y cuando Jesús tomó el vinagre, dijo: Consumado es. Y habiendo inclinado la cabeza, entregó el espíritu.
+19:31 Entonces los Judíos, por cuanto era el día de la preparación, para que los cuerpos no quedasen en la cruz en el sábado, (porque era gran día aquel sábado,) rogaron a Pilato que se les quebrasen las piernas, y que fuesen quitados.
+19:32 Vinieron pues los soldados, y quebraron las piernas al primero, y al otro que fue crucificado con él:
+19:33 Mas cuando vinieron a Jesús, como le vieron ya muerto, no le quebraron las piernas.
+19:34 Empero uno de los soldados le abrió el costado con una lanza, y al instante salió sangre y agua.
+19:35 Y el que lo vio da testimonio, y su testimonio es verdadero: y él sabe que dice verdad, para que vosotros también creáis.
+19:36 Porque estas cosas fueron hechas, para que se cumpliese la Escritura: Hueso no será quebrantado de él.
+19:37 Y también otra Escritura dice: Mirarán a aquél al cual traspasaron.
+19:38 Y después de estas cosas, José de Arimatea, quien era un discípulo de Jesús, aunque en secreto por miedo de los Judíos, rogó a Pilato que él quitase el cuerpo de Jesús: y le permitió Pilato. Entonces él vino, y quitó el cuerpo de Jesús.
+19:39 Y vino también Nicodemo, el que antes había venido a Jesús de noche, trayendo una mixtura de mirra y de áloes, como cien libras.
+19:40 Y tomaron el cuerpo de Jesús, y le envolvieron en lienzos con especias, como es costumbre de los Judíos sepultar.
+19:41 Y en el lugar donde fue crucificado había un huerto; y en el huerto un sepulcro nuevo en el cual aún no había sido puesto alguno.
+19:42 Allí pues pusieron a Jesús, por causa del día de la preparación de los Judíos, porque aquel sepulcro estaba cerca.
+
+20:1 Y EL primer día de la semana, María Magdalena vino de mañana, siendo aún oscuro, al sepulcro, y vio la piedra quitada del sepulcro.
+20:2 Entonces corre, y viene a Simón Pedro, y al otro discípulo, al cual amaba Jesús, y les dice: Han llevado al Señor del sepulcro, y no sabemos dónde le han puesto.
+20:3 Salió pues Pedro, y el otro discípulo, y vinieron al sepulcro.
+20:4 Y corrían los dos juntos; mas el otro discípulo corrió más presto que Pedro, y vino primero al sepulcro.
+20:5 Y bajándose a mirar, vio los lienzos puestos; mas no entró.
+20:6 Entonces viene Simón Pedro siguiéndole, y entró en el sepulcro, y vio los lienzos puestos,
+20:7 Y el sudario que había estado sobre su cabeza, no puesto con los lienzos, sino envuelto en un lugar aparte.
+20:8 Entonces entró también aquel otro discípulo, que había venido primero al sepulcro; y vio, y creyó.
+20:9 Porque aún no sabían la Escritura, que era menester que él resucitase de entre los muertos.
+20:10 Entonces volvieron los discípulos a su propia casa.
+20:11 Empero María estaba fuera llorando junto al sepulcro; y estando llorando, bajóse a mirar el sepulcro;
+20:12 Y ve dos ángeles en ropas blancas que estaban sentados, el uno a la cabecera, y el otro a los pies, donde el cuerpo de Jesús había sido puesto.
+20:13 Y le dicen: Mujer, ¿por qué lloras? Díceles: Porque se han llevado a mi Señor, y no sé dónde le han puesto.
+20:14 Y como hubo dicho esto, volvió atrás, y vio a Jesús que estaba de pie; mas no sabía que era Jesús.
+20:15 Dícele Jesús: ¿Mujer, por qué lloras? ¿A quién buscas? Ella pensando que era el hortelano le dice: Señor, si tú le has llevado, dime dónde le has puesto, y yo le llevaré.
+20:16 Dícele Jesús: María. Volviéndose ella, dícele: Raboni, que quiere decir, Maestro.
+20:17 Dícele Jesús: No me toques; porque aun no he subido a mi Padre; mas ve a mis hermanos, y diles: Subo a mi Padre, y a vuestro Padre, a mi Dios, y a vuestro Dios.
+20:18 Vino María Magdalena dando las nuevas a los discípulos de que había visto al Señor, y de que él le había dicho estas cosas.
+20:19 Y como fue tarde aquel mismo día, el primer día de la semana, y las puertas estaban cerradas, donde los discípulos estaban juntos por miedo de los Judíos, vino Jesús; se puso de pie en medio, y les dijo: Paz a vosotros.
+20:20 Y cuando hubo dicho esto, mostróles sus manos y su costado: entonces los discípulos se regocijaron, viendo al Señor.
+20:21 Entonces les dijo Jesús otra vez: Paz a vosotros: como me envió el Padre, así también yo os envío.
+20:22 Y cuando hubo dicho esto, sopló sobre ellos, y les dijo: Recibid el Espíritu Santo.
+20:23 A los que remitieres los pecados, les son remitidos, y a los que los retuviereis, les son retenidos.
+20:24 Empero Tomás uno de los doce, que se llamaba Dídimo, no estaba con ellos cuando Jesús vino.
+20:25 Dijéronle pues los otros discípulos: Al Señor hemos visto. Pero él les dijo: Si no viere en sus manos la señal de los clavos, y metiere mi dedo en el lugar de los clavos, y metiere mi mano en su costado, no creeré.
+20:26 Y ocho días después estaban otra vez sus discípulos dentro, y con ellos Tomás. Entonces vino Jesús, estando las puertas cerradas, y se puso de pie en medio, y dijo: Paz a vosotros.
+20:27 Entonces dice a Tomás: Mete tu dedo aquí, y ve mis manos; y da acá tu mano, y métela en mi costado, y no seas incrédulo, sino creyente.
+20:28 Entonces Tomás respondió, y le dijo: Señor mío, y Dios mío.
+20:29 Dícele Jesús: Porque me has visto, Tomás, has creído: bienaventurados son los que no han visto, y aún han creído.
+20:30 Y también muchas otras señales por cierto hizo Jesús en presencia de sus discípulos, las cuales no están escritas en este libro.
+20:31 Estas empero están escritas, para que creáis que Jesús es el Cristo, el Hijo de Dios; y para que creyendo, tengáis vida en su nombre.
+
+21:1 DESPUÉS de estas cosas Jesús se manifestó otra vez a los discípulos junto al mar de Tiberias; y se manifestó de esta manera.
+21:2 Estaban juntos Simón Pedro, y Tomás, que se llamaba Dídimo, y Natanael, de Caná de Galilea, y los hijos de Zebedeo, y otros dos de sus discípulos.
+21:3 Díceles Simón Pedro, a pescar voy: Ellos le dicen: Vamos nosotros también contigo. Fueron, y subieron luego en una nave; y aquella noche no tomaron nada.
+21:4 Empero venida la mañana, Jesús se puso de pie en la ribera; mas los discípulos no sabían que era Jesús.
+21:5 Entonces les dice Jesús: ¿Hijos, tenéis algo de comer? Respondiéronle: No.
+21:6 Y él les dijo: Echad la red a la derecha de la nave, y hallaréis. Echáronla pues, y ya no la podían en ninguna manera sacar por la multitud de los peces.
+21:7 Entonces aquel discípulo, al cual amaba Jesús, dijo a Pedro: El Señor es. Entonces Simón Pedro, cuando oyó que era el Señor, se ciñó su ropa de pescador, porque estaba desnudo, y echóse al mar.
+21:8 Y los otros discípulos vinieron en la pequeña nave (porque no estaban lejos de tierra, sino como doscientos codos), arrastrando la red con los peces.
+21:9 Y como llegaron a tierra, vieron ascuas puestas, y un pescado encima de ellas, y pan.
+21:10 Díceles Jesús: Traed de los peces que tomasteis ahora.
+21:11 Subió Simón Pedro, y trajo la red a tierra, llena de grandes peces, ciento y cincuenta y tres; y aun siendo tantos, la red no se rompió.
+21:12 Díceles Jesús: Venid, y comed. Y ninguno de los discípulos le osaba preguntar: ¿Tú, quién eres? sabiendo que era el Señor.
+21:13 Entonces viene Jesús, y toma el pan, y dales, y asimismo del pez.
+21:14 Esta era ya la tercera vez que Jesús se manifestó a sus discípulos, después que resucitó de entre los muertos.
+21:15 Pues cuando hubieron comido, Jesús dice a Simón Pedro: Simón, hijo de Jonás, ¿me amas más que éstos? Dícele: Sí, Señor: tú sabes que te amo. Dícele: Apacienta mis corderos.
+21:16 Vuélvele a decir la segunda vez: Simón, hijo de Jonás, ¿me amas? Respóndele: Sí, Señor: tú sabes que te amo. Dícele: Apacienta mis ovejas.
+21:17 Dícele la tercera vez: Simón, hijo de Jonás, ¿me amas? Entristecióse Pedro de que le dijese la tercera vez. ¿Me amas? Y le dice: Señor, tú sabes todas las cosas: tú sabes que te amo. Dícele Jesús: Apacienta mis ovejas.
+21:18 De cierto, de cierto te digo, que cuando eras más mozo, te ceñías, e ibas donde querías; mas cuando ya fueres viejo, extenderás tus manos, y ceñirte ha otro, y te llevará dónde no querrías.
+21:19 Y esto dijo, significando con qué muerte había de glorificar a Dios. Y cuando hubo dicho esto, dícele: Sígueme.
+21:20 Entonces volviéndose Pedro, ve a aquel discípulo al cual amaba Jesús que seguía, el que también se había recostado sobre su pecho en la cena, y le había dicho: ¿Señor, quién es el que te ha de entregar?
+21:21 Así que, como Pedro vio a éste, dice a Jesús: Señor, ¿Y éste, qué?
+21:22 Dícele Jesús: Si quiero que él quede hasta que yo venga, ¿qué a ti? Sígueme tú.
+21:23 Salió pues este dicho entre los hermanos, que aquel discípulo no había de morir; mas Jesús no le dijo: No morirá, sino: Si quiero que él quede hasta que yo venga, ¿qué a ti?
+21:24 Este es el discípulo que da testimonio de estas cosas, y escribió estas cosas; y sabemos que su testimonio es verdadero.
+21:25 Y hay también otras muchas cosas que hizo Jesús, las cuales si se escribiesen cada una por sí, yo pienso que ni aun en el mundo cabrían los libros que se habrían de escribir. Amén.
