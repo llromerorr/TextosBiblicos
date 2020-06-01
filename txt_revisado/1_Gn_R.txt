@@ -1,6 +1,6 @@
 #title Génesis
 #description Primer libro del Antiguo Testamento
-#abbreviation 1_Gn_R
+#abbreviation 1_Gn
 
 1:1 En el principio creó Dios el cielo y la tierra.
 1:2 Y la tierra estaba sin forma y vacía, y las tinieblas estaban sobre la faz del abismo, y el Espíritu de Dios se movía sobre la faz de las aguas.
@@ -38,7 +38,7 @@
 2:2 Y acabó Dios en el día séptimo su obra que hizo, y reposó el día séptimo de toda su obra que había hecho.
 2:3 Y bendijo Dios al día séptimo, y lo santificó, porque en él reposó de toda su obra que había Dios creado y hecho.
 2:4 Estos son los orígenes de los cielos y de la tierra cuando fueron creados, en el día que el SEÑOR Dios hizo la tierra y los cielos,
-2:5 Y toda planta del campo antes que se fue en la tierra, y toda hierba del campo antes que naciese: porque aún no había el SEÑOR Dios hecho llover sobre la tierra, ni había hombre para que labrase la tierra;
+2:5 Y toda planta del campo antes que fuese en la tierra, y toda hierba del campo antes que naciese: porque aún no había el SEÑOR Dios hecho llover sobre la tierra, ni había hombre para que labrase la tierra;
 2:6 Mas subía de la tierra un vapor, que regaba toda la faz de la tierra.
 2:7 Formó, pues, el SEÑOR Dios al hombre del polvo de la tierra, y alentó en su nariz soplo de vida; y fue el hombre en alma viviente.
 2:8 Y había el SEÑOR Dios plantado un huerto en Edén al oriente, y puso allí al hombre que había formado.
@@ -49,7 +49,7 @@
 2:13 El nombre del segundo río es Gihón: éste es el que rodea toda la tierra de Etiopía.
 2:14 Y el nombre del tercer río es Hidekel: éste es el que va delante de Asiria. Y el cuarto río es el Éufrates.
 2:15 Tomó, pues, el SEÑOR Dios al hombre, y le puso en el huerto de Edén, para que lo labrara y lo guardase.
-2:16 Y mandó el SEÑOR Dios al hombre, diciendo: De todo árbol del huerto podrás gratuitamente comer;
+2:16 Y mandó el SEÑOR Dios al hombre, diciendo: De todo árbol del huerto podrás libremente comer;
 2:17 Mas del árbol del conocimiento del bien y del mal no comerás de él; porque el día que de él comieres, ciertamente morirás.
 2:18 Y dijo el SEÑOR Dios: No es bueno que el hombre esté solo; le haré ayuda idónea para él.
 2:19 Formó, pues, el SEÑOR Dios de la tierra toda bestia del campo, y toda ave del cielo, y las trajo a Adam, para que viese cómo les había de llamar; y todo lo que Adam llamó a los animales vivientes, ese fue su nombre.
@@ -62,7 +62,7 @@
 
 3:1 Pero la serpiente era astuta, mas que todos los animales del campo que el SEÑOR Dios había hecho; la cual dijo a la mujer: ¿Conque Dios os ha dicho: No comáis de todo árbol del huerto?
 3:2 Y la mujer respondió a la serpiente: Del fruto de los árboles del huerto podemos comer
-3:3 Mas del fruto del árbol que está en medio del huerto dijo Dios: No comeréis de él, ni le tocaréis, porque no muráis.
+3:3 Mas del fruto del árbol que está en medio del huerto dijo Dios: No comeréis de él, ni le tocaréis, para que no muráis.
 3:4 Entonces la serpiente dijo a la mujer: Ciertamente no moriréis;
 3:5 Mas sabe Dios que el día que comiereis de él, serán abiertos vuestros ojos, y seréis como dioses sabiendo el bien y el mal.
 3:6 Y cuando vio la mujer que el árbol era bueno para comer, y que era agradable a los ojos, y árbol codiciable para alcanzar la sabiduría; tomó de su fruto, y comió; y dio también a su marido, el cual comió así como ella.
@@ -553,14 +553,14 @@
 21:15 Y faltó el agua del odre, y echó al muchacho debajo de un árbol;
 21:16 Y se fue y se sentó enfrente, alejándose como un tiro de arco: porque decía, No veré cuando el muchacho morirá. Y ella se sentó enfrente, y alzó su voz y lloró.
 21:17 Y oyó Dios la voz del muchacho; y el ángel de Dios llamó a Agar desde el cielo, y le dijo: ¿Qué tienes, Agar? No temas; porque Dios ha oído la voz del muchacho en donde está.
-21:18 Levántate, alza al muchacho, y ásele de tu mano, porque en gran gente lo tengo de poner.
+21:18 Levántate, alza al muchacho, y sostenlo con tu mano, porque en gran gente lo tengo de poner.
 21:19 Entonces abrió Dios sus ojos, y vio una fuente de agua; y fue, y llenó el odre de agua, y dio de beber al muchacho.
 21:20 Y fue Dios con el muchacho; y creció, y habitó en el desierto, y fue tirador de arco.
 21:21 Y habitó en el desierto de Parán; y su madre le tomó mujer de la tierra de Egipto.
 21:22 Y aconteció en aquel mismo tiempo que habló Abimelec, y Ficol, príncipe de su ejército, a Abraham diciendo: Dios es contigo en todo cuanto haces:
 21:23 Ahora pues, júrame aquí por Dios, que no faltarás a mí, ni a mi hijo, ni a mi nieto; sino que conforme a la bondad que yo hice contigo, harás tú conmigo, y con la tierra donde has peregrinado.
 21:24 Y respondió Abraham: Yo juraré.
-21:25 Y Abraham reconvino a Abimelec a causa de un pozo de agua, que los siervos de Abimelec le habían quitado.
+21:25 Y Abraham reprendió a Abimelec a causa de un pozo de agua, que los siervos de Abimelec le habían quitado.
 21:26 Y respondió Abimelec: No sé quién haya hecho esto, ni tampoco tú me lo hiciste saber, ni yo lo he oído hasta hoy.
 21:27 Y tomó Abraham ovejas y vacas, y dio a Abimelec; e hicieron ambos alianza.
 21:28 Y puso Abraham siete corderas del rebaño aparte.
