@@ -1,0 +1,622 @@
+#title Jueces
+#description Descripcion
+#abbreviation 7_Jue
+
+1:1 Después de la muerte de Josué, los israelitas consultaron al Señor, y le preguntaron: «¿Quién de nosotros irá primero a pelear contra los cananeos?»
+1:2 Y el Señor respondió: «El primero será Judá, porque yo he puesto la tierra en sus manos.»
+1:3 Judá dijo entonces a su hermano Simeón: «Acompáñame al lugar que me ha tocado en suerte. Pelea conmigo contra los cananeos, y yo te acompañaré cuando vayas a reclamar tu tierra.» Y Simeón lo acompañó,
+1:4 y el Señor entregó en sus manos a los cananeos y los ferezeos, y en Bezec hirieron de muerte a diez mil hombres.
+1:5 Y como en Bezec hallaron a Adonibésec, pelearon contra él y derrotaron a los cananeos y ferezeos.
+1:6 Pero Adonibésec huyó, así que lo persiguieron, y cuando lo aprehendieron le cortaron los pulgares de las manos y los dedos gordos de los pies.
+1:7 Entonces Adonibésec dijo: «A setenta reyes les corté los pulgares de las manos y los dedos gordos de los pies, y así recogían las migajas debajo de mi mesa. Lo mismo que les hice a ellos, ahora Dios lo hace conmigo.» Y lo llevaron a Jerusalén, donde murió.
+1:8 Los hijos de Judá atacaron la ciudad de Jerusalén y la tomaron, y mataron a sus habitantes a filo de espada, y luego le prendieron fuego a la ciudad.
+1:9 Después de eso, fueron a pelear contra los cananeos que habitaban en las montañas, en el Néguev, y en los llanos,
+1:10 y también marcharon contra los cananeos que vivían en Hebrón, y que antes se llamaba Quiriat Arbá. Allí hirieron a Sesay, a Ajimán y a Talmay.
+1:11 De Hebrón marcharon contra los habitantes de Debir, ciudad que antes se llamaba Quiriat Séfer.
+1:12 Allí Caleb dijo: «Mi hija Acsa será la mujer de quien ataque Quiriat Séfer y la conquiste.»
+1:13 Y Otoniel hijo de Cenaz, hermano de Caleb, la conquistó y recibió por mujer a Acsa.
+1:14 Y ya se iba ella con Otoniel, cuando él la persuadió de pedirle a su padre tierras de cultivo. Entonces Acsa se apeó del asno, y Caleb le preguntó: «¿Qué es lo que quieres?»
+1:15 Y ella le respondió: «Hazme un regalo. Ya que me diste las tierras del Néguev, dame también manantiales.» Y Caleb le dio los manantiales de arriba y los de abajo.
+1:16 Los quenitas, que eran descendientes del suegro de Moisés, salieron de la ciudad de las palmeras y se fueron a vivir con los hijos de Judá, en el desierto que está en el Néguev cerca de Arad.
+1:17 Judá acompañó a su hermano Simeón a luchar contra los cananeos que habitaban en Sefat, y los derrotaron, y luego de destruir la ciudad le pusieron por nombre Jormá.
+1:18 Judá también tomó Gaza, Ascalón y Ecrón, con sus territorios.
+1:19 Como el Señor estaba de parte de Judá, éste arrojó a los habitantes de las montañas, aunque no logró hacer lo mismo con los habitantes de los llanos porque ellos tenían carros de hierro.
+1:20 Pero Caleb recibió Hebrón, tal como Moisés lo había dicho, y arrojó de allí a los tres hijos de Anac.
+1:21 Sin embargo, los benjaminitas no pudieron expulsar a los jebuseos que habitaban en Jerusalén, y éstos se quedaron allí, conviviendo con los benjaminitas hasta el día de hoy.
+1:22 El Señor también estaba con la tribu de José, que fue y peleó contra Betel, que antes se llamaba Luz,
+1:23 y donde puso espías en las afueras de la ciudad.
+1:24 Cuando los espías vieron a un hombre salir de la ciudad, lo llamaron y le dijeron: «Dinos cómo entrar a la ciudad, y tendremos compasión de ti.»
+1:25 Y cuando el hombre les mostró la puerta, entraron hiriendo a filo de espada a sus moradores, pero al hombre que los ayudó, lo dejaron ir con toda su familia.
+1:26 Y el hombre se fue a la tierra de los hititas, donde edificó una ciudad que llamó Luz; y así se llama hasta el día de hoy.
+1:27 Manasés tampoco pudo vencer a los habitantes de Bet Seán, ni a los de Tanac, ni a los de Dor, ni a los habitantes de Ibleam, ni a los de Meguido y sus aldeas, así que los cananeos siguieron ocupando esas tierras.
+1:28 Cuando los israelitas se hicieron fuertes, lograron imponerles tributo pero no los expulsaron.
+1:29 Tampoco los efraimitas pudieron expulsar a los cananeos de Guézer, y éstos se quedaron allí, entre ellos.
+1:30 Zabulón tampoco pudo expulsar a los habitantes de Quitrón, ni a los de Nalal, así que los cananeos se quedaron a vivir entre ellos, aunque pagando tributo.
+1:31 Tampoco Aser pudo arrojar a los habitantes de Aco, ni a los de Sidón, en Ajlab, en Aczib, en Jelba, en Afec y en Rejob,
+1:32 sino que tuvo que vivir entre los cananeos de esa tierra.
+1:33 Neftalí no pudo arrojar a los habitantes de Bet Semes, ni a los de Bet Anat, y vivió entre los cananeos, pero les impuso tributo a los de Bet Semes y de Bet Anat.
+1:34 Los amorreos persiguieron a los danitas hasta las montañas, y no les permitieron bajar a las llanuras.
+1:35 Los amorreos siguieron viviendo en el monte de Heres, en Ayalón y en Sagalbín; pero cuando la tribu de José se hizo fuerte, los obligó a pagar tributo.
+1:36 La frontera con los amorreos empezaba en la cuesta de Acrabín, desde Sela hasta la cima.
+2:1 El ángel del Señor fue de Gilgal a Boquín, y les dijo a los israelitas: «Yo los liberé de Egipto y los llevé a la tierra que prometí dar a sus antepasados, cuando les dije: “Nunca anularé mi pacto con ustedes,
+2:2 mientras no hagan pacto con los que habitan en esta tierra, gente que tiene altares que ustedes deben destruir.” Pero ustedes no me hicieron caso. ¿Por qué no lo han hecho?
+2:3 Por lo tanto, escúchenme bien: No voy a expulsar de estas tierras a sus habitantes, sino que ellos serán para ustedes como azotes en los costados, y sus dioses los confundirán.»
+2:4 Cuando el ángel del Señor dijo esto a los israelitas, ellos se echaron a llorar con fuerte voz.
+2:5 Por eso, a ese lugar lo llamaron Boquín,1 y allí ofrecieron sacrificios al Señor.
+2:6 Josué despidió al pueblo de Israel, y cada uno fue y tomó posesión de su heredad.
+2:7 Y mientras vivió Josué, y los ancianos que le sobrevivieron y que habían visto las obras del Señor en favor de Israel, todo el pueblo sirvió al Señor.
+2:8 Y Josué hijo de Nun, siervo del Señor, murió a la edad de ciento diez años.
+2:9 Lo sepultaron en Timnat Seraj, que era su heredad, en el monte de Efraín, al norte del monte de Gaas.
+2:10 Y murió también toda esa generación, y se reunió con sus antepasados. Después de ellos vino otra generación que no conocía al Señor, ni sabía lo que el Señor había hecho por Israel.
+2:11 Los israelitas hicieron lo malo a los ojos del Señor, y adoraron a los baales.
+2:12 Abandonaron al Señor, el Dios que sacó a sus antepasados de la tierra de Egipto, y empezaron a adorar a los dioses de los pueblos que vivían a su alrededor, con lo que provocaron el enojo del Señor.
+2:13 Se apartaron del Señor, para adorar a Baal y a Astarot.
+2:14 Por eso el Señor se enojó contra el pueblo de Israel y los entregó en manos de ladrones, que lo despojaron de todo; los dejó a merced de los enemigos que lo rodeaban, a los cuales ya no pudo vencer.
+2:15 A dondequiera que iban, la mano del Señor estaba en contra de ellos para su mal, y tal como se lo había jurado, se vieron en gran aflicción.
+2:16 Entonces el Señor suscitó caudillos para que los libraran de aquellos que los despojaban.
+2:17 Pero ellos tampoco escuchaban a sus caudillos, sino que se fueron tras dioses ajenos, a los cuales adoraron, y pronto se apartaron del camino que habían seguido sus antepasados, pues sus antepasados habían obedecido los mandamientos del Señor, pero ellos no lo hicieron así.
+2:18 Cuando el Señor suscitaba algún caudillo, también lo apoyaba y, mientras ese caudillo vivía, los libraba del poder de sus enemigos, pues el Señor se conmovía al escuchar los gemidos de su pueblo oprimido y afligido.
+2:19 Pero al morir aquel caudillo, el pueblo volvía a corromperse aún más que sus antepasados, y seguía a los dioses ajenos para servirles y adorarlos; y no se arrepentían de sus obras, ni de su obstinada conducta.
+2:20 Por eso la ira del Señor se encendió contra Israel, y dijo: «Como este pueblo ha roto el pacto que establecí con sus antepasados, y no me obedece,
+2:21 tampoco yo volveré a expulsar delante de ellos a ninguna de las naciones que Josué dejó al morir.»
+2:22 Ésta era una prueba para Israel, para ver si se esforzaban en volver al camino del Señor, como sus antepasados.
+2:23 Por esta razón, el Señor no expulsó a aquellas naciones, ni se las entregó a Josué, sino que las dejó entre ellos.
+3:1 Éstos son los pueblos que el Señor dejó para poner a prueba a todos los israelitas que no habían sabido nada de las guerras de Canaán.
+3:2 El Señor los dejó sólo para que los descendientes de los israelitas aprendieran a pelear y enseñaran a quienes no habían combatido.
+3:3 Eran cinco los jefes de los filisteos, cananeos, sidonios y jivitas que vivían en el monte Líbano, desde el monte de Baal Hermón hasta Jamat.
+3:4 El Señor los usó para poner a prueba a Israel y ver si obedecerían los mandamientos que había entregado a sus antepasados, por medio de Moisés.
+3:5 Y los israelitas vivieron entre los cananeos, hititas, amorreos, ferezeos, jivitas y jebuseos,
+3:6 y se casaron con sus mujeres, y dejaron que sus hijas se casaran con hombres de esos pueblos, y rindieron culto a sus dioses.
+3:7 Pero los israelitas hicieron lo malo a los ojos del Señor, y se olvidaron de él por adorar a las imágenes de Baal y de Asera.
+3:8 Eso provocó que la ira del Señor se encendiera contra Israel, y los dejó caer en manos de Cusán Risatayin, rey de Mesopotamia, a quien sirvieron durante ocho años.
+3:9 Entonces los israelitas clamaron al Señor, y él los oyó y levantó como su libertador a Otoniel hijo de Cenaz, hermano menor de Caleb.
+3:10 El espíritu del Señor estuvo con él cuando fue caudillo de Israel, y salió a pelear contra Cusán Risatayin, rey de Siria, y el Señor le dio la victoria y lo hizo vencer a Cusán Risatayin.
+3:11 Después de esto, hubo paz en la tierra durante cuarenta años, y murió Otoniel hijo de Cenaz.
+3:12 Los israelitas volvieron a hacer lo malo a los ojos del Señor, y por eso el Señor dejó que Eglón, rey de Moab, los venciera.
+3:13 Fue así como Eglón, rey de Moab, reunió a los amonitas y amalecitas, y luchó contra Israel y lo hirió de muerte, y tomó la ciudad de las palmeras.
+3:14 Durante dieciocho años los israelitas sirvieron a Eglón, rey de los moabitas.
+3:15 Pero los israelitas volvieron a pedir ayuda al Señor, y él volvió a levantar a otro libertador. Eligió a un benjaminita zurdo llamado Aod hijo de Gera. Un día, los israelitas enviaron un regalo a Eglón, rey de Moab, por medio de Aod.
+3:16 Éste se había hecho un puñal de doble filo, que medía como cincuenta centímetros de largo, y se lo ajustó del lado derecho, debajo de su ropa.
+3:17 Cuando Aod llegó ante el rey, que era un hombre robusto, le entregó el regalo,
+3:18 después de lo cual Aod y sus acompañantes se despidieron.
+3:19 Pero al llegar adonde estaban los ídolos de Gilgal, Aod regresó y le dijo: «Su Majestad, tengo algo que decirle en secreto.» El rey le pidió que esperara, y a todos los que estaban con él les ordenó salir.
+3:20 Como el rey estaba sentado solo en su sala de verano, Aod se acercó y le dijo: «Tengo para ti un mensaje de parte de Dios.» Cuando el rey se levantó de su trono,
+3:21 con su mano izquierda Aod sacó el puñal que llevaba en su lado derecho, y se lo hundió en el vientre.
+3:22 Con tal fuerza se lo clavó, que la empuñadura entró junto con la hoja, y su gordura la cubrió, y Aod no pudo retirar el puñal porque al rey se le derramó el excremento.
+3:23 Entonces Aod salió al corredor, cerró las puertas de la sala tras de sí, y las aseguró con el cerrojo.
+3:24 Al salir Aod, los siervos del rey fueron a ver al rey, pero al ver que las puertas de la sala estaba cerradas, dijeron: «Seguramente el rey se está cubriendo los pies en la sala de verano.»
+3:25 Pero como pasaba el tiempo y el rey no abría, no sabían qué hacer; finalmente, tomaron la llave y abrieron, y se encontraron con que su amo estaba tirado en el suelo, ya muerto.
+3:26 Como ellos se entretuvieron tanto tiempo, Aod logró escapar y, luego de pasar más allá de los ídolos, se puso a salvo en Seirat.
+3:27 Al llegar allá, hizo sonar el cuerno en el monte de Efraín, y los israelitas descendieron con él del monte. Aod iba al frente de ellos,
+3:28 y les dijo: «Síganme, porque el Señor ha entregado a los moabitas en nuestras manos.» Y los israelitas bajaron tras él, tomaron los vados del Jordán, y no permitieron que nadie más lo cruzara.
+3:29 Ese día mataron como a diez mil moabitas, y aunque todos eran valientes hombres de guerra, ninguno de ellos escapó con vida.
+3:30 Así fue subyugado Moab bajo el mando de Israel, y la tierra estuvo en paz durante ochenta años.
+3:31 Después de Aod, surgió Samgar hijo de Anat, quien mató a seiscientos filisteos con una aguijada de bueyes, y así salvó a Israel.
+4:1 Después de la muerte de Aod, los israelitas volvieron a hacer lo malo a los ojos del Señor.
+4:2 Por eso el Señor los dejó caer en manos de Jabín, el rey cananeo que reinaba en Jazor. El capitán del ejército enemigo se llamaba Sísara, y vivía en Jaroset Goyín.
+4:3 Entonces los israelitas clamaron al Señor para que los librara, pues Jabín tenía novecientos carros de hierro y durante veinte años había oprimido cruelmente a los israelitas.
+4:4 En aquel tiempo gobernaba a Israel una profetisa llamada Débora, que era mujer de Lapidot.
+4:5 Débora acostumbraba sentarse bajo una palmera que estaba entre Ramá y Betel, en el monte de Efraín. Los israelitas iban a ese lugar, conocido como «La palmera de Débora», para que les hiciera justicia.
+4:6 Un día, Débora mandó llamar a Barac hijo de Abinoán, quien era de Cedes de Neftalí. Cuando Barac llegó, ella le preguntó: «El Señor y Dios de Israel te ha dado una orden, ¿no es verdad? Te ha dicho: “Ve y reúne a tu gente en el monte de Tabor. Toma diez mil hombres de la tribu de Neftalí y de la tribu de Zabulón.
+4:7 Yo voy a hacer que Sísara, el capitán del ejército de Jabín, vaya al arroyo de Cisón con sus carros y su ejército, y allí lo entregaré en tus manos.”»
+4:8 Y Barac le respondió: «Iré, si tú vas conmigo. Si no vas conmigo, no iré.»
+4:9 Ella le dijo: «Voy a ir contigo. Pero la gloria de la victoria no será tuya, porque el Señor va a poner a Sísara en manos de una mujer.» Y así, Débora se levantó y acompañó a Barac hasta Cedes.
+4:10 Allí Barac reunió a las tribus de Zabulón y Neftalí, que eran diez mil hombres bajo su mando. Débora lo acompañó.
+4:11 Un quenita llamado Jéber, descendiente de Hobab, el suegro de Moisés, se había apartado de los quenitas para plantar sus tiendas de campaña en el valle de Sanayin, junto a Cedes.
+4:12 Como Sísara fue informado de que Barac hijo de Abinoán había subido al monte Tabor,
+4:13 reunió sus novecientos carros de hierro y a todo su ejército, que era tan numeroso que se extendía desde Jaroset Goyín hasta el arroyo de Cisón.
+4:14 Entonces Débora le dijo a Barac: «Levántate, que hoy el Señor va a poner a Sísara en tus manos, pues en verdad el Señor está contigo.» Barac bajó entonces del monte Tabor con sus diez mil hombres,
+4:15 y el Señor derrotó delante de Barac a Sísara, desbaratando sus carros y pasando a filo de espada a todo su ejército. Al ver esto, Sísara bajó de su carro y huyó a pie.
+4:16 Pero Barac persiguió los carros y al ejército hasta Jaroset Goyín, y los pasó a filo de espada, hasta no dejar a uno solo con vida.
+4:17 Sísara, que había huido a pie, llegó a la tienda de campaña de Yael, mujer de Jéber el quenita, pues Jabín, el rey de Jazor, estaba en paz con la tribu de Jéber.
+4:18 Yael salió a recibir a Sísara, y le dijo: «Acércate, mi señor, no tengas miedo.» Sísara entró en la tienda de campaña, y ella lo cubrió con una manta.
+4:19 Entonces el rey le dijo: «Por favor, dame a beber un poco de agua, pues tengo mucha sed.» Yael abrió un odre de leche, le dio de beber, y lo volvió a cubrir.
+4:20 Entonces Sísara le dijo: «Quédate a la entrada de tu tienda, y si alguien viene y te pregunta si hay alguien aquí, tú le responderás que no.»
+4:21 Pero como Sísara estaba muy cansado y pronto se quedó dormido, Yael tomó una estaca de la tienda y un mazo y, acercándose sigilosamente, le clavó la estaca en las sienes, hasta hundirla en tierra. Así murió Sísara.
+4:22 Como Barac iba siguiendo a Sísara, cuando Yael lo vio, salió a recibirlo y le dijo: «Ven, que voy a mostrarte al hombre que buscas.» Barac entró con ella, y se encontró con que Sísara estaba ahí, muerto y con la estaca clavada en la sien.
+4:23 Ese día, Dios humilló al rey cananeo Jabín frente a los israelitas,
+4:24 y éstos fueron endureciendo su trato contra Jabín, hasta que lo destruyeron.
+5:1 Aquel día Débora y Barac hijo de Abinoán, celebraron así su victoria:
+5:2 «¡Alabemos al Señor! ¡Los caudillos de Israel encabezaron al pueblo, y el pueblo libremente se dispuso a luchar!
+5:3 »Ustedes, reyes y príncipes, escuchen bien lo que voy a decir: ¡Yo quiero, sí, yo quiero cantarle al Señor! ¡Quiero cantarle salmos al Señor y Dios de Israel!
+5:4 »Cuando tú, Señor, saliste de Seir, cuando avanzaste desde los campos de Edom, la tierra se estremeció; las nubes en los cielos se llenaron de lluvia;
+5:5 ¡en tu presencia, Señor y Dios de Israel, temblaron los montes como el Sinaí!
+5:6 »En los días de Samgar hijo de Anat, que fueron los días de Yael, los caminos se quedaron abandonados, los viajeros se apartaron por atajos escabrosos,
+5:7 los poblados israelitas quedaron abandonados, hasta que yo, Débora, me llené de valor y como madre me puse al frente de Israel.
+5:8 »Los israelitas escogieron nuevos dioses; la guerra estaba a las puertas de la ciudad, pero no había un solo escudo, ni una lanza, entre los cuarenta mil hombres de Israel.
+5:9 Mi corazón está con ustedes, jefes de Israel, porque libremente se dispusieron a luchar. »¡Alabemos al Señor!
+5:10 »¡Proclamen esto, ustedes, los jefes que montan asnas blancas y en sillas tapizadas recorren los caminos!
+5:11 ¡Anuncien los triunfos del Señor, obtenidos en las aldeas de Israel! ¡Díganlo a voz en cuello en los abrevaderos, entre la gente que da de beber a los guerreros! ¡El ejército del Señor avanza hacia las puertas!
+5:12 »¡Despierta, Débora, despierta! ¡Despierta y canta! ¡Tu deber es cantar! Y tú, Barac hijo de Abinoán, ¡levántate y llévate a tus cautivos!
+5:13 »Y el resto de los nobles se puso en marcha; el pueblo del Señor avanzó en pos de mí para luchar contra los poderosos.
+5:14 De Efraín vinieron los habitantes de Amalec; a ti, Benjamín, te siguieron tus guerreros; de Maquir acudieron sus príncipes, y de Zabulón vinieron sus gobernantes.
+5:15 Los caudillos de Isacar estaban con Débora, y bajaron al valle para apoyar a Barac. Entre las familias de Rubén se hallaban hombres de corazón resuelto.
+5:16 »Y tú, ¿por qué te quedaste en los rediles, Escuchando los balidos del rebaño, si entre las familias de Rubén hay hombres de corazón resuelto?
+5:17 »Galaad se quedó al otro lado del Jordán, y Dan se mantuvo al lado de las naves. Aser se quedó tranquilo en la playa, y no se apartó de sus puertos.
+5:18 Pero el ejército de Zabulón y Neftalí arriesgó su vida luchando en los altos montes.
+5:19 »Fueron muchos los reyes que vinieron a pelear: A Tanac, junto a las aguas de Meguido, vinieron y pelearon los reyes de Canaán, pero no lograron llevarse ningún tesoro.
+5:20 Desde los cielos pelearon las estrellas; ¡desde sus órbitas pelearon contra Sísara!
+5:21 ¡Se los llevó el caudaloso torrente! ¡Sí, el antiguo torrente Cisón los arrastró! »¡Alma mía, sigue adelante con poder!
+5:22 »Resonaron entonces los cascos de los corceles, que golpeaban el suelo a galope tendido.
+5:23 Y el ángel del Señor exclamó: “¡Maldigan a Meroz, sí, maldíganlo! ¡Maldigan con dureza a sus habitantes por no acudir al llamado del Señor ni acudir en ayuda de sus valientes!”
+5:24 »¡Bendita sea sobre todas las mujeres Yael, la mujer de Jéber el quenita! ¡Bendita sea en su casa sobre todas las mujeres!
+5:25 Sísara pidió agua, y ella le dio leche; le dio crema en tazón de nobles.
+5:26 Con una mano tomó la estaca, y con la otra el mazo de trabajo, y golpeó a Sísara en la cabeza; ¡de un golpe le atravesó las sienes!
+5:27 Sísara cayó encorvado, y quedó tendido; ¡cayó fulminado a los pies de Yael! ¡Allí donde se encorvó, allí se quedó!
+5:28 »La madre de Sísara se asomaba a la ventana; su voz podía escucharse entre las celosías: “¿Por qué tarda tanto el carro de mi hijo? ¿Por qué no se oyen las ruedas de sus carros?”
+5:29 Con mucho tacto, sus damas respondían, y aun ella trataba de convencerse:
+5:30 “Seguramente estarán repartiéndose el botín. Una o dos doncellas para cada soldado; para Sísara, las vestiduras bordadas de colores; para los jefes de los que tomaron el botín, las telas bordadas por ambos lados.”
+5:31 »¡Así perezcan, Señor, todos tus enemigos! ¡Y que los que te aman irradien luz, como el sol cuando sale en todo su esplendor!» Después de esto, hubo paz en la tierra durante cuarenta años.
+6:1 Los israelitas hicieron lo malo a los ojos del Señor, y durante siete años el Señor los dejó caer en manos de Madián.
+6:2 Los madianitas oprimieron con tanta crueldad a los israelitas, que ellos hicieron cuevas y refugios en los montes y en lugares inaccesibles.
+6:3 Y es que después de que los israelitas habían sembrado, venían los madianitas y los amalecitas, y los que habitaban al oriente, y los atacaban.
+6:4 Acampaban cerca de ellos, y destruían hasta Gaza los frutos de la tierra, y no les dejaban a los israelitas nada para comer, ni ovejas, ni bueyes ni asnos.
+6:5 Venían en grandes multitudes, como si fueran una plaga de langostas, y acampaban con sus ganados y camellos, y devastaban la tierra.
+6:6 Por culpa de los madianitas, los israelitas se habían empobrecido demasiado, así que clamaron al Señor
+6:7 por todo el mal que les causaban los madianitas. Ante su clamor,
+6:8 el Señor les envió un profeta, que les dijo: «Así dice el Señor, el Dios de Israel: “Yo los saqué de Egipto, donde eran esclavos.
+6:9 Yo los libré del poder de los egipcios y de cuantos los afligían. A todos ellos los arrojé lejos de ustedes, y a ustedes les di su tierra.
+6:10 Yo les confirmé que soy el Señor su Dios. Así que no tengan miedo de los dioses de los amorreos, que todavía están entre ustedes. Pero ninguno me obedeció.”»
+6:11 Entonces el ángel del Señor vino a Ofrá y se sentó debajo de una encina, que era propiedad de Joás el abiezerita. En ese momento Gedeón, el hijo de Joás, estaba en el lagar, sacudiendo el trigo para esconderlo de los madianitas.
+6:12 Y el ángel del Señor se le apareció y le dijo: «El Señor está contigo, porque eres un hombre valiente y aguerrido.»
+6:13 Y Gedeón le respondió: «Señor mío, si el Señor está con nosotros, ¿cómo es que nos ha sobrevenido todo este mal? ¿Dónde están las maravillas que nuestros padres nos contaron, cuando nos decían que el Señor los había sacado de Egipto? ¡Pero ahora resulta que el Señor nos ha desamparado, y que nos ha entregado en manos de los madianitas!»
+6:14 El Señor lo miró fijamente, y le dijo: «Con esa misma fuerza que demuestras, vas a salvar a Israel del poder de los madianitas. ¿Acaso no soy yo quien te está enviando?»
+6:15 Pero Gedeón le respondió: «Mi señor, ¿y cómo voy a salvar a Israel? ¡Yo soy de la familia más pobre que hay en Manasés, y en la casa de mi padre soy el más pequeño!»
+6:16 El Señor le dijo: «Confía en mí, porque yo estoy contigo. Tú derrotarás a los madianitas como si se tratara de un solo hombre.»
+6:17 Pero Gedeón respondió: «Si en verdad cuento con tu favor, yo te ruego que me des una señal clara de que has hablado conmigo.
+6:18 Por favor, no te muevas de aquí hasta que yo vuelva y te presente la ofrenda que tengo para ti.» Y el Señor le respondió: «Esperaré a que vuelvas.»
+6:19 Gedeón fue entonces y preparó un cabrito; tomó veinte litros de harina para hacer panes sin levadura, y luego puso la carne en un canastillo y el caldo en una olla, y todo esto lo llevó y lo puso debajo de la encina.
+6:20 Allí el ángel de Dios le dijo: «Toma la carne y los panes sin levadura, y ponlos sobre la peña, y sobre ella derrama el caldo.» Gedeón lo hizo así.
+6:21 Entonces el ángel del Señor extendió el bastón que tenía en la mano, y con la punta tocó la carne y los panes sin levadura. Al instante brotó fuego de la peña, y consumió la carne y los panes sin levadura, y el ángel del Señor desapareció de su vista.
+6:22 Gedeón comprendió que había visto al ángel del Señor y exclamó: «¡Ay, mi Señor y Dios, que he visto a tu ángel cara a cara!»
+6:23 Pero el Señor le dijo: «La paz sea contigo. No tengas miedo, que no vas a morir.»
+6:24 Allí, Gedeón edificó un altar al Señor y lo llamó «El Señor es la paz»,2 y hasta el día de hoy este altar puede verse en Ofrá de los abiezeritas.
+6:25 Esa misma noche, el Señor le dijo a Gedeón: «Ve y toma el toro de siete años, es decir, el segundo del hato de tu padre; luego derriba el altar que tu padre levantó en honor de Baal, y derriba también la imagen de Asera que está junto al altar.
+6:26 Luego, en un lugar conveniente, en la cumbre de este peñasco, edifica un altar al Señor tu Dios, y cuando hayas tomado el segundo toro, con la madera de la imagen de Asera que derribaste me lo ofrecerás como holocausto.»
+6:27 Gedeón llamó entonces a diez de sus siervos, y cumplió con lo que el Señor le había ordenado. Pero lo hizo de noche, pues temía hacerlo de día porque lo podían ver la familia de su padre y la gente de la ciudad.
+6:28 A la mañana siguiente, cuando todos se levantaron, vieron que el altar de Baal había sido derribado, que la imagen de Asera que estaba a su lado había sido destrozada, y que el segundo toro había sido ofrecido en holocausto sobre el nuevo altar.
+6:29 Y unos a otros se preguntaban quién podía haberlo hecho. Luego de investigar, supieron que lo había hecho Gedeón, el hijo de Joás. Entonces fueron a ver a Joás y le dijeron:
+6:30 «Entréganos a tu hijo para matarlo, porque derribó el altar de Baal y destrozó la imagen de Asera que estaba a su lado.»
+6:31 Y Joás les respondió: «¿Quieren luchar en favor de Baal y defender su causa? El que esté a su favor, que muera esta mañana. Si en verdad Baal es un dios, déjenlo que luche él mismo contra quien derribó su altar.»
+6:32 Ese día a Gedeón se le llamó Yerubaal, es decir: «Que luche Baal contra él», porque había derribado su altar.
+6:33 Mientras tanto, los madianitas, los amalecitas y los del oriente se aliaron y, luego de cruzar el río, acamparon en el valle de Jezrel.
+6:34 Entonces el espíritu del Señor vino sobre Gedeón y, cuando éste hizo sonar el cuerno, los abiezeritas se le unieron.
+6:35 Además, Gedeón envió mensajeros a las tribus de Manasés, Aser, Zabulón y Neftalí, y ellas también se le unieron y salieron a su encuentro.
+6:36 Entonces Gedeón le dijo a Dios: «Si vas a salvar a Israel por medio de mí, como lo has prometido,
+6:37 déjame poner en la era un vellón de lana. Si al amanecer hay rocío sobre el vellón, pero a su alrededor el suelo está seco, con eso entenderé que tú salvarás a Israel por medio de mí, como lo has prometido.»
+6:38 Y así sucedió. Cuando Gedeón se levantó, exprimió el vellón, y con el rocío que sacó llenó un tazón de agua.
+6:39 Pero Gedeón volvió a decirle al Señor: «No te enojes conmigo, Señor, si insisto, pero quiero hacer otra prueba con el vellón. Te ruego que esta vez sólo el vellón quede seco, y que alrededor de él haya rocío en el suelo.»
+6:40 Y esa misma noche Dios lo hizo así: sólo el vellón quedó seco, y sobre el suelo había rocío.
+7:1 Gedeón, también llamado Yerubaal, se levantó muy de mañana y, junto con toda su gente, acampó cerca del manantial de Jarod. El campamento de los madianitas estaba al norte, en el valle, más allá del collado de More.
+7:2 El Señor le dijo a Gedeón: «Es mucha la gente que viene contigo. No quiero que vayan a sentirse orgullosos cuando derroten a los madianitas, y que se pongan en mi contra y digan que se salvaron por su propia fuerza.
+7:3 Así que habla fuerte para que el pueblo escuche, y diles que quien tenga miedo, que se levante y regrese a su casa.» Y desde el monte de Galaad se regresaron veintidós mil hombres, y sólo se quedaron diez mil.
+7:4 Pero el Señor volvió a decir: «Todavía es mucha gente. Llévalos al río, para que allí los ponga a prueba. Si yo te digo: “Éste puede acompañarte”, irá contigo; pero si te digo: “Éste no te acompañará”, entonces no irá contigo.»
+7:5 Gedeón llevó entonces a su gente al río, y allí el Señor le dijo: «Pon aparte a todo aquel que beba agua como los perros, es decir, lamiéndola, y aparta también a todo el que se arrodille para beber.»
+7:6 Los que se llevaron el agua a la boca con la mano y la lamieron fueron trescientos hombres; el resto de la gente se arrodilló para beber.
+7:7 Entonces el Señor le dijo a Gedeón: «Con estos trescientos hombres que lamieron el agua los voy a salvar. Entregaré a los madianitas en tus manos. El resto de la gente puede volverse a casa.»
+7:8 Se prepararon provisiones y trompetas para la gente, y a los demás Gedeón los envió de regreso a su casa; sólo retuvo a los trescientos hombres. El campamento de Madián estaba en el valle.
+7:9 Y aquella noche el Señor le dijo a Gedeón: «Levántate y ataca el campamento madianita, porque yo los he entregado en tus manos.
+7:10 Si tienes miedo de ir, que te acompañe Fura, tu criado.
+7:11 En cuanto oigas lo que dicen los madianitas, ármate de valor y atácalos.» Acompañado de Fura, su criado, Gedeón llegó hasta los puestos avanzados de la gente armada que estaba en el campamento.
+7:12 Los madianitas, los amalecitas y los hijos del oriente se habían extendido por el valle como una plaga de langostas. Sus camellos eran tantos como la arena del mar.
+7:13 Cuando Gedeón llegó al campamento, un hombre le contaba a su compañero lo que había soñado. Le decía: «Tuve un sueño, en el que veía que un pan de cebada venía rodando hasta el campamento de Madián, y cuando llegó, golpeó tan fuerte la tienda de campaña, que la derribó.»
+7:14 Y su compañero le respondió: «Esto no es sino la espada de Gedeón hijo de Joás, el israelita. ¡Dios ha puesto en sus manos a los madianitas y a todo su campamento!»
+7:15 Al oír Gedeón el sueño y su interpretación, adoró al Señor; luego regresó a su campamento, y dijo: «¡Arriba todo el mundo! ¡El Señor ha puesto a los madianitas en nuestras manos!»
+7:16 Dividió entonces los trescientos hombres en tres grupos, y a cada uno le dio una trompeta y un cántaro vacío, y una tea encendida para ponerla dentro del cántaro.
+7:17 Y les dijo: «Mírenme, y hagan lo que voy a hacer cuando llegue al extremo del campamento.
+7:18 Cuando yo toque la trompeta, junto con los que me acompañan, también ustedes tocarán las suyas alrededor del campamento, y gritarán: “¡Por el Señor y por Gedeón!”»
+7:19 Gedeón y los cien hombres que iban con él llegaron al extremo del campamento, en el momento en que ocurría el cambio de centinelas de la primera guardia de la medianoche, y en ese momento tocaron las trompetas y quebraron los cántaros.
+7:20 Los tres grupos hicieron lo mismo: tocaron sus trompetas y quebraron los cántaros; con la mano izquierda tomaron las teas y con la derecha las trompetas, mientras gritaban: «¡Por la espada del Señor y de Gedeón!»
+7:21 Y cada uno permaneció firme en su puesto, rodeando el campamento. Entonces el ejército enemigo se espantó y, dando gritos, se echó a correr.
+7:22 Mientras los trescientos hombres tocaban las trompetas, fue tal la confusión que el Señor provocó en el campamento de los madianitas, que se mataban entre sí con sus espadas. El ejército huyó hasta Bet Sitá, y luego hacia Sererá, que es la frontera de Abel Meholá en Tabat.
+7:23 Entonces todos los israelitas de las tribus de Neftalí, Aser y Manasés se juntaron y fueron en persecusión de los madianitas.
+7:24 Gedeón envió también mensajeros por todo el monte de Efraín, para que les dijeran: «Bajen y enfréntense a los madianitas. Tomen los vados de Bet Bará y del Jordán antes de que ellos lleguen.» Entonces los efraimitas se reunieron y tomaron los vados de Bet Bará y del Jordán,
+7:25 y capturaron a Oreb y Zeeb, que eran los dos príncipes de los madianitas; a Oreb lo mataron en la peña de Oreb, y a Zeeb en el lagar de Zeeb, y después de perseguir a los madianitas llevaron las cabezas de Oreb y de Zeeb a Gedeón, que estaba al otro lado del Jordán.
+8:1 Las familias de la tribu de Efraín hablaron con Gedeón y duramente le reprocharon: «¿Por qué no nos llamaste cuando fuiste a pelear contra Madián?»
+8:2 Gedeón les respondió: «Lo que yo hice no tiene comparación, si se compara con lo que hicieron ustedes. Lo que aún queda en sus campos es mejor que la cosecha de Abiezer.
+8:3 Dios les entregó a Oreb y a Zeeb, príncipes de Madián; por eso, lo que yo hice no es comparable con lo que ustedes hicieron.» En cuanto Gedeón dijo esto, el enojo de los efraimitas se aplacó.
+8:4 Entonces Gedeón y sus trescientos hombres regresaron y cruzaron el Jordán; y como estaban muy cansados por perseguir a sus enemigos,
+8:5 les dijo a los habitantes de Sucot: «Yo les ruego que den a mi gente algo de comer, porque están muy cansados. Estamos persiguiendo a Zebaj y Salmuná, los reyes de Madián.»
+8:6 Pero los jefes de Sucot le respondieron: «¿Y acaso ya venciste a Zebaj y a Salmuná, para que alimentemos a tu ejército?»
+8:7 Gedeón respondió: «Aún no, pero cuando el Señor nos los entregue, vendré y trituraré los cuerpos de ustedes con espinos y abrojos del desierto.»
+8:8 De Sucot, Gedeón fue a Peniel, y allí también pidió comida para su ejército. Pero la gente de Peniel le respondió lo mismo que la de Sucot.
+8:9 Gedeón entonces les dijo: »Cuando regrese victorioso, derribaré esta torre.»
+8:10 Zebaj y Salmuná estaban en Carcor, con un ejército como de quince mil hombres, que eran todos los que habían quedado del numeroso ejército de los pueblos del oriente, pues en la batalla habían caído ciento veinte mil guerreros.
+8:11 Gedeón avanzó por el camino de los que vivían al oriente de Nobaj y de Yogbeá, y atacó el campamento cuando el ejército estaba desprevenido.
+8:12 Entonces Zebaj y Salmuná huyeron, y Gedeón los persiguió hasta echarles mano. Ante esto, su ejército se llenó de espanto.
+8:13 Al amanecer, Gedeón regresó de la batalla
+8:14 y capturó a un joven de Sucot, al que le hizo algunas preguntas. El joven le dio por escrito los nombres de los jefes y de los setenta y siete ancianos de Sucot,
+8:15 y con eso Gedeón se presentó ante los jefes de Sucot y les dijo: «Aquí tienen a Zebaj y a Salmuná. Ustedes me preguntaron: “¿Ya venciste a Zebaj y a Salmuná para que alimentemos a tu ejército?” ¡Eso es una ofensa!»
+8:16 Entonces Gedeón tomó espinos y abrojos del desierto, y con ellos castigó a los ancianos de Sucot.
+8:17 Además, derribó la torre de Peniel y mató a sus habitantes.
+8:18 A Zebaj y a Salmuná les preguntó: «¿Cómo eran los hombres que ustedes mataron en Tabor?» Ellos le respondieron: «Se parecían a ti. Cada uno de ellos parecía ser hijo de un rey.»
+8:19 Y Gedeón les dijo: «¡Eran mis hermanos, hijos de mi propia madre! ¡El Señor me es testigo de que, si los hubieran dejado vivir, yo les hubiera perdonado la vida a ustedes!»
+8:20 A Jéter, su primogénito, le dijo: «¡Levántate, y mátalos!» Pero el joven, aún de corta edad, tuvo miedo y no desenvainó su espada.
+8:21 Entonces Zebaj y Salmuná le dijeron a Gedeón: «¡Pues mátanos tú, ya que eres tan valiente!» Y Gedeón se levantó y mató a Zebaj y a Salmuná, y se adueñó de los adornos de lunetas que pendían del cuello de sus camellos.
+8:22 Luego, los israelitas le dijeron a Gedeón: «Queremos que tú y tu familia sean nuestros jefes, puesto que nos libraste de los madianitas.»
+8:23 Pero Gedeón les respondió: «Ni yo ni mi familia seremos los jefes de ustedes. Será el Señor quien los gobierne.»
+8:24 Y como ellos traían aretes de oro, pues eran ismaelitas, Gedeón les dijo: «Quiero pedirles algo. Déme cada uno de ustedes los aretes de su botín.»
+8:25 Y ellos, tendiendo un manto, echaron sobre él los aretes del botín y dijeron: «Con mucho gusto te los daremos.»
+8:26 Y el oro de los aretes llegó casi a diecinueve kilos, sin contar las placas, las joyas pequeñas y los vestidos de púrpura que traían los reyes de Madián, ni los collares que traían colgados los camellos.
+8:27 Con todo ese oro Gedeón hizo un efod y lo guardó en Ofrá, que era su ciudad. Pero cuando los israelitas vieron el efod, se corrompieron y le rindieron culto en ese lugar. Esto fue como una trampa para Gedeón y su familia.
+8:28 Así fue como Madián fue sometido por los israelitas, y nunca más levantó cabeza. Y mientras vivió Gedeón, hubo paz en la tierra durante cuarenta años.
+8:29 Después de eso Gedeón hijo de Joás, también llamado Yerubaal, se regresó a su casa.
+8:30 Los descendientes de Gedeón fueron setenta hijos, porque tuvo muchas mujeres.
+8:31 Con la concubina que tenía en Siquén, tuvo un hijo al que llamó Abimelec.
+8:32 Y murió Gedeón hijo de Joás siendo ya muy anciano, y lo sepultaron en Ofrá de los abiezeritas, en el sepulcro de Joás, su padre.
+8:33 Pero a la muerte de Gedeón los israelitas volvieron a corromperse, y adoraron a Baal Berit.
+8:34 Se olvidaron del Señor, su Dios, que los había librado de todos los enemigos que los rodeaban,
+8:35 y tampoco se mostraron agradecidos con la tribu de Gedeón, es decir, Yerubaal, a pesar de todo el bien que éste había hecho a Israel.
+9:1 Abimelec hijo de Yerubaal fue a Siquén, donde vivían los hermanos de su madre, y les dijo:
+9:2 «Yo les ruego que pregunten a los habitantes de Siquén si les parece mejor ser gobernados por los setenta hijos de Yerubaal, que ser gobernados por un solo hombre. No se olviden que yo soy de su misma sangre.»
+9:3 Sus tíos maternos preguntaron entonces a los habitantes de Siquén lo que Abimelec les había sugerido, y a ellos les pareció bien la idea de Abimelec, pues dijeron: «Es pariente nuestro.»
+9:4 También le dieron setenta monedas de plata del templo de Baal Berit, y con ese dinero Abimelec contrató unos mercenarios y vagabundos, para que anduvieran con él.
+9:5 Luego se dirigió a Ofrá, a la casa de su padre, y sobre una misma piedra mató a sus setenta hermanos, hijos de Yerubaal. Pero Yotán, el hermano menor, se escondió y logró escapar.
+9:6 Después de esto, los habitantes de Siquén y de Milo se reunieron cerca de la llanura del pilar de Siquén, y eligieron a Abimelec como su rey,
+9:7 y cuando Yotán lo supo, subió a la cumbre del monte Guerizín, y a grito abierto les dijo: «Varones de Siquén, escuchen lo que voy a decirles, y pongo a Dios como testigo.
+9:8 Cierta vez, los árboles quisieron elegir un rey que los gobernara, y le dijeron al olivo: “Queremos que seas nuestro rey.”
+9:9 Pero el olivo respondió: “¿Quieren que deje de producir mi aceite, con el que se honra a Dios y a los hombres, para hacerme grande entre los árboles?”
+9:10 Entonces los árboles fueron a hablar con la higuera, y le dijeron: “Ven y reina sobre nosotros.”
+9:11 Pero la higuera les respondió: “¿Y debo abandonar la dulzura de mis frutos, para ir y hacerme grande entre los árboles?”
+9:12 Los árboles siguieron insistiendo, y llamaron a la vid y le dijeron: “Ven tú, entonces, y reina sobre nosotros.”
+9:13 Pero la vid les respondió: “¿Y voy a dejar de producir mi vino, que es la alegría de Dios y de los hombres, sólo para hacerme grande entre los árboles?”
+9:14 Al final, todos los árboles le dijeron a la zarza: “Anímate, y ven a reinar sobre nosotros.”
+9:15 Pero la zarza respondió: “Si en verdad quieren que yo reine sobre ustedes, vengan y busquen refugio bajo mi sombra. Pero si no me obedecen, saldrá fuego de mí y quemará los cedros del Líbano.”
+9:16 »Ahora bien, ¿creen ustedes haber hecho bien al nombrar a Abimelec como rey? ¿Han sido honestos y agradecidos con la familia de Yerubaal, que tanto hizo por ustedes?
+9:17 Mi padre luchó a favor de ustedes, y se jugó la vida para librarlos de los madianitas;
+9:18 ustedes, en cambio, se han puesto en contra de su casa, y han matado a sus setenta hijos varones contra una piedra, sólo para nombrar rey a Abimelec, ese hijo de la criada de mi padre, al que han puesto sobre los habitantes de Siquén, y sólo porque es su pariente.
+9:19 Si creen que hoy han actuado correctamente con Yerubaal y su casa, alégrense con Abimelec, y que él se alegre de ser su rey.
+9:20 Pero si no, que la ira de Abimelec consuma a los de Siquén y a los de Milo; y que la ira de los de Siquén y los de Milo consuma a Abimelec.»
+9:21 Dicho esto, Yotán huyó y se fue a Ber, y allí se quedó a vivir por miedo a su hermano Abimelec.
+9:22 Abimelec se impuso sobre Israel durante tres años,
+9:23 pero Dios hizo que brotara un sentimiento de inconformidad entre Abimelec y los hombres de Siquén, y éstos se pusieron en su contra.
+9:24 Así, Abimelec cargó con la culpa de haber matado a los setenta hijos de Yerubaal, junto con los de Siquén, que lo ayudaron a matarlos.
+9:25 Los habitantes de Siquén tenían hombres en las cumbres de los montes, los cuales asaltaban a todos los que pasaban por el camino. Esto Abimelec llegó a saberlo.
+9:26 Gaal hijo de Ebed fue con sus hermanos a vivir a Siquén, y se ganó la confianza de los jefes de Siquén.
+9:27 Salieron al campo, vendimiaron sus viñedos, pisaron la uva e hicieron fiesta; luego entraron en el templo de sus dioses, y allí comieron y bebieron, y maldijeron a Abimelec.
+9:28 Entonces Gaal hijo de Ebed dijo: «¿Y quién es Abimelec, y qué tan importante es Siquén, para que seamos sus sirvientes? ¿Acaso no es hijo de Yerubaal? ¿Y acaso no es Zebul su ayudante? Sirvan, si quieren, a los varones de Jamor, el padre de Siquén; pero ¿por qué vamos a servir a Abimelec?
+9:29 ¡Cómo quisiera que este pueblo estuviera bajo mi mando! Si así fuera, yo me lanzaría contra Abimelec y le diría: “¡Reúne a tus ejércitos, y vete de aquí!”»
+9:30 Cuando Zebul, que era el gobernador de la ciudad, oyó lo que dijo Gaal hijo de Ebed, se llenó de ira,
+9:31 y en secreto envió mensajeros a Abimelec, para decirle: «Gaal hijo de Ebed y sus hermanos están en Siquén. Han venido a sublevar a la ciudad contra ti.
+9:32 Aprovecha la noche y, con los hombres que te siguen, prepara emboscadas en el campo.
+9:33 Muy de mañana, al salir el sol, ataca la ciudad; y cuando Gaal y los suyos salgan a pelear contra ti, haz con él lo que creas más conveniente.»
+9:34 Abimelec se preparó durante la noche y, con el pueblo que lo seguía, emboscó a Siquén con cuatro compañías.
+9:35 Cuando Gaal hijo de Ebed salió y se puso a la entrada de la ciudad, Abimelec y su gente salieron de su escondite.
+9:36 Al ver Gaal tanta gente, le dijo a Zebul: «¡Mira cuánta gente baja de los montes!» Y Zebul le respondió: «Tu imaginación te hace ver hombres, pero sólo son las sombras de los montes.»
+9:37 Gaal le volvió a decir: «Mira toda esa gente que sale como de en medio de la tierra, ¡y por el camino de la encina de los adivinos viene otra tropa!»
+9:38 Pero Zebul le respondió: «¿Y dónde quedó lo que nos decías, de que Abimelec no era nadie para que fuéramos sus sirvientes? ¿No es ése el pueblo que tanto despreciabas? ¡Sal, pues, y pelea contra él!»
+9:39 Entonces Gaal salió al frente de los hombres de Siquén, y se enfrentó a Abimelec.
+9:40 Pero Abimelec lo persiguió y lo hizo huir, y muchos hombres cayeron heridos de muerte a la entrada de la ciudad.
+9:41 Y Abimelec se quedó en Aruma, mientras Zebul arrojaba de Siquén a Gaal y a sus hermanos.
+9:42 Al día siguiente, Abimelec supo que el pueblo había salido al campo.
+9:43 Entonces tomó a su gente, la repartió en tres compañías, y puso emboscadas en el campo; y cuando vio que el pueblo salía de la ciudad, lo atacó con violencia.
+9:44 Lucharon con mucho valor, pero se detuvieron a la entrada de la ciudad, mientras las otras dos compañías arremetían contra los que estaban en el campo, hasta matarlos.
+9:45 Todo ese día Abimelec luchó contra los habitantes de la ciudad, hasta que la tomó y mató a los que aún quedaban; después de eso, asoló la ciudad y la sembró con sal.
+9:46 Cuando los que estaban en la torre de Siquén oyeron esto, corrieron a esconderse en la fortaleza del templo del dios Berit.
+9:47 Pero Abimelec sabía dónde estaban,
+9:48 así que con toda su gente se dirigió al monte Salmón y, con un hacha, cortó la rama de un árbol, la levantó y la puso sobre sus hombros, y le pidió a su gente que hiciera lo mismo.
+9:49 Entonces todos cortaron ramas y siguieron a Abimelec, y las pusieron junto a la fortaleza, luego les prendieron fuego, y la fortaleza ardió, y los que estaban en la torre de Siquén, que eran como mil hombres y mujeres, murieron quemados.
+9:50 Después de eso, Abimelec se fue a la ciudad de Tebés, y la sitió y la tomó.
+9:51 En el centro de la ciudad había una torre fortificada, en la que se escondieron los hombres, las mujeres y todos los jefes de la ciudad. Se subieron al techo de la torre, y cerraron las puertas.
+9:52 Abimelec fue y atacó la torre, y al llegar a la puerta quiso prenderle fuego,
+9:53 pero una mujer dejó caer sobre la cabeza de Abimelec parte de una rueda de molino, y lo descalabró.
+9:54 Cuando Abimelec se sintió perdido, llamó a su escudero y le dijo: «¡Mátame con tu espada! ¡Que no se diga que una mujer me mató!» Y su escudero le clavó la espada, y murió.
+9:55 Cuando los israelitas vieron que Abimelec estaba muerto, cada uno regresó a su casa.
+9:56 Así castigó Dios a Abimelec por el mal que le hizo a la casa de su padre, al matar a sus setenta hermanos.
+9:57 Y Dios castigó también a los habitantes de Siquén por la maldad que cometieron. Así se cumplió la maldición que les lanzó Yotán hijo de Yerubaal.
+10:1 Después de Abimelec se levantó Tola para librar a Israel. Tola era hijo de Fúa y nieto de Dodo, de la tribu de Isacar, y vivía en Samir, en los montes de Efraín.
+10:2 Y Tola gobernó a Israel durante veintitrés años, y al morir fue sepultado en Samir.
+10:3 Después de él vino Yaír el galaadita, que también acaudilló a Israel durante veintidós años.
+10:4 Yaír tuvo treinta hijos, y cada uno de ellos tenía su propio asno. Tenían también treinta ciudades, conocidas como las ciudades de Yaír, las cuales hasta el día de hoy están en la tierra de Galaad.
+10:5 Al morir Yaír, fue sepultado en Camón.
+10:6 Pero los israelitas volvieron a hacer lo malo a los ojos del Señor, pues se volvieron a la idolatría y sirvieron a Baal y Astarot, y a los dioses de Siria, Sidón, Moab, Amón y Filistea, y se olvidaron de servir al Señor.
+10:7 Y el Señor se enojó mucho contra Israel, y lo dejó caer en manos de los filisteos y de los amonitas,
+10:8 que durante dieciocho años oprimieron y quebrantaron a los israelitas que vivían en Galaad, entre los amorreos, al otro lado del Jordán.
+10:9 Además, los amonitas cruzaron el Jordán para hacerle la guerra a Judá y a Benjamín, descendientes de Efraín, y otra vez Israel sufrió una gran opresión.
+10:10 Entonces los israelitas clamaron al Señor, y le dijeron: «Reconocemos que te hemos ofendido, y que nos hemos apartado de ti, que eres nuestro Dios, por servir a los baales.»
+10:11 Y el Señor les respondió: «¿No es verdad que ustedes han sido oprimidos por los egipcios, los amorreos, los amonitas, los filisteos,
+10:12 los sidonios, los amalecitas y los maonitas, pero que cuando han clamado a mí yo los he librado de ellos?
+10:13 Pero ustedes me han abandonado por ir a servir a otros dioses. Por eso, no volveré a salvarlos.
+10:14 Vayan y pidan la ayuda de esos dioses que han elegido. Que sean ellos quienes los libren de todas sus aflicciones.»
+10:15 Y los israelitas le respondieron: «Sí, Señor; reconocemos que te hemos ofendido. Haz con nosotros lo que te parezca mejor. Sólo te rogamos que nos salves esta vez.»
+10:16 Y los israelitas desecharon todos los dioses ajenos que tenían, y sirvieron al Señor, a quien le dolió ver la aflicción de Israel.
+10:17 Pero los amonitas se juntaron y acamparon en Galaad; los israelitas, por su parte, acamparon en Mispá.
+10:18 Los jefes israelitas y los de Galaad acordaron que el que abriera las hostilidades contra los amonitas sería el caudillo de todos los habitantes de Galaad.
+11:1 Jefté el galaadita era un hombre valiente y aguerrido, hijo de una ramera. Su padre se llamaba Galaad.
+11:2 La mujer de Galaad tuvo otros hijos de éste que, cuando crecieron, corrieron de su casa a Jefté, y lo amenazaron diciéndole: «Tú no recibirás ninguna herencia de nuestro padre, porque no eres hijo de nuestra madre sino de otra mujer.»
+11:3 Fue así como Jefté huyó de sus hermanos y se fue a vivir a la región de Tob. Allí se juntó con unos vagabundos, y ellos comenzaron a salir con él.
+11:4 Tiempo después, los amonitas pelearon contra los israelitas,
+11:5 y los ancianos de Galaad llamaron a Jefté, que vivía en Tob,
+11:6 y le dijeron: «Ven con nosotros para combatir a los amonitas. Tú serás nuestro jefe.»
+11:7 Pero Jefté les respondió: «Ustedes no me quieren. ¡Hasta me corrieron de la casa de mi padre! ¿Por qué vienen a pedirme ayuda, ahora que están en problemas?»
+11:8 Y los ancianos le respondieron: «Precisamente por eso, porque estamos en problemas, te pedimos que vengas y pelees con nosotros contra los amonitas. Tú serás el caudillo de todos los que vivimos en Galaad.»
+11:9 Jefté les respondió: «Ustedes me piden volver, para que pelee contra los amonitas. Y, si el Señor me da la victoria, ¿seré el caudillo de ustedes?»
+11:10 Los ancianos de Galaad le respondieron: «El Señor es nuestro testigo. Haremos lo tú nos ordenes.»
+11:11 Entonces Jefté se fue con los ancianos de Galaad, y el pueblo lo nombró su caudillo y jefe, pero en Mispá repitió ante el Señor todo lo que antes había dicho.
+11:12 Luego, envió un mensaje al rey de los amonitas, en que le decía: «¿Qué tienes tú contra mí? ¿Por qué quieres atacar mi tierra?»
+11:13 Al mensaje de Jefté, el rey respondió: «Cuando Israel vino de Egipto, se adueñó de mi tierra, que va desde Arnón hasta Jaboc y el Jordán. Eso es lo que peleo. Devuélveme esa tierra, y viviremos en paz.»
+11:14 Jefté volvió a enviar mensajeros al rey de los amonitas,
+11:15 y le dijo: «Yo, Jefté, te digo: Israel no se adueñó de la tierra de Moab, ni de la tierra de los amonitas.
+11:16 Cuando el pueblo de Israel salió de Egipto y cruzó el desierto hasta el Mar Rojo, llegó a Cades.
+11:17 Entonces el pueblo de Israel envió mensajeros al rey de Edom, y le pidió permiso para pasar por su territorio; pero el rey de Edom no los escuchó. También pidió permiso al rey de Moab, pero él tampoco les permitió pasar, así que Israel se quedó en Cades.
+11:18 Después, anduvo por el desierto y rodeó las tierras de Edom y de Moab por el oriente, y luego acampó al otro lado del río Arnón, pero no entró en territorio de Moab, pues en Arnón empezaba su territorio.
+11:19 Además, Israel envió mensajeros a Sijón, el rey de los amorreos y de Jesbón, y le dijo: “Te ruego que me dejes pasar por tu territorio, para llegar a mi destino.”
+11:20 Pero a Sijón no le inspiró confianza Israel, y tampoco lo dejó pasar por su territorio, sino que reunió a su ejército, acampó en Yahás, y peleó contra Israel.
+11:21 Pero el Señor, Dios de Israel, entregó a Sijón y a todo su ejército en manos del pueblo de Israel, y éstos se apoderaron de toda la tierra de los amorreos.
+11:22 Tomaron también el territorio de los amorreos, desde Arnón hasta Jaboc, y desde el desierto hasta el Jordán.
+11:23 ¿Y ahora tú pretendes apoderarte de ese territorio?
+11:24 Si tu dios Quemos te diera algo, ¿no sería tuyo? De igual manera, todo lo que el Señor nuestro Dios nos entregó, nos pertenece.
+11:25 ¿En qué eres mejor que Balac hijo de Sipor, rey de Moab? ¿Tuvo algún problema contra Israel, para que le hiciera la guerra?
+11:26 Durante trescientos años Israel ha habitado en Jesbón y Aroer y en todas las ciudades del territorio de Arnón. ¿Por qué nunca antes han reclamado esa tierra?
+11:27 De modo que yo no he pecado contra ti, pero tú sí haces mal al querer pelear contra mí. Que el Señor, que es el Juez, juzgue entre los israelitas y los amonitas.»
+11:28 Pero como el rey de los amonitas no quiso entender las razones de Jefté,
+11:29 el espíritu del Señor vino sobre Jefté, y éste recorrió Galaad y Manasés y Mispá de Galaad, para luchar contra los amonitas.
+11:30 Allí Jefté hizo un juramento al Señor, y le dijo: «Si me das la victoria sobre los amonitas,
+11:31 cuando yo regrese de la batalla te ofreceré en holocausto a quien primero salga a recibirme.»
+11:32 Luego, Jefté avanzó contra los amonitas y peleó contra ellos, y con la ayuda del Señor los venció:
+11:33 los destruyó por completo, y conquistó Aroer hasta Minit, y sus veinte ciudades, hasta los llanos de las viñas. Así fue como los israelitas sometieron a los amonitas.
+11:34 Cuando Jefté volvió a su casa en Mispá, su hija salió a recibirlo con panderos y danzas. Jefté no tenía más hijos, sino que ella era su única hija,
+11:35 así que al momento de verla rasgó sus vestiduras y rompió en llanto: «¡Ay, hija mía! ¡Qué desgracia la mía! ¡Y tú eres la causa de mi dolor, por la promesa que le hice al Señor! ¡Y no me puedo retractar!»
+11:36 Pero ella le respondió: «Padre mío, si le has dado tu palabra al Señor, cumple tu promesa, pues él te usó para vengarte de tus enemigos, los amonitas.»
+11:37 Y le hizo una petición a su padre: «Concédeme dos meses para ir por los montes, con mis amigas. Déjame llorar por mi virginidad.»
+11:38 Y Jefté le concedió los dos meses, y la dejó ir. Entonces ella salió con sus compañeras, y recorrieron los montes lamentando que moriría virgen.
+11:39 Pasados los dos meses, ella volvió con su padre para que éste cumpliera su promesa al Señor. Ella nunca tuvo relaciones con un hombre.
+11:40 A partir de entonces fue costumbre en Israel que, cada año, todas las doncellas de Israel lloraran durante cuatro días por la hija de Jefté el galaadita.
+12:1 Tiempo después, los efraimitas se reunieron para dirigirse al norte y hablar con Jefté. Y le reclamaron: «¿Por qué fuiste solo a pelear contra los amonitas? ¿Por qué no nos llamaste para que fuéramos contigo? ¡Ahora vamos a quemar tu casa, y a ti en ella!»
+12:2 Jefté les respondió: «Mi pueblo y yo teníamos un gran pleito con los amonitas. Cuando yo los llamé, ustedes no salieron en mi defensa.
+12:3 Como vi que ustedes no venían en mi ayuda, me arriesgué y luché contra ellos, y el Señor me los entregó. ¿Por qué, entonces, vienen ahora a querer pelear conmigo?»
+12:4 Luego, Jefté reunió a los guerreros de Galaad, y peleó contra los efraimitas, y los derrotó, pues habían dicho: «Ustedes los galaaditas, que viven entre Efraín y Manasés, se apartaron de la familia de Efraín.»
+12:5 Y así, los galaaditas se apropiaron de los vados del Jordán que habían sido de la familia de Efraín. Y cuando los efraimitas que huían querían cruzar el vado, los de Galaad les preguntaban: «¿Eres efrateo?» Si respondían que no,
+12:6 les pedían que dijeran «Shibolet». Y si el fugitivo decía «Sibolet», porque no podía pronunciar esa palabra correctamente, le echaban mano y lo degollaban junto a los vados del Jordán. Así murieron cuarenta y dos mil efraimitas.
+12:7 Y Jefté el galaadita fue caudillo de Israel durante seis años. Cuando murió, fue sepultado en una de las ciudades de Galaad.
+12:8 Después de Jefté, el caudillo de Israel fue Ibzán de Belén,
+12:9 que tuvo treinta hijos y treinta hijas, y a todos los casó con gente que no era de su pueblo. Ibzán gobernó a Israel durante siete años,
+12:10 y cuando murió fue sepultado en Belén.
+12:11 Después de Ibzán, el caudillo de Israel fue Elón el zabulonita, que gobernó a Israel durante diez años.
+12:12 Cuando murió Elón, fue sepultado en Ayalón, en la tierra de Zabulón.
+12:13 Después de Elón, el caudillo de Israel fue Abdón hijo de Hilel, el piratonita,
+12:14 que tuvo cuarenta hijos y treinta nietos, y cada uno de ellos montaba su propio asno. Abdón gobernó a Israel durante ocho años,
+12:15 y cuando murió fue sepultado en Piratón, en el monte de Amalec, que es la tierra de Efraín.
+13:1 Los israelitas volvieron a hacer lo malo a los ojos del Señor, y durante cuarenta años el Señor los entregó al poder de los filisteos.
+13:2 En Sorá, poblado de la tribu de Dan, había un hombre llamado Manoa, que no tenía hijos porque su mujer era estéril.
+13:3 Cierto día, un ángel del Señor se le apareció a su mujer y le dijo: «Es un hecho que eres estéril, y que nunca has tenido hijos. Pero vas a quedar embarazada y darás a luz un hijo.
+13:4 Sólo que tú no debes beber vino ni sidra, ni comer nada que sea impuro.
+13:5 Al hijo que vas a concebir y dar a luz no debes cortarle nunca el cabello, porque desde antes de nacer el niño estará consagrado a Dios como nazareo, y él comenzará a salvar a Israel del poder de los filisteos.»
+13:6 La mujer fue y le contó a su marido lo sucedido. Le dijo: «Un varón de Dios vino a hablar conmigo. Su aspecto era tan impresionante y temible que parecía un ángel de Dios. Yo no le pregunté quién era, ni de dónde venía, ni tampoco él me reveló su nombre.
+13:7 Lo que sí me dijo, fue: “Vas a quedar embarazada y darás a luz un hijo. Así que tú no debes beber vino ni sidra, ni comer nada que sea impuro, porque desde antes de nacer, y hasta que muera, este niño estará consagrado a Dios como nazareo.”»
+13:8 Manoa oró entonces al Señor, y dijo: «Mi Señor, yo te ruego que venga otra vez ese varón que enviaste, para que nos diga qué es lo que debemos hacer con el niño que va a nacer.»
+13:9 Dios escuchó los ruegos de Manoa, y su ángel volvió a ver a la esposa de Manoa mientras ésta se hallaba en el campo. Manoa no estaba con ella.
+13:10 Entonces la esposa corrió a decirle a su marido: «¡Ven, que se me ha aparecido otra vez el varón que me habló el otro día!»
+13:11 Manoa se levantó y siguió a su mujer, y le preguntó al varón: «¿Eres tú quien habló con mi esposa?» Y el varón respondió: «Sí, yo soy.»
+13:12 Entonces Manoa dijo: «Cuando se cumpla tu promesa a mi esposa, ¿cómo debemos educar al niño, y qué tenemos que hacer con él?»
+13:13 Y el ángel del Señor le respondió: «Tu esposa debe abstenerse de todo lo que yo le dije.
+13:14 No tomará nada que provenga de la vid; no beberá vino ni sidra, ni comerá nada que sea impuro. Debe abstenerse de todo lo que le ordené.»
+13:15 Manoa le dijo al ángel del Señor: «Por favor, permítenos detenerte un poco. Queremos prepararte un cabrito.»
+13:16 Pero el ángel del Señor respondió: «Aun cuando me quedara, no comeré nada de lo que me ofrezcas. Si quieres ofrecer un holocausto, ofrécelo al Señor.» Como Manoa no sabía que estaba ante el ángel del Señor,
+13:17 le preguntó: «¿Cómo te llamas? Así podremos honrarte cuando se cumpla tu promesa.»
+13:18 Pero el ángel del Señor respondió: «¿Por qué me preguntas cómo me llamo? ¿No sabes que mi nombre es inefable?»
+13:19 Entonces Manoa tomó un cabrito y una ofrenda, y los ofreció al Señor sobre una peña; el ángel, por su parte, realizó un milagro frente a Manoa y su mujer.
+13:20 Y sucedió que, al elevarse al cielo la llama que ardía sobre el altar, el ángel se elevó junto con la llama. Entonces ellos se postraron en tierra,
+13:21 y el ángel del Señor no se les volvió a aparecer. Cuando Manoa se dio cuenta de que era el ángel del Señor,
+13:22 le dijo a su mujer: «Seguramente vamos a morir, porque hemos visto a Dios.»
+13:23 Pero su mujer le respondió: «Si el Señor quisiera matarnos, no hubiera aceptado el holocausto ni la ofrenda, ni nos hubiera mostrado todo esto, y tampoco nos hubiera anunciado esto.»
+13:24 Y la esposa de Manoa tuvo un hijo, y le puso por nombre Sansón. Y el niño crecía, y el Señor lo bendecía.
+13:25 Y fue en los campamentos de Dan, entre Sorá y Estaol, donde el espíritu del Señor comenzó a manifestarse en él.
+14:1 En cierta ocasión, Sansón fue a Timnat y vio allí a una mujer filistea.
+14:2 Al volver a su casa, les confesó a sus padres: «Allá en Timnat vi a una filistea, y yo les ruego que la pidan para que sea mi mujer.»
+14:3 Pero ellos le respondieron: «¿Y acaso ya no hay mujeres entre las hijas de tus parientes, ni en todo nuestro pueblo, para que vayas y tomes por mujer una filistea, hija de incircuncisos?» Y Sansón respondió: «Pidan por mí a esa mujer, porque es la que me gusta.»
+14:4 Sus padres no sabían que esto era un plan del Señor, y que él buscaba un pretexto para atacar a los filisteos, que en aquel tiempo dominaban a Israel.
+14:5 Y sucedió que, al dirigirse Sansón y sus padres a Timnat, cuando llegaron a las viñas de Timnat, un cachorro de león salió rugiendo a su encuentro.
+14:6 Entonces el espíritu del Señor vino sobre Sansón, y éste despedazó al león como si fuera un cabrito, sin más armas que sus manos: Pero a sus padres no les dijo lo que había hecho.
+14:7 Luego, Sansón fue a hablar con la mujer que le gustaba.
+14:8 Tiempo después, al volver para tomar a la mujer, Sansón se apartó del camino para ver el cadáver del león, y se encontró con que en el cadáver había un enjambre de abejas y un panal de miel.
+14:9 Sansón tomó el panal y se fue comiéndolo por el camino, y cuando alcanzó a sus padres les dio miel para que comieran, aunque no les dijo que la miel la había tomado del león.
+14:10 El padre de Sansón fue y habló con la mujer, y Sansón ofreció un banquete, como solían hacer los jóvenes.
+14:11 Y cuando los filisteos vieron a Sansón, llamaron a treinta de sus amigos para estar con él.
+14:12 Entonces Sansón les dijo: «Les voy a proponer un enigma. Si en los siete días del banquete logran descifrarlo, les daré treinta vestidos de lino y treinta vestidos de fiesta.
+14:13 Pero si no lo pueden descifrar, entonces ustedes me darán los treinta vestidos de lino y los vestidos de fiesta.» Ellos respondieron: «Queremos oír tu enigma.»
+14:14 Y Sansón dijo: «Del devorador salió comida, y del fuerte salió dulzura.» Pasaron tres días, y ellos no podían descifrar el enigma,
+14:15 así que el séptimo día le dijeron a la mujer de Sansón: «Haz que tu marido te diga la solución de su enigma. De lo contrario, les prenderemos fuego a ti y a la casa de tu padre. ¿Acaso nos invitaron para quitarnos lo nuestro?»
+14:16 La mujer de Sansón se echó a llorar, y le dijo: «Tú no me quieres. Más bien, me odias, pues no me has dicho cuál es la respuesta al enigma que propusiste a mi gente.» Y Sansón respondió: «Si ni a mis padres les he dado la respuesta, ¿crees que te la daría a ti?»
+14:17 Y su mujer lloró ante él los siete días del banquete, pero tanto presionó a Sansón que al séptimo día éste cedió y le dio la respuesta. Entonces ella fue y se la hizo saber a su gente.
+14:18 Ese mismo día, antes de que el sol se pusiera, los jóvenes de la ciudad le dijeron: «¿Qué cosa hay más dulce que la miel? ¿Y qué cosa hay más fuerte que el león?» Y Sansón les dijo: «Si no araran con mi novilla, jamás habrían solucionado el enigma.»
+14:19 Y el espíritu del Señor vino sobre Sansón, y éste fue hasta Ascalón, y allí mató a treinta hombres, y de lo que les arrebató tomó los vestidos para dárselos a los que le explicaron el enigma. Pero regresó a la casa de su padre muy enojado,
+14:20 y la mujer de Sansón fue entregada a uno de sus amigos.
+15:1 Algún tiempo después, durante la cosecha del trigo, Sansón fue a visitar a su mujer, y llevó un cabrito. Al llegar, dijo: «Quiero tener relaciones con mi mujer.» Pero el padre de la joven no lo dejó entrar,
+15:2 sino que dijo: «Yo creí que la aborrecías, así que se la di a tu amigo. Pero su hermana menor es más hermosa que ella, ¿no es verdad? ¡Tómala en su lugar!»
+15:3 Sansón le respondió: «Esta vez no será mi culpa si les hago daño a los filisteos.»
+15:4 Y fue Sansón y cazó trescientas zorras; les ató de dos en dos, y en la cola les ató una antorcha;
+15:5 luego prendió las antorchas y soltó las zorras en los sembrados de los filisteos, y se quemaron las espigas amontonadas y las que aún no se cosechaban. Ardieron también viñas y olivares.
+15:6 Los filisteos se preguntaban quién habría hecho eso, y cuando les contestaron que había sido Sansón, el yerno del timnateo, porque le había quitado a su mujer y se la había dado a un amigo suyo, los filisteos fueron y quemaron a la mujer y a su padre.
+15:7 Cuando Sansón supo lo que habían hecho, los amenazó y les dijo: «Por eso que han hecho, no voy a descansar hasta vengarme de ustedes.»
+15:8 Y arremetió contra ellos, y los dejó tan mal heridos que muchos murieron. Después de eso, se fue a vivir en la cueva de la peña de Etam.
+15:9 Entonces los filisteos fueron y acamparon en Judá donde se extendieron por Lehí.
+15:10 Los habitantes de Judá les preguntaron: «¿Por qué quieren pelear contra nosotros?» Y ellos respondieron: «Hemos venido por Sansón, para castigarlo por lo que nos ha hecho.»
+15:11 Entonces tres mil hombres de Judá fueron a la cueva de Etam, donde estaba Sansón, y le dijeron: «¿Acaso no sabes que los filisteos nos tienen dominados? ¿Por qué nos has hecho esto?» Y Sansón respondió: «Simplemente, yo me vengué por lo que ellos me hicieron.»
+15:12 Pero ellos le respondieron: «Hemos venido a aprehenderte y a entregarte a los filisteos.» Sansón les dijo: «Júrenme que ustedes no me van matar.»
+15:13 Y ellos le respondieron: «No, no te mataremos. Solamente vamos a aprehenderte y a entregarte a ellos.» Sansón dejó entonces que lo ataran con dos cuerdas nuevas, y luego lo obligaron a bajar de la peña.
+15:14 Cuando llegó a Lehí, los filisteos salieron a su encuentro gritando con furia; pero el espíritu del Señor vino sobre Sansón y las cuerdas que ataban sus brazos se rompieron como lino quemado, y las ataduras cayeron al suelo.
+15:15 Sansón vio que allí cerca había una quijada de asno que aún estaba fresca, así que extendió la mano y la tomó, y con ella mató a mil filisteos.
+15:16 Después de eso, dijo: «Con la quijada de un asno maté a montones; con la quijada de un asno maté a mil filisteos.»
+15:17 Y cuando acabó de hablar, tiró la quijada. A ese lugar lo llamó Ramat Lehí.3
+15:18 Pero Sansón tenía mucha sed, así que clamó al Señor y le dijo: «Tú me has usado a mí, que soy tu siervo, para salvar a tu pueblo. ¿Y ahora tendré que morir de sed, y caer en mano de estos incircuncisos?»
+15:19 Entonces Dios abrió el pozo que está en Lehí, y de allí brotó agua para que bebiera y se reanimara. Por esto, ese lugar se llama Enacoré,4 y hasta el día de hoy todavía está en Lehí.
+15:20 Sansón gobernó a Israel durante veinte años, en los días de los filisteos.
+16:1 En otra ocasión, Sansón fue a Gaza. Allí vio a una prostituta, y tuvo relaciones con ella.
+16:2 Alguien fue a decir a los habitantes de Gaza que Sansón estaba allí, así que ellos fueron y rodearon la casa, y toda la noche estuvieron vigilando sigilosamente a las puertas de la ciudad, pues decían: «Mañana, cuando salga el sol, lo mataremos.»
+16:3 Pero Sansón durmió hasta la medianoche, y a esa hora se levantó, y fue y arrancó las puertas de la ciudad con todo y sus pilares y su cerrojo, se las echó al hombro, y las llevó hasta la cumbre del monte que está frente a Hebrón.
+16:4 Tiempo después, Sansón se enamoró de una mujer del valle de Sorec, que se llamaba Dalila.
+16:5 Los jefes filisteos fueron a visitarla, y le dijeron: «Recurre a tu astucia y averigua en qué consiste su gran fuerza, y cómo podemos vencerlo. Entonces vendremos y lo ataremos para controlarlo, y cada uno de nosotros te dará mil cien monedas de plata.»
+16:6 Y Dalila le preguntó a Sansón: «Por favor, dime en qué consiste tu impresionante fuerza. Si alguien quisiera vencerte, ¿cómo tendría que sujetarte?»
+16:7 Y Sansón le respondió: «Si me atan con siete cuerdas de mimbre verde, que aún no estén secos, perderé mi fuerza y seré como cualquier otro hombre.»
+16:8 Los jefes de los filisteos le llevaron las siete cuerdas de mimbre verde, y ella lo ató con los mimbres.
+16:9 Como ella tenía hombres espiando en el dormitorio, cuando Sansón estuvo atado, ella gritó: «¡Sansón, los filisteos te van a atacar!» Pero él rompió los mimbres como si fueran estopa quemada, y el secreto de su fuerza no llegó a saberse.
+16:10 Entonces Dalila le dijo a Sansón: «¡Mira que me has engañado! ¡Me has mentido! Por favor, dime, ¿cómo se te puede sujetar?»
+16:11 Y Sansón respondió: «Si me sujetan fuertemente con cuerdas nuevas, que nadie haya usado, perderé mi fuerza y seré como cualquier otro hombre.»
+16:12 Dalila buscó cuerdas nuevas, y lo ató con ellas, y como los espías estaban en el aposento, le dijo: «“¡Sansón, los filisteos te van a atacar!» Pero él rompió las cuerdas nuevas como si fueran hilo.
+16:13 Entonces Dalila le dijo: «Hasta ahora me has estado engañando. ¡Me has dicho puras mentiras! ¿No me vas a decir cómo se te puede sujetar?» Y él le dijo: «Tienes que entretejer con una tela las siete trenzas de mi cabeza, y asegurarlas contra la estaca de un telar.»
+16:14 Dalia aseguró las siete trenzas contra una estaca, y entonces le dijo: «¡Sansón, los filisteos te van a atacar!» Pero Sansón se despertó, y arrancó la estaca del telar y la tela.
+16:15 Y Dalila le reprochó: «¿Cómo puedes decir que me amas, si tu corazón no está conmigo? Ya van tres veces que me engañas, y todavía no me has dicho en qué consiste tu impresionante fuerza.»
+16:16 Y como ella lo presionaba y lo importunaba todos los días, su ánimo decayó y casi se murió de angustia,
+16:17 así que le abrió su corazón y le confesó: «Soy nazareo, y estoy consagrado a Dios desde antes de nacer. Por eso nunca ha pasado la navaja por mi cabeza. Si alguien llegara a raparme, las fuerzas me abandonarían y sería tan débil como cualquier otro hombre.»
+16:18 Dalila se dio cuenta de que esta vez Sansón le había hablado con el corazón en la mano, así que mandó llamar a los jefes de los filisteos, y les dijo: «Esta vez Sansón me ha abierto su corazón.» Los jefes de los filisteos le llevaron el dinero prometido,
+16:19 y ella hizo que Sansón se durmiera sobre sus rodillas; luego, llamó a un hombre para que le cortara las siete trenzas de su cabeza, y ella comenzó a maltratarlo, pues su fuerza ya lo había abandonado.
+16:20 Entonces le gritó: «¡Sansón, los filisteos te van a atacar!» Y cuando Sansón despertó, creyó que podría escapar como en otras ocasiones, pero no sabía que el Señor ya se había apartado de él.
+16:21 Y así, los filisteos lo capturaron, le sacaron los ojos y lo llevaron a Gaza; allí lo sujetaron con cadenas a un molino que había en la cárcel.
+16:22 Pero después de haber sido rapado, el cabello de su cabeza le comenzó a crecer.
+16:23 Un día, los filisteos más importantes se reunieron para festejar y ofrecer un sacrificio a Dagón, su dios, pues decían: «Nuestro dios puso en nuestras manos a Sansón, nuestro enemigo.»
+16:24 También el pueblo daba gracias a su dios, y decía: «Nuestro dios puso en nuestras manos a nuestro enemigo, que destruyó nuestra tierra y mató a muchos de nuestros hermanos.»
+16:25 Y en el momento en que estaban más alegres, dijeron: «¡Que traigan a Sansón! ¡Vamos a divertirnos con él!» Y sacaron a Sansón de la cárcel, y lo pusieron entre las columnas del templo, y todos se burlaban de él.
+16:26 Entonces Sansón le dijo al joven que lo guiaba de la mano: «Acércame a las columnas que sostienen el templo. Déjame tocarlas, para que me apoye en ellas.»
+16:27 El templo estaba lleno de hombres y mujeres, y allí estaban todos los filisteos más importantes. Sólo en el segundo piso había como tres mil personas, entre hombres y mujeres, que miraban las burlas de que Sansón era objeto.
+16:28 En ese momento Sansón clamó al Señor, y le dijo: «Señor mi Dios, acuérdate de mí en este momento, y por favor dame fuerzas, aunque sea por última vez, para vengarme de los filisteos que me dejaron ciego.»
+16:29 Al decir esto, Sansón asió las dos columnas centrales, sobre las que se apoyaba el templo y, apoyándose con las dos manos sobre ambas columnas, echó todo su peso sobre ellas,
+16:30 al tiempo que exclamaba: «¡No me importa morir junto con los filisteos!» Y haciendo un gran esfuerzo, Sansón hizo que el templo se derrumbara sobre los jefes y sobre todo el pueblo que allí estaba. Así, al morir Sansón, mató a más gente de la que había matado en vida.
+16:31 Y cuando lo supieron sus hermanos y todos sus parientes, fueron y lo sacaron de entre los escombros y lo sepultaron entre Sorá y Estaol, en el sepulcro de Manoa, su padre. Sansón gobernó a Israel durante veinte años.
+17:1 En los montes de Efraín había un hombre llamado Micaía,
+17:2 que un día le confesó a su madre: «Esas mil cien monedas de plata que te robaron, de las cuales me hablaste y por las cuales maldijiste al ladrón, yo las tomé y están en mi poder.» Entonces su madre le dijo: «¡Que el Señor te bendiga, hijo mío!»
+17:3 Y cuando Micaía le devolvió las mil cien monedas de plata robados, ella dijo: «Por ti, hijo mío, voy a consagrar todo este dinero al Señor, para que se haga una imagen tallada, y otra de fundición. Así que te devuelvo el dinero.»
+17:4 Al devolverle Micaía el dinero, su madre tomó doscientas monedas de plata y se las llevó a un fundidor, quien con esa plata talló una imagen y fundió otra, las cuales colocó en casa de Micaía,
+17:5 y ésta se lleno de dioses. Micaía hizo también un efod y terafines, y consagró como sacerdote a uno de sus hijos.
+17:6 En aquellos tiempos no había rey en Israel, y cada quien hacía lo que le parecía mejor.
+17:7 Un joven levita de Belén era forastero allí. Era de la tribu de Judá,
+17:8 y había salido de Belén en busca de un lugar para vivir. En su camino llegó al monte de Efraín, a la casa donde vivía Micaía.
+17:9 Y Micaía le preguntó: «¿De dónde vienes?» Y el levita le respondió: «Soy de Belén de Judá. Me quedaré a vivir donde encuentre lugar.»
+17:10 Micaía le dijo: «Quédate en mi casa, y serás para mí padre y sacerdote. Te daré diez monedas de plata al año, más ropa y comida.» El levita aceptó y se quedó,
+17:11 y le agradó vivir con Micaía, porque lo trataba como a uno de sus hijos.
+17:12 Luego, Micaía consagró al joven levita para que pudiera oficiar como sacerdote, y lo instaló en su casa,
+17:13 pues decía: «Con esto, estoy seguro que el Señor me prosperará, pues tengo por sacerdote un levita.»
+18:1 En aquellos tiempos no había rey en Israel. Y como hasta entonces los de la tribu de Dan no habían recibido entre las tribus de Israel su parte de la tierra, andaban en búsqueda de un lugar para vivir.
+18:2 Entonces eligieron de entre ellos a cinco de sus hombres más valientes, los cuales eran de Sorá y de Estaol, para que fueran a reconocer y explorar la tierra. Cuando estos hombre llegaron al monte de Efraín, se quedaron a descansar en la casa de Micaía.
+18:3 Pero antes de llegar a la casa de Micaía, oyeron al joven levita y reconocieron su voz, y al verlo le preguntaron: «¿Quién te trajo a este lugar? ¿Qué haces aquí? ¿A qué te dedicas?»
+18:4 El levita les contó cómo lo había tratado Micaía, y que le había pedido ser su sacerdote.
+18:5 Entonces ellos le dijeron: «Consulta a Dios. Queremos saber si tendremos éxito en este viaje de reconocimiento que estamos haciendo.»
+18:6 Y el sacerdote les respondió: «Vayan en paz. El Señor ve con buenos ojos el propósito de su viaje.»
+18:7 Los cinco espías salieron de allí y se dirigieron a Lais, donde vieron que el pueblo vivía tranquilo y confiado, como acostumbraban vivir los habitantes de Sidón, aunque vivían lejos de ellos. No tenían tratos con nadie, ni había nadie en esa región que los perturbara, pues no tenían rey.
+18:8 Cuando los espías regresaron a Sorá y Estaol, con sus hermanos, éstos les preguntaron: «¿Qué encontraron?» Y ellos respondieron:
+18:9 «¡Vayamos a atacarlos! Nosotros ya exploramos la región, y hemos visto que es muy buena. Y ustedes, ¿no van a hacer nada? ¡No se queden ahí sentados! ¡Pónganse en marcha, y vamos a tomar posesión de esa tierra!
+18:10 Al llegar, van a encontrar a un pueblo confiado, que tiene una gran extensión de tierra, la cual Dios nos ha entregado. ¡Es una tierra a la que no le falta nada!»
+18:11 Entonces salieron de Sorá y de Estaol seiscientos danitas, armados para la batalla.
+18:12 Fueron y acamparon al occidente de Quiriat Yearín, en Judá. Hasta el día de hoy, ese lugar se llama «Campamento de Dan».
+18:13 De allí se fueron al monte de Efraín, y llegaron a la casa de Micaía.
+18:14 Los cinco espías que habían ido a reconocer la tierra de Lais, les advirtieron a sus hermanos: «Tengan cuidado con lo que van a hacer, porque en esas casas hay un efod y terafines, y una imagen tallada y otra de fundición.»
+18:15 Cuando los hombres armados llegaron a la casa de Micaía, donde estaba el joven levita, le preguntaron cómo estaba.
+18:16 Los seiscientos danitas se quedaron, con sus armas, a la entrada de la puerta,
+18:17 y mientras el sacerdote hablaba a la entrada de la casa con los seiscientos hombres armados, los cinco espías entraron y se apoderaron de la imagen tallada y de la imagen de fundición, y también del efod y los terafines.
+18:18 Al ver el sacerdote que los espías habían entrado en la casa para tomar las imágenes y el efod y los terafines, les preguntó: «¿Qué están haciendo ustedes?»
+18:19 Y ellos le respondieron: «Cállate, y no digas nada. Mejor ven con nosotros, para que seas nuestro padre y sacerdote. ¿Qué es mejor? ¿Seguir siendo sacerdote en casa de un solo hombre, o serlo de toda una tribu y familia de Israel?»
+18:20 Al joven sacerdote le agradó la idea, y tomó el efod, los terafines y las imágenes, y se fue con ellos.
+18:21 En cuanto ellos emprendieron la marcha, pusieron por delante a los niños, el ganado y el bagaje.
+18:22 Y cuando ya estaban lejos de la casa, Micaía y la gente que vivía en los alrededores se juntaron para perseguir a los danitas.
+18:23 Como gritaban muy fuerte, los danitas se volvieron y le dijeron a Micaía: «¿Qué te pasa? ¿Por qué has juntado tanta gente?»
+18:24 Y Micaías respondió: «Ustedes se han adueñado de los dioses que hice, y también se llevan al sacerdote, ¿y a mí qué me queda? ¿Y todavía me preguntan qué me pasa?»
+18:25 Pero los danitas le respondieron: «Ya deja de gritarnos. No vaya a ser que alguno de nosotros pierda la paciencia y te mate, junto con toda tu familia.»
+18:26 Y los danitas siguieron su camino. Y al ver Micaía que ellos eran más fuertes que él, regresó a su casa.
+18:27 Los danitas se llevaron todo lo que había hecho Micaía, y también al sacerdote. Y cuando llegaron a Lais y vieron que el pueblo era tranquilo y confiado, mataron a filo de espada a sus habitantes, y luego quemaron la ciudad.
+18:28 Nadie pudo defenderlos, porque vivían lejos de Sidón y no tenían negocios con nadie, pues Lais estaba en el valle cercano a Bet Rejob. Más tarde, los danitas reedificaron la ciudad para vivir allí.
+18:29 A la ciudad que antes se llamaba Lais, los danitas la llamaron Dan, en honor a su antepasado, que fue uno de los hijos de Israel.
+18:30 Luego los danitas erigieron la imagen, y Jonatán hijo de Gersón y nieto de Moisés, y sus hijos, fueron los sacerdotes en la tribu de Dan hasta los días del cautiverio.
+18:31 Erigieron entre ellos la imagen tallada que Micaía había hecho, y la honraron todo el tiempo que el santuario de Dios estuvo en Silo.
+19:1 En aquellos tiempos, cuando Israel no tenía rey, hubo un levita forastero que vivía en la parte más lejana de los montes de Efraín. Este levita había tomado como concubina a una mujer de Belén de Judá,
+19:2 pero ella le fue infiel y se regresó a la casa de su padre, en Belén de Judá, donde estuvo cuatro meses.
+19:3 Entonces su marido fue a buscarla, y le habló con mucho cariño para hacerla volver. Llevó consigo a uno de sus criados y un par de asnos. Su mujer le pidió que entrara a la casa, y cuando el padre de la joven lo vio, salió a recibirlo muy contento.
+19:4 Y así, el levita se quedó tres días en casa de su suegro comiendo y bebiendo.
+19:5 Al cuarto día por la mañana, el levita se levantó con la intensión de irse, pero el padre de la joven le dijo: «Cobren fuerzas con un bocado de pan, y después podrán irse.»
+19:6 Los dos se sentaron, y comieron y bebieron. Luego el padre de la joven le dijo al levita: «Te ruego que pasen otra noche en mi casa, y que disfrutes de estar aquí.»
+19:7 Sin embargo, el levita se levantó con la intención de partir. Pero su suegro insistió, y volvieron a pasar la noche allí.
+19:8 Al quinto día, nuevamente se levantaron muy de mañana para irse, pero otra vez el padre de la joven le dijo: «Por favor, recobra las fuerzas, y espera a que termine el día.» Y los dos comieron.
+19:9 Pero cuando el levita se preparó para irse, con su esposa y su criado, su suegro volvió a decirle: «Mira, ya pronto va a anochecer. Por favor, pasen aquí la noche, pues el día está por terminar. Quédense aquí, y disfruten. Ya mañana temprano se levantarán y podrán emprender el camino de regreso a su casa.»
+19:10 Pero el levita ya no quiso pasar allí la noche, sino que se levantó, aparejó sus asnos, tomó a su mujer y llegó hasta la entrada de Jebús, que es Jerusalén.
+19:11 Para entonces el día había declinado y comenzaba a anochecer, por lo que el criado le dijo: «Te ruego que entremos a la ciudad de los jebuseos, para pasar allí la noche.»
+19:12 Su amo respondió, y dijo a su criado: «No vamos a entrar a ninguna ciudad de extranjeros, que no sea una ciudad israelita. Seguiremos hasta Gabaa.
+19:13 Cuando lleguemos a Gabaa, o a Ramá, podremos pasar la noche allí.»
+19:14 Y así, siguieron su camino. Al ponerse el sol, llegaron cerca de Gabaa, en la tierra de Benjamín.
+19:15 Entonces se apartaron del camino para entrar a la ciudad y pasar allí la noche. Al entrar, fueron a sentarse en la plaza, pues nadie les ofreció su casa para que pudieran dormir.
+19:16 Al anochecer, vieron llegar a un anciano, que venía del campo después de trabajar. Ese anciano era de los montes de Efraín, pero vivía como forastero en Gabaa, pues los habitantes de ese lugar eran de la tribu de Benjamín.
+19:17 Cuando el anciano levantó la mirada, vio al viajero en la plaza y le preguntó: «¿De dónde vienes, y adónde vas?»
+19:18 El viajero respondió: «Venimos de Belén de Judá, y vamos a lo más alejado de los montes de Efraín, de donde soy. Estoy regresando de Belén de Judá, y ahora me dirijo a la casa del Señor. Nadie me ha dado alojamiento en su casa.
+19:19 Pero tenemos todo lo que necesitan nuestros asnos, y pan y vino para mí y para mi mujer, y para el criado que me acompaña. No nos hace falta nada.»
+19:20 Y el anciano le respondió: «Que la paz sea contigo. Desde ahora, lo que necesites corre por mi cuenta. Sólo una cosa: no quiero que pases la noche en la calle.»
+19:21 Y el anciano los llevó a su casa, y les dio de comer a sus asnos; luego ellos se lavaron los pies, y comieron y bebieron.
+19:22 Pero cuando estaban disfrutando de todo, unos hombres corruptos de la ciudad rodearon la casa, golpearon la puerta, y le gritaron al anciano, dueño de la casa: «¡Saca al hombre que ha entrado en tu casa! ¡Queremos acostarnos con él!»
+19:23 El dueño de la casa salió y les dijo: «¡No, hermanos míos! ¡Yo les ruego que no le hagan daño a este hombre! ¡Es mi huésped! ¡No cometan tal perversidad!
+19:24 Miren, tengo una hija que es virgen, y también está aquí su mujer. Ahora mismo las voy a sacar, para que hagan con ellas lo que les parezca. ¡Pero no cometan una infamia con este hombre!»
+19:25 Pero como aquellos hombres no le hicieron caso al anciano, el levita tomó a su mujer y la sacó, y ellos la violaron durante toda la noche y hasta la mañana. Al rayar el alba, la dejaron en paz.
+19:26 Antes de amanecer, la mujer llegó hasta la puerta de la casa del anciano, donde estaba su marido, y allí cayó muerta, hasta que amaneció.
+19:27 Por la mañana, el levita se levantó y abrió las puertas, dispuesto a seguir su camino. Fue entonces cuando vio que su concubina estaba tendida a la entrada de la casa, con las manos sobre el umbral de la puerta.
+19:28 Entonces le dijo: «¡Levántate, y vámonos!» Pero como ella no respondió, el levita la levantó, la echó sobre su asno, y se fue a su tierra.
+19:29 Al llegar a su casa, tomó un cuchillo y descuartizó a su mujer en doce pedazos, y repartió los pedazos por todo el territorio de Israel.
+19:30 Todos los que veían eso, decían: «Desde que los israelitas llegaron de Egipto, y hasta nuestros días, ¡jamás se había visto que alguien hiciera algo así! Esto da en qué pensar. Tenemos que ponernos de acuerdo, y actuar!»
+20:1 Como un solo hombre, todos los israelitas, desde Dan hasta Berseba y Galaad, se reunieron delante del Señor en Mispá.
+20:2 Allí estaban presentes los jefes del pueblo y de todas las tribus de Israel. Del pueblo de Dios había cuatrocientos mil hombres de infantería, espada en mano.
+20:3 Las tribus de Benjamín, por su parte, supieron que las tribus de Israel se habían reunido en Mispá. Los israelitas le dijeron al levita: «Cuéntanos cómo tuvo lugar esta infamia.»
+20:4 Y el levita, marido de la mujer muerta, les dijo: «Yo llegué a Gabaa de Benjamín con mi mujer, para pasar allí la noche.
+20:5 Pero en la noche, unos malvados de esa ciudad rodearon la casa con la intención de matarme, y a mi mujer la violaron tan cruelmente que la mataron.
+20:6 Entonces yo la levanté, la corté en pedazos, y envié esos pedazos por todo el territorio israelita, para que supieran la maldad y el crimen cometido en Israel.
+20:7 Puesto que todos ustedes son israelitas, háganme saber lo que piensan y qué me aconsejan.»
+20:8 Como un solo hombre, todo el pueblo se levantó y dijo: «Ninguno de nosotros volverá a su campamento ni a su casa.
+20:9 Lo que vamos a hacer es atacar a Gabaa. Pero lo haremos por sorteo.
+20:10 De todas las tribus de Israel elegiremos diez de cada cien hombres, cien de cada mil, y mil de cada diez mil, los cuales se encargarán de llevar provisiones a los que irán contra los de Gabaa de Benjamín para darles su merecido por la infamia que han cometido.»
+20:11 Como un solo hombre, los israelitas se reunieron para atacar la ciudad, porque su sentimiento era el mismo.
+20:12 Y enviaron mensajeros a toda la tribu de Benjamín, para preguntarles: «¿Por qué cometieron tal infamia?
+20:13 Entréguennos a esos malvados que viven en Gabaa, para que los matemos. Así erradicaremos de Israel esa maldad.» Pero los de Benjamín no hicieron caso de sus hermanos israelitas,
+20:14 sino que de todas sus ciudades se juntaron en Gabaa para presentar batalla contra los israelitas.
+20:15 Los benjaminitas contados en aquella ocasión fueron veintiséis mil guerreros armados, sin contar los setecientos soldados escogidos que vivían en Gabaa.
+20:16 Entre toda esa gente había setecientos guerreros selectos que eran zurdos. Era tal su puntería que podían lanzar una piedra con la honda y darle a un cabello sin fallar.
+20:17 Por su parte, los israelitas contaban con cuatrocientos mil hombres armados, sin contar a los benjaminitas.
+20:18 Los israelitas se alistaron, pero antes fueron a la casa de Dios para consultarlo. Y le preguntaron: «¿Quién será el primero de nosotros en trabar combate con los benjaminitas?» Y el Señor respondió: «El primero será Judá.»
+20:19 Por la mañana, los israelitas se dispusieron a atacar la ciudad de Gabaa.
+20:20 Salieron en orden de batalla para combatir a los benjaminitas de Gabaa.
+20:21 Pero los benjaminitas también estaban preparados, y salieron de Gabaa a luchar, y ese día exterminaron a veintidós mil guerreros israelitas.
+20:22 Pero los israelitas no se desanimaron, sino que se reagruparon y presentaron batalla en el mismo lugar del primer día.
+20:23 Y es que antes, durante la noche, los israelitas habían ido a llorar delante del Señor y a consultarle si debían volver a pelear contra sus hermanos, los benjaminitas; y el Señor les había respondido que debían atacarlos.
+20:24 Por eso, el segundo día los israelitas se enfrentaron a sus hermanos,
+20:25 pero los benjaminitas volvieron a salir de Gabaa, y una vez más mataron a dieciocho mil israelitas, todos ellos armados.
+20:26 Volvieron entonces los israelitas y todo el pueblo a la casa de Dios, y llorando se sentaron delante del Señor y ayunaron todo el día y hasta la noche, y le ofrecieron al Señor holocaustos y ofrendas de paz.
+20:27 Luego, consultaron al Señor. (En esos días el arca del pacto de Dios estaba allí,
+20:28 y el sacerdote Finés hijo de Eleazar, de la tribu de Aarón, oficiaba delante de ella.) Le dijeron: «¿Debemos seguir luchando contra nuestros hermanos, los benjaminitas, o es mejor que desistamos?» Y el Señor les respondió: «Vuelvan a luchar, que mañana los pondré en sus manos.»
+20:29 Entonces los israelitas pusieron emboscadas alrededor de la ciudad,
+20:30 y al tercer día volvieron a presentar batalla contra los benjaminitas, frente a Gabaa, como lo habían hecho antes.
+20:31 También ese día los benjaminitas salieron al encuentro de los israelitas, y se alejaron de la ciudad; a algunos de ellos los hirieron en el campo y por los caminos que van de Betel a Gabaa, y ese día mataron a unos treinta israelitas.
+20:32 Los benjaminitas pensaban que habían vuelto a vencerlos, pero los israelitas habían hecho un plan, y dijeron: «Vamos a huir, para que se alejen de la ciudad y lleguen hasta los caminos.»
+20:33 Y de pronto todos los israelitas que estaban en Baal Tamar se levantaron en orden de batalla, y también salieron los que estaban emboscados en la pradera de Gabaa,
+20:34 y la batalla arreció porque diez mil de los mejores guerreros israelitas arremetieron contra Gabaa, y los guerreros de Benjamín aún no sabían que su derrota estaba próxima.
+20:35 Ese día el Señor permitió que los israelitas derrotaran a los de Benjamín, y éstos mataron a veinticinco mil cien guerreros benjaminitas bien armados.
+20:36 Los benjaminitas se dieron cuenta de que estaban siendo derrotados por los israelitas, pues aunque los israelitas parecían huir, seguían atacándolos, confiados en las emboscadas que tenían alrededor de la ciudad.
+20:37 De pronto, los que estaban emboscados salieron y se lanzaron contra Gabaa, matando a filo de espada a los habitantes de la ciudad.
+20:38 Habían acordado que, cuando saliera una gran humareda de la ciudad, ésa sería la señal para los israelitas emboscados de que Gabaa había sido tomada.
+20:39 Así que, cuando los israelitas huían, los benjaminitas hirieron y mataron como a treinta israelitas, y ya decían: «Los estamos derrotando, como en la primera batalla.»
+20:40 Pero entonces la columna de humo comenzó a subir desde la ciudad, y los benjaminitas vieron cómo subía al cielo.
+20:41 Entonces los guerreros israelitas se dieron vuelta, y los benjaminitas se llenaron de temor, pues comprendieron que les había sobrevenido un desastre.
+20:42 Corrieron entonces hacia el desierto, de espaldas a los israelitas, pero la lucha los alcanzó porque los que salían de las ciudades los herían y los mataban.
+20:43 Así quedaron cercados los benjaminitas, mientras eran perseguidos y derrotados desde Menujá hasta el oriente de Gabaa.
+20:44 Ese día cayeron muertos dieciocho mil guerreros benjaminitas.
+20:45 Una parte de ellos huyó al desierto, rumbo a la peña de Rimón, pero también fueron aniquilados otros cinco mil de ellos en los caminos; a otros los persiguieron hasta Gidom, matando a dos mil hombres más.
+20:46 En total, ese día murieron veinticinco mil guerreros benjaminitas bien armados.
+20:47 Otros seiscientos hombres huyeron al desierto, a la peña de Rimón, y allí se quedaron cuatro meses.
+20:48 Luego los israelitas se volvieron contra los benjaminitas, y los hirieron a filo de espada, matando en las ciudades a hombres y bestias por igual, y a todo lo que hallaban. Finalmente, prendieron fuego a todas las ciudades que hallaron a su paso.
+21:1 En Mispá, los israelitas juraron que ninguno de ellos dejaría que sus hijas se casaran con los benjaminitas.
+21:2 Se reunieron como pueblo en la presencia de Dios, y toda la noche lloraron, y con grandes lamentos decían:
+21:3 «Señor, Dios de Israel, ¿por qué le ha sucedido esto a nuestro pueblo? ¿Por qué tendría que faltar una de nuestras tribus?»
+21:4 Al día siguiente, muy de mañana, el pueblo se levantó y construyó un altar, y allí le ofrecieron al Señor holocaustos y sacrificios de reconciliación.
+21:5 Luego se preguntaron: «¿Cuáles tribus, de todas las que componen Israel, no se presentaron ante el Señor?» Y es que habían hecho un pacto de muerte contra los que no hubieran estado en Mispá.
+21:6 Además, los israelitas estaban tristes por la suerte de la tribu de Benjamín, pues decían: «Hoy ha sido separada de Israel una de sus tribus.
+21:7 ¿Qué vamos a hacer con los hombres que aun quedan, en cuanto a mujeres para ellos? Nosotros hicimos un pacto ante el Señor, de que no les daremos nuestras hijas por mujeres.»
+21:8 También se preguntaban: «¿Hay alguien de las tribus de Israel que no se haya presentado ante el Señor en Mispá?» Y se dieron cuenta de que ninguno de la familia de Jabés Galaad se había presentado a la reunión en el campamento,
+21:9 pues cuando se pasó revista al pueblo, no estuvo allí ninguno de esa familia.
+21:10 Entonces la comunidad envió a doce mil hombres de los más valientes, con las órdenes de matar a todos los habitantes de Jabés Galaad, incluso a mujeres y niños,
+21:11 y a todos los varones, y a las mujeres que ya hubieran tenido relaciones íntimas con algún hombre.
+21:12 Cuando esos israelitas llegaron a Jabés Galaad, hallaron a cuatrocientas doncellas que aún no habían tenido relaciones íntimas con ningún hombre, y las llevaron al campamento en Silo, en la tierra de Canaán.
+21:13 Entonces la comunidad envió un mensaje a los benjaminitas que estaban en la peña de Rimón, para invitarlos a hacer las paces.
+21:14 Cuando los benjaminitas llegaron, les dieron las mujeres que habían traído de Jabés Galaad. Pero aún faltaron mujeres.
+21:15 Y los israelitas tuvieron compasión de los benjaminitas, porque el Señor había dejado un vacío entre las tribus de Israel.
+21:16 Ante esto, los ancianos de la comunidad dijeron: «¿Qué vamos a hacer para dar mujeres a los hombres que no alcanzaron ninguna?» Y es que habían matado a todas las mujeres benjaminitas.
+21:17 Resolvieron entonces que las propiedades de Benjamín quedaran en manos de los que habían escapado de morir, para que no desapareciera una tribu de Israel,
+21:18 y dijeron: «Nosotros no les podemos dar por esposas a nuestras hijas, por causa del pacto que hicimos de condenar al que les dé por mujer a una de sus hijas.»
+21:19 Pero recordaron que cada año se celebraba una fiesta especial del Señor en Silo, al norte de Betel y al oriente del camino que va de Betel a Siquén, y al sur de Lebona.
+21:20 Aconsejaron entonces a los benjaminitas que pusieran emboscadas en los viñedos,
+21:21 y que estuvieran atentos para que, cuando vieran a las mujeres de Silo salir a bailar en grupos, ellos salieran de los viñedos y tomaran para sí a una de las mujeres de Silo, y se la llevara a su tierra.
+21:22 Y añadieron: «Si los padres o los hermanos de ellas las reclaman, nosotros les pediremos que los perdonen y se las concedan como un favor especial, ya que durante la guerra contra Jabés no tomamos mujeres para todos. Además, como ellos mismos no se las entregaron, no tendrán que sentirse culpables.»
+21:23 Los benjaminitas aceptaron el consejo; y cada uno raptó para sí una de las mujeres que bailaban, y luego se fueron a su tierra, donde volvieron a edificar y habitar sus ciudades.
+21:24 Por su parte, también los israelitas se fueron, cada uno con su familia, a su tierra.
+21:25 En aquellos días no había rey en Israel, y cada quien hacía lo que le parecía mejor.

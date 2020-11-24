@@ -1,0 +1,284 @@
+#title Esdras
+#description Descripcion
+#abbreviation 15_Esd
+
+1:1 Para que se cumpliera lo que el Señor había anunciado por medio de Jeremías, en el primer año del reinado de Ciro de Persia el Señor despertó el espíritu de Ciro para que hiciera pregonar por todo su reino, de palabra y por escrito, lo siguiente:
+1:2 «Así dice Ciro, rey de los persas: El Señor, el Dios de los cielos, me ha dado todos los reinos de la tierra, y me ha ordenado reconstruir el templo de Jerusalén, que está en Judá.
+1:3 Si hay entre ustedes alguien que sea de su pueblo, que su Dios lo acompañe, y vuelva a Jerusalén, que está en Judá, para reconstruir el templo del Señor, Dios de Israel, pues sólo él es Dios.
+1:4 Todos los que se queden, sea cual sea el lugar donde residan, ayuden a los que se van y denles oro, plata, ganado y cualquier otro apoyo que puedan darles, además de las ofrendas voluntarias para el templo del Señor, que está en Jerusalén.»
+1:5 Los patriarcas de las familias de Judá y de Benjamín, los sacerdotes y los levitas, y todos aquellos en quienes Dios despertó en ellos el deseo de reconstruir el templo del Señor, se prepararon para ir a Jerusalén.
+1:6 Los que vivían en los alrededores les ayudaron con oro, plata, bienes y objetos de valor, y ganado, además de toda clase de ofrendas voluntarias.
+1:7 Además, el rey Ciro ordenó sacar los utensilios que habían estado en el templo del Señor, y que Nabucodonosor había sacado de Jerusalén para ponerlos en los templos de sus dioses.
+1:8 Mitríades, tesorero del rey Ciro de Persia, hizo lo que el rey le mandó, y entregó uno por uno los utensilios a Sesbasar, jefe de Judá.
+1:9 Ésta es la relación de lo entregado: Treinta tazones de oro, mil tazones de plata, veintinueve cuchillos,
+1:10 treinta tazas de oro, cuatrocientas diez tazas de plata, mil utensilios varios,
+1:11 cinco mil cuatrocientos utensilios de oro y de plata. Todo esto lo llevó Sesbasar a Jerusalén con los que se fueron y que antes habían estado cautivos en Babilonia.
+2:1 Ésta es la lista de la gente que Nabucodonosor había llevado cautiva a Babilonia, y que ahora regresaban a Jerusalén y a Judá, según la ciudad a la que pertenecían:
+2:2 Zorobabel y sus acompañantes fueron Josué, Nehemías, Seraías, Relaías, Mardoqueo, Bilsán, Mispar, Bigvay, Rejún y Baná. El número de los israelitas fue el siguiente:
+2:3 Los descendientes de Paros: dos mil ciento setenta y dos.
+2:4 Los descendientes de Sefatías: trescientos setenta y dos.
+2:5 Los descendientes de Araj: setecientos setenta y cinco.
+2:6 Los descendientes de Pajat Moab: dos mil ochocientos doce descendientes de Josué y de Joab.
+2:7 Los descendientes de Elam: mil doscientos cincuenta y cuatro.
+2:8 Los descendientes de Zatu: novecientos cuarenta y cinco.
+2:9 Los descendientes de Zacay: setecientos sesenta.
+2:10 Los descendientes de Bani, seiscientos cuarenta y dos.
+2:11 Los descendientes de Bebay, seiscientos veintitrés.
+2:12 Los descendientes de Azgad: mil doscientos veintidós.
+2:13 Los descendientes de Adonicán: seiscientos sesenta y seis.
+2:14 Los descendientes de Bigvay: dos mil cincuenta y seis.
+2:15 Los descendientes de Adín: cuatrocientos cincuenta y cuatro.
+2:16 Los descendientes de Ater hijo de Ezequías: noventa y ocho.
+2:17 Los descendientes de Besay: trescientos veintitrés.
+2:18 Los descendientes de Jora: ciento doce.
+2:19 Los descendientes de Jasún: doscientos veintitrés.
+2:20 Los descendientes de Gibar: noventa y cinco.
+2:21 Los descendientes de Belén: ciento veintitrés.
+2:22 Los descendientes de Netofa: cincuenta y seis.
+2:23 Los descendientes de Anatot: ciento veintiocho.
+2:24 Los descendientes de Azmavet: cuarenta y dos.
+2:25 Los descendientes de Quiriat Yearín, Cafira y Berot: setecientos cuarenta y tres.
+2:26 Los descendientes de Ramá y Geba: seiscientos veintiuno.
+2:27 Los descendientes de Micmas: ciento veintidós.
+2:28 Los descendientes de Betel y Hai: doscientos veintitrés.
+2:29 Los descendientes de Nebo: cincuenta y dos.
+2:30 Los descendientes de Magbis: ciento cincuenta y seis.
+2:31 Los descendientes del otro Elam: mil doscientos cincuenta y cuatro.
+2:32 Los descendientes de Jarín: trescientos veinte.
+2:33 Los descendientes de Lod, Jadid y Onó: setecientos veinticinco.
+2:34 Los descendientes de Jericó: trescientos cuarenta y cinco.
+2:35 Los descendientes de Sená: tres mil seiscientos treinta.
+2:36 Los sacerdotes descendientes de Jedaías, de la familia de Josué: novecientos setenta y tres.
+2:37 Los descendientes de Imer: mil cincuenta y dos.
+2:38 Los descendientes de Pasjur: mil doscientos cuarenta y siete.
+2:39 Los descendientes de Jarín: mil diecisiete.
+2:40 Los levitas descendientes de Josué y de Cadmiel, de la familia de Hodavías: setenta y cuatro.
+2:41 Los cantores descendientes de Asaf: ciento veintiocho.
+2:42 Los porteros descendientes de Salún, Ater, Talmón, Acub, Jatitá y Sobay: ciento treinta y nueve en total.
+2:43 Los sirvientes del templo eran descendientes de Sijá, Jasufá, Tabaot,
+2:44 Queros, Sigá, Padón,
+2:45 Lebana, Jagabá, Acub,
+2:46 Jagab, Salmay, Janán,
+2:47 Gidel, Gajar, Reaía,
+2:48 Resín, Necoda, Gazán,
+2:49 Uzá, Paseaj, Besay,
+2:50 Asena, Meunín, Nefusim,
+2:51 Bacbuc, Jacufá, Jarjur,
+2:52 Bazlut, Mejidá, Jarsá,
+2:53 Barcos, Sísara, Tema,
+2:54 Nesiaj, Jatifá.
+2:55 Los descendientes de los siervos de Salomón eran descendientes de Sotay, Soferet, Peruda,
+2:56 Jalá, Darcón, Gidel,
+2:57 Sefatías, Jatil, Poquéret Hasebayin y Ami.
+2:58 Todos los sirvientes del templo descendientes de los siervos de Salomón: trescientos noventa y dos.
+2:59 Hubo otros que también fueron a Jerusalén, y provenían de Tel Melaj, Tel Jarsá, Querub, Addán e Imer, pero no pudieron demostrar de qué familia o línea patriarcal eran, ni siquiera si eran israelitas o no,
+2:60 aunque eran descendientes de Delaía, Tobías y Necoda: seiscientos cincuenta y dos.
+2:61 Los descendientes de sacerdotes que tampoco pudieron demostrar si eran israelitas fueron los descendientes de Jabaías, Cos y Barzilay. Éste se casó con una de las hijas de Barzilay el galaadita, y tomó su nombre de la familia de ellas.
+2:62 Todos ellos buscaron en vano el registro de sus genealogías y, como no lo hallaron, fueron excluidos del sacerdocio.
+2:63 Por eso el gobernador les prohibió comer de las cosas sagradas hasta que hubiera un sacerdote que pudiera consultar con el Urim y el Tumim.
+2:64 El total de la comunidad era de cuarenta y dos mil trescientas sesenta personas,
+2:65 sin contar a los siervos y las siervas, que sumaban siete mil trescientos treinta y siete personas, entre las cuales había doscientos cantores y cantoras.
+2:66 Además, llevaban setecientos treinta y seis caballos, doscientas cuarenta y cinco mulas,
+2:67 cuatrocientos treinta y cinco camellos y seis mil setecientos veinte asnos.
+2:68 Cuando llegaron al templo del Señor, en Jerusalén, algunos jefes de familia ofrecieron donativos para que se reedificara el templo en el mismo lugar.
+2:69 Conforme a sus posibilidades, entregaron al tesorero de la obra cuatrocientos ochenta y ocho kilos de oro, dos mil setecientos cincuenta kilos de plata, y cien túnicas para los sacerdotes.
+2:70 Después, los sacerdotes, los levitas, parte del pueblo, los cantores, los porteros y los sirvientes del templo se quedaron a vivir en sus respectivos pueblos y ciudades, y el resto de Israel se fue a su ciudad natal.
+3:1 Siete meses después, cuando los israelitas ya se habían establecido en sus respectivos pueblos y ciudades, todo el pueblo de Israel fue convocado a una reunión en Jerusalén.
+3:2 Entonces Josué hijo de Josadac y sus hermanos sacerdotes, y Zorobabel hijo de Salatiel y sus hermanos, se dispusieron a reconstruir el altar del Dios de Israel para ofrecer holocaustos, como está escrito en la ley de Moisés, hombre de Dios.
+3:3 Colocaron el altar sobre una base, por temor a los pueblos que los rodeaban, y todos los días, por la mañana y por la tarde, ofrecían holocaustos al Señor.
+3:4 Celebraron con toda solemnidad la fiesta de las enramadas, como está escrito, y diariamente ofrecían holocaustos al Señor, conforme a cada celebración, y cada cosa en su día,
+3:5 además de los holocaustos diarios, las fiestas de luna nueva, y todas las fiestas solemnes del Señor, como también los sacrificios espontáneos y las ofrendas voluntarias para el Señor.
+3:6 El pueblo empezó a ofrecer holocaustos desde el primer día del séptimo mes, aunque todavía no se habían echado los cimientos del templo.
+3:7 Luego contrataron albañiles y carpinteros, y les proveyeron de alimentos, bebidas, y aceite y también transportistas de Sidón y de Tiro para que trajeran por mar, hasta el puerto de Jope, madera de cedro del monte Líbano, conforme a lo ordenado por el rey Ciro de Persia.
+3:8 En el segundo mes del segundo año de haber llegado al templo del Señor en Jerusalén, comenzaron la reconstrucción del templo Zorobabel hijo de Salatiel, Josué hijo de Josadac, sus parientes sacerdotes y levitas, y todo el pueblo que había regresado de la cautividad de Babilonia a Jerusalén. Para supervisar el avance de la obra en el templo, escogieron a los levitas mayores de veinte años.
+3:9 En la supervisión también tomaron parte Josué y sus hijos y parientes, Cadmiel y sus hijos, todos ellos descendientes de Judá, más los hijos y parientes de Henadad, que eran levitas. Todos ellos supervisaban cuidadosamente el avance de la reconstrucción del templo del Señor.
+3:10 Mientras los albañiles echaban los cimientos del templo, llegaban los sacerdotes con sus vestiduras y sus trompetas, y los levitas descendientes de Asaf con sus platillos de bronce, y alababan al Señor, según lo había ordenado el rey David de Israel.
+3:11 Y entonaban alabanzas de gratitud al Señor, y decían: «Dios es bueno, y su misericordia por Israel es eterna». Y todo el pueblo unánime alababa a Dios con júbilo al ver cómo se echaban los cimientos del templo del Señor.
+3:12 Muchos sacerdotes y levitas, y jefes de familias ya ancianos, que habían conocido el primer templo, lloraban a voz en cuello al ver cómo se echaban los cimientos del templo, mientras otros gritaban de alegría.
+3:13 Era tan fuerte el rumor que se escuchaba desde lejos, que la gente no podía distinguir el llanto de los gritos de alegría.
+4:1 Cuando los enemigos de los descendientes de Judá y de Benjamín se enteraron de que los israelitas que habían regresado del cautiverio estaban reconstruyendo el templo del Dios de Israel,
+4:2 fueron a entrevistarse con Zorobabel y con los jefes de esas familias, y les dijeron: «Queremos ayudarlos en la reconstrucción del templo del Señor, pues también nosotros honramos al mismo Dios, y le hemos ofrecido sacrificios desde cuando Esarjadón era rey de Asiria y nos trajo a estas tierras.»
+4:3 Pero Zorobabel, Josué y las demás familias descendientes de Israel, dijeron: «No es conveniente que ustedes y nosotros edifiquemos juntos el templo del Señor. Lo reconstruiremos nosotros, porque así lo ordenó el rey Ciro de Persia.»
+4:4 Pero los que poblaban esas tierras los amenazaron y los llenaron de temor para que no siguieran construyendo.
+4:5 Sobornaron a los consejeros para que se pusieran en su contra, y lograron detener la obra durante el reinado de Ciro y hasta los días del rey Darío de Persia;
+4:6 y cuando Asuero comenzó a reinar, escribieron serias acusaciones contra los habitantes de Judá y de Jerusalén.
+4:7 También durante el reinado de Artajerjes de Persia, Bislán, Mitrídades, y Tabel y sus compañeros, escribieron al rey una carta en contra de los israelitas. La carta estaba escrita en arameo,
+4:8 de parte del comandante Rejún y del secretario Simey, al rey Artajerjes, y redactada en contra de los habitantes de Jerusalén.
+4:9 En esa ocasión escribieron el comandante Rejún y el secretario Simey, y sus demás compañeros, los jueces, gobernadores y oficiales de Persia y de Erec, Babilonia y Susa, es decir, de Elam,
+4:10 y los otros pueblos que el grande y glorioso Asnapar llevó cautivos para que vivieran en la ciudad de Samaria y en otras provincias al otro lado del río Éufrates.
+4:11 Lo que sigue es copia de las acusaciones que recibió el rey, la cual decía: «Al rey Artajerjes. Saludos de sus siervos al otro lado del río Éufrates.
+4:12 »Su Majestad debe saber que los judíos que salieron de Babilonia y vinieron a Jerusalén han comenzado a reconstruir su rebelde y malvada ciudad, y ya están echando nuevos cimientos y reparando sus murallas.
+4:13 Su Majestad debe también saber que, en caso de que esa ciudad sea reconstruida y sus murallas sean reparadas, ya no pagará tributo ni impuestos ni rentas, con lo que las arcas del reino se verán afectadas.
+4:14 Nosotros, como súbditos del reino, consideramos injusto que Su Majestad sea menospreciada, y por lo tanto creímos conveniente informar de esto a Su Majestad.
+4:15 Ordene Su Majestad buscar en las memorias de sus antepasados, y podrá comprobar que esta ciudad siempre ha sido rebelde y perjudicial a los reyes y a las provincias del reino. Ya en el pasado se han suscitado rebeliones en ella, por lo cual esa ciudad fue destruida.
+4:16 Sepa Su Majestad que, si esta ciudad llega a ser reconstruida y reforzadas sus murallas, la región que está al otro lado del río Éufrates dejará de ser de Su Majestad.»
+4:17 La respuesta del rey fue la siguiente: «Al gobernador Rejún, al secretario Simey, a todos sus compañeros que habitan en Samaria, y a los que están al otro lado del río Éufrates. Paz y prosperidad.
+4:18 »La carta que de ustedes recibí me fue leída con toda claridad.
+4:19 Habiendo dado la orden de investigar, se ha hallado que, en efecto, esa ciudad se ha rebelado en el pasado contra los reyes, y que aun entre ellos mismos se suscitan revueltas.
+4:20 También se ha hallado que hubo allí reyes poderosos que dominaron todo el territorio al otro lado del río Éufrates, y que se les pagaba tributo, impuestos y rentas.
+4:21 »Por tanto, ordenen a esos hombres suspender la reconstrucción de la ciudad, hasta nuevas órdenes de mi parte.
+4:22 Pongan todo su empeño en cumplir mis órdenes, para evitar mayores daños al reino.»
+4:23 Cuando la carta del rey Artajerjes fue leída en presencia de Rejún y de su secretario Simey, y de sus compañeros, éstos fueron inmediatamente a Jerusalén y con lujo de violencia obligaron a los judíos a detener las obras.
+4:24 Fue así como la reconstrucción del templo de Jerusalén se suspendió hasta el segundo año del reinado del rey Darío de Persia.
+5:1 Los profetas Hageo y Zacarías hijo de Iddo hablaron a los judíos que vivían en Judá y en Jerusalén en el nombre del Dios de Israel, que velaba sobre ellos.
+5:2 Entonces Zorobabel hijo de Salatiel y Josué hijo de Josadac reiniciaron la reconstrución del templo de Dios en Jerusalén Los profetas de Dios los ayudaban.
+5:3 Pero Tatenay, que era el gobernador del otro lado del río Éufrates, y Setar Bosnay y sus compañeros, fueron a verlos y les preguntaron: «¿Quién les ha dado permiso para reconstruir el templo y para reforzar las murallas?»
+5:4 También les preguntaron: «¿Quiénes son los que dirigen las obras?»
+5:5 Pero el Señor protegía a los ancianos judíos, y no les pudieron impedir que siguieran con la reconstrucción, hasta que el asunto fue llevado ante el rey Darío y hubo una respuesta por escrito.
+5:6 Entonces Tatenay, gobernador del otro lado del río Éufrates, y Setar Bosnay y sus compañeros, que también gobernaban en esa región, enviaron una carta al rey Darío,
+5:7 la cual decía: «A Su Majestad el rey Darío. Paz.
+5:8 »Debe saber Su Majestad que fuimos a la provincia de Judea y al templo del gran Dios, y vimos que el templo se está reconstruyendo con grandes bloques de piedra. Ya se han colocado las vigas del templo, y la obra avanza de prisa y con gran cuidado.
+5:9 Llamamos a los dirigentes y les preguntamos: “¿Quién les dio permiso para reconstruir el templo y reforzar las murallas de la ciudad?”
+5:10 »También preguntamos por el nombre de las personas responsables de la obra, para informar a Su Majestad,
+5:11 y ellos respondieron: “Nosotros somos siervos del Dios del cielo y de la tierra, y estamos reconstruyendo el templo que hace muchos años edificó y concluyó el gran rey de Israel.
+5:12 Como nuestros padres desobedecieron al Dios del cielo y de la tierra, él se enojó con su pueblo y los puso en manos del caldeo Nabucodonosor, rey de Babilonia, el cual destruyó este templo y a nuestro pueblo se lo llevó cautivo a Babilonia.
+5:13 Pero durante el primer año del reinado de Ciro en Babilonia, él mismo ordenó que este templo de Dios fuera reconstruido.
+5:14 También ordenó que todos los utensilios de oro y de plata que por orden de Nabucodonosor fueron sacados del templo de Dios en Jerusalén, y que fueron llevados al templo de Babilonia, fueran entregados a Sesbasar, a quien había nombrado gobernador.
+5:15 El rey Ciro en persona le dijo: ‘Toma estos utensilios y llévalos al templo en Jerusalén, y que el templo de Dios sea reconstruido en el mismo lugar.’
+5:16 En cumplimiento de las órdenes del rey Ciro, Sesbasar vino y echó los cimientos del templo de Dios en Jerusalén, y desde entonces hemos estado reconstruyendo, pero aún no terminamos.
+5:17 Si a Su Majestad le parece bien, ordene buscar en los archivos de Babilonia hasta dar con una carta que tiene la orden del rey Ciro para reconstruir el templo de Dios en Jerusalén. Cuando ésta sea hallada, tenga a bien Su Majestad comunicarnos su voluntad al respecto.”»
+6:1 El rey Darío ordenó buscar en los archivos de Babilonia, en el palacio donde guardaban los tesoros,
+6:2 y en el palacio de Acmeta, que está en la provincia de Media, hallaron un libro con este escrito: «Memorándum.
+6:3 Fechado el primer año del rey Ciro. »Su Majestad ordena la reconstrucción del templo de Dios en Jerusalén, y el restablecimiento de los sacrificios. »Su Majestad ordena también que las murallas sean reafirmadas, con una altura y una anchura de sesenta codos,
+6:4 y con tres hileras de grandes bloques de piedra y una hilera de madera nueva. El costo total de la obra será pagado por el tesoro real.
+6:5 »En cuanto a los utensilios de oro y de plata del templo de Dios en Jerusalén, los cuales Nabucodonosor sacó de allí para traerlos a Babilonia, éstos deberán ser devueltos y llevados al templo de Dios en Jerusalén.»
+6:6 «Por lo tanto, ustedes, Tatenay, gobernador de la ribera occidental del río Éufrates, y Setar Bosnay y compañeros, deberán alejarse de allí
+6:7 y dejar que el gobernador y los ancianos judíos lleven a cabo la reconstrucción del templo de Dios en su mismo lugar.
+6:8 »Yo, Darío, ordeno que los gastos de la obra sean cubiertos puntualmente por la tesorería del rey, tomándolos de los tributos que se recogen al otro lado del río Éufrates y entregándolos a los ancianos judíos para que la obra de reconstrucción no se detenga.
+6:9 Todo lo que sea necesario, como becerros, carneros, corderos, trigo, sal, vino y aceite para los holocaustos en honor del Dios del cielo, sea proporcionado diariamente a los sacerdotes en Jerusalén, según ellos lo pidan y sin obstáculo alguno,
+6:10 a fin de que puedan ofrecer sacrificios gratos al Dios del cielo, y oren por la vida del rey y de sus hijos.
+6:11 »Yo, Darío, ordeno que cualquiera que altere este decreto sea empalado con una viga arrancada de su propia casa, y que esa casa sea convertida en un muladar.
+6:12 Que el Dios que estableció ese lugar como residencia de su nombre destruya a cualquier rey o pueblo que interfiera o se oponga, o quiera destruir el templo de Dios en Jerusalén. Yo, Darío, emito este decreto y ordeno que se cumpla con prontitud.»
+6:13 Entonces Tatenay, que era el gobernador de la ribera occidental del río Éufrates, y Setar Bosnay y sus compañeros, se apresuraron a cumplir lo que el rey Darío había ordenado.
+6:14 Así, los ancianos judíos avanzaron en la obra de reconstrucción, tal como lo habían anunciado los profetas Hageo y Zacarías hijo de Iddo. La obra se terminó porque el Dios de Israel así lo ordenó, y por los decretos de Ciro, Darío y Artajerjes, reyes de Persia.
+6:15 La reconstrucción del templo concluyó el tercer día del mes de Adar del sexto año del reinado de Darío.
+6:16 Ese día, los israelitas, los sacerdotes y los levitas, y todos lo que habían vuelto del cautiverio, celebraron con gran alegría la dedicación del templo de Dios.
+6:17 Como expiación por los pecados de todos los israelitas, se ofrecieron cien becerros, doscientos carneros, cuatrocientos corderos, y doce machos cabríos, conforme al número de las tribus de Israel.
+6:18 A los sacerdotes se les asignaron sus turnos, lo mismo que a los levitas, para que sirvieran a Dios en Jerusalén, conforme a lo estipulado en el libro de Moisés.
+6:19 También los israelitas que volvieron del cautiverio celebraron la fiesta de la pascua el día catorce del primer mes.
+6:20 Los sacerdotes y los levitas se habían purificado como un solo hombre, y estaban ritualmente limpios y listos para ofrecer el sacrificio de la pascua, tanto por ellos mismos como por los que habían estado cautivos y por sus hermanos los sacerdotes.
+6:21 Los israelitas que habían vuelto del cautiverio comieron con todos los que se habían apartado de las prácticas repugnantes de la gente que habitaba esas tierras, y habían decidido buscar al Señor, el Dios de Israel.
+6:22 Con gran alegría celebraron durante siete días la fiesta solemne de los panes sin levadura, porque el Señor los había llenado de alegría al hacer que el rey de Asiria se compadeciera de ellos, y porque habían cobrado fuerzas para la reconstrucción del templo del Dios de Israel.
+7:1 Años después, durante el reinado del rey Artajerjes de Persia, hubo un hombre llamado Esdras, descendiente en línea directa de Seraías, Azarías, Hilcías,
+7:2 Salún, Sadoc, Ajitob,
+7:3 Amarías, Azarías, Merayot,
+7:4 Zeraías, Uzi, Buqui,
+7:5 Abisúa, Finés y Eleazar. Todos ellos eran descendientes de Aarón, el primer sacerdote de los israelitas.
+7:6 Este Esdras salió de Babilonia, y era un escriba con amplios conocimientos de la ley que el Señor y Dios de Israel le había dado a Moisés. El rey Artajerjes le concedió a Esdras todo lo que éste le pidió, porque el poder del Señor estaba con él.
+7:7 En el séptimo año del reinado de Artajerjes Esdras y algunos israelitas salieron hacia Jerusalén, y también sacerdotes, levitas, cantores, porteros y criados del templo.
+7:8 Cuando Esdras llegó a Jerusalén, corría el quinto mes del séptimo año del reinado de Artajerjes.
+7:9 Esdras y su gente salieron de Babilonia el primer día del primer mes, y llegaron a Jerusalén el primer día del quinto mes, guiados por la bondadosa mano de Dios.
+7:10 Y es que Esdras se había entregado de corazón al estudio de la ley del Señor, y a cumplirla y enseñarla a los israelitas, con todas sus normas y ordenanzas.
+7:11 Ésta es la copia de la carta que el rey Artajerjes entregó al sacerdote Esdras, profundo conocedor de los mandamientos y estatutos que el Señor había dado a Israel:
+7:12 «De Artajerjes, rey de reyes, a Esdras, sacerdote y escriba erudito en la ley del Dios del cielo. Paz.
+7:13 »Por este conducto ordeno que todo israelita, sacerdote o levita, que viva en mi reino y quiera ir contigo a Jerusalén, puede irse.
+7:14 Yo, el rey, y mis siete consejeros, hemos acordado enviarte a Judea y a Jerusalén, en conformidad con la ley de tu Dios, la cual obra en tus manos.
+7:15 Llevarás contigo toda la plata y el oro que mis consejeros y yo voluntariamente ofrecemos al Dios de Israel, cuyo templo está en Jerusalén.
+7:16 Llevarás también toda la plata y el oro que logres recaudar en toda la provincia de Babilonia, lo mismo que las ofrendas voluntarias del pueblo y de los sacerdotes para el templo de Dios en Jerusalén.
+7:17 Con lo que recaudes podrás comprar becerros, carneros y corderos, además de cereales y vino, para que los ofrezcas sobre el altar del templo del Dios de ustedes en Jerusalén.
+7:18 Si a ti y a tus hermanos les parece que con el oro y la plata restante pueden comprar otras cosas, háganlo, de acuerdo con la voluntad de su Dios.
+7:19 Los utensilios que te serán devueltos son para el servicio del templo de tu Dios, así que los devolverás ante tu Dios en Jerusalén.
+7:20 Cualquier otra cosa que sea necesaria para el templo de tu Dios, y que tengas que pagar, lo pagarás del tesoro real.
+7:21 »Yo, el rey Artajerjes, ordeno a todos los tesoreros que están al otro lado del río Éufrates proveer a Esdras, sacerdote y escriba de la ley del Dios del cielo, todo lo que él les pida, y hacerlo de manera inmediata,
+7:22 siendo el límite de hasta cien talentos de plata, cien coros de trigo, cien batos de vino, cien batos de aceite, y sal sin medida.
+7:23 Que todo lo que ordene el Dios del cielo para su templo se haga con prontitud. ¿Por qué exponernos a que el Señor se enoje contra el rey y contra sus hijos?
+7:24 »Tómese nota de que todos los sacerdotes, levitas, cantores, porteros, criados del templo y ministros del templo del Señor, estarán exentos de pagar tributo, contribución o renta.
+7:25 »En cuanto a ti, Esdras, usa la sabiduría que tu Dios te ha concedido y elige jueces y gobernadores para el pueblo que está al otro lado del río Éufrates, que conoce los mandamientos de tu Dios. Si alguno no los conoce, tú deberás instruirlo.
+7:26 »Todo aquel que no cumpla con la ley de tu Dios ni con la ley del rey, deberá ser juzgado de inmediato y condenado a muerte, a destierro, a pagar una multa, o a ir a prisión.»
+7:27 «Yo, Esdras, bendigo al Señor, Dios de nuestros padres, por haber puesto esos sentimientos en el corazón del rey, para honrar el templo del Señor en Jerusalén,
+7:28 y por su bondad y misericordia para conmigo, pues he sido bien visto por el rey y por sus consejeros y por todos los hombres de importancia que rodean al rey. El poder de Dios me ha permitido recobrar las fuerzas y reunir a los hombres importantes de Israel para que me acompañen.»
+8:1 Ésta es la lista de las casas patriarcales y la genealogía de los que durante el reinado de Artajerjes salieron conmigo de Babilonia a Jerusalén:
+8:2 Gersón, descendiente de la familia de Finés; Daniel, de la familia de Itamar; Jatús, de la familia de David.
+8:3 Zacarías, de los descendientes de Secanías y de Paros, más ciento cincuenta varones.
+8:4 Elioguenay hijo de Zeraías, de los descendientes de Pajat Moab, más doscientos varones.
+8:5 El hijo de Jahaziel, de los descendientes de Secanías, más trescientos varones.
+8:6 Ebed, hijo de Jonatán, de los descendientes de Adín, más cincuenta varones.
+8:7 Jesaías hijo de Atalías, de los descendientes de Elam, más setenta varones.
+8:8 Zebadías hijo de Micael, de los descendientes de Sefatías, más ochenta varones.
+8:9 Abdías hijo de Yejiel, de los descendientes de Joab, más doscientos dieciocho varones.
+8:10 El hijo de Josifías, de los descendientes de Selomit, más ciento sesenta varones.
+8:11 Zacarías hijo de Bebay, de los descendientes de Bebay, más veintiocho varones.
+8:12 Johanán hijo de Hacatán, de los descendientes de Azgad, más ciento diez varones.
+8:13 Los últimos descendientes de Adonicán, que eran Elifelet, Yeguiel y Semaías, más sesenta varones.
+8:14 Utay y Zabud, descendientes de Bigvay, más setenta varones.
+8:15 Yo reuní a todos estos junto al río que se dirige a Ahava, y acampamos allí durante tres días. Busqué entre el pueblo y entre los sacerdotes, pero no encontré a ningún descendiente de Leví.
+8:16 Entonces despaché a Eliezer, Ariel, Semaías, Elnatán, Jarib, Elnatán, Natán, Zacarías y Mesulán, que eran hombres importantes, y también a Joyarib y a Elnatán, hombres de muchos conocimientos,
+8:17 y los envié a Casifia, donde Iddo era el jefe, y los instruí en cuanto a lo que debían decir a Iddo, lo mismo que a sus hermanos que servían en el templo en Casifia; específicamente le pedí que nos proporcionaran ministros para el templo de nuestro Dios.
+8:18 Y como la mano de nuestro Dios estaba con nosotros, nos trajeron a Serebías, que era un hombre muy entendido y que era descendiente de Majali hijo de Leví, el hijo de Israel. Con él llegaron sus hijos y sus hermanos, dieciocho varones en total;
+8:19 Jasabías y Jesaías, de los descendientes de Merari, con sus hijos y sus hermanos, veinte varones en total;
+8:20 más doscientos criados del templo, a quienes David y los jefes israelitas habían puesto bajo la dirección de los levitas, cada uno de los cuales fue designado por nombre para servir en el templo.
+8:21 Ese día, a las orillas del río Ahava, convoque a un ayuno general en honor de nuestro Dios, para pedir que a nosotros y a nuestros hijos, y a nuestros bienes, nos guiara por el camino correcto.
+8:22 No me atreví a pedirle al rey que enviara con nosotros soldados y gente de a caballo para defendernos de los enemigos en el camino, pues le había dicho: «El poder de nuestro Dios hace bien a quienes lo buscan, pero no a quienes lo abandonan, los cuales experimentan su enojo.»
+8:23 Así que todos ayunamos ese día, y le pedimos al Señor que nos bendijera, y él nos bendijo.
+8:24 Después aparté a Serebías y a Jasabías y a sus diez hermanos, pues los doce eran de los principales sacerdotes.
+8:25 Luego, pesé ante ellos la plata, el oro y los utensilios, que eran las ofrendas para el templo de Dios que habían dado el rey Artajerjes y sus consejeros, y los hombres importantes del reino y los israelitas.
+8:26 Lo que pesé y les entregué fueron seiscientos cincuenta talentos de plata, cien talentos de plata en utensilios para el templo, y cien talentos de oro;
+8:27 además, veinte tazones de oro que valían mil dracmas de oro, y dos vasos de bronce de excelente pulido, tan valiosos como el oro.
+8:28 Y les dije: «Ustedes han sido consagrados para el servicio del Señor, y los utensilios, la plata y el oro, también han sido consagrados como ofrenda voluntaria al Señor, Dios de nuestros antepasados.
+8:29 Tengan mucho cuidado con las ofrendas; guárdenlas muy bien hasta que puedan pesarlas delante de los jefes de los sacerdotes y levitas, y de los jefes de las familias patriarcales de Israel que están en Jerusalén.»
+8:30 Y los sacerdotes y los levitas recibieron la plata, el oro y los utensilios que yo había pesado, para llevarlos al templo de nuestro Dios en Jerusalén.
+8:31 El día doce del mes primero levantamos el campamento que teníamos junto al río Ahava, y partimos hacia Jerusalén, y nuestro Dios nos protegió durante todo el camino y nos libró de nuestros enemigos y de los que nos acechaban para hacernos daño.
+8:32 Cuando llegamos a Jerusalén, descansamos allí durante tres días.
+8:33 Al cuarto día fuimos al templo y entregamos las ofrendas al sacerdote Meremot hijo de Urías, y él las pesó en presencia de Eleazar hijo de Finés y de los levitas Jozabad hijo de Josué y Noadías hijo de Binúi.
+8:34 Todo se hizo correctamente, y lo que entregamos ese día se pesó y se anotó.
+8:35 Los que habían vuelto del cautiverio y que llegaron con nosotros ofrecieron holocaustos al Dios de Israel, doce becerros en favor de los israelitas, noventa y seis carneros, setenta y siete corderos y doce machos cabríos, para el perdón de pecados; todo en holocausto al Señor.
+8:36 Los decretos del rey fueron entregados a los sátrapas y capitanes del otro lado del río Éufrates, y ellos apoyaron al pueblo y al templo de Dios.
+9:1 Después de todo esto, los jefes vinieron a verme y me dijeron: «Ni el pueblo de Israel, ni los sacerdotes ni los levitas, se diferencian en nada de los cananeos, hititas, ferezeos, jebuseos, amonitas, moabitas, egipcios y amorreos, pues incurren en los mismos actos repugnantes.
+9:2 Tanto ellos como sus hijos han tomado mujeres de esos pueblos, y el linaje sagrado del pueblo de Dios se ha mezclado con los pueblos de estas tierras. Lo peor es que los primeros en cometer este pecado han sido los gobernadores y los jefes importantes.»
+9:3 Al oír esto, me rasgué la ropa y el manto, me arranqué el cabello y la barba, y muy angustiado me senté en el suelo.
+9:4 Entonces se reunieron conmigo todos los que honraban las palabras del Dios de Israel, tristes por el pecado de los que habían vuelto del cautiverio, y mi angustia duró hasta la hora de los sacrificios de la tarde.
+9:5 A esa hora me levanté, afligido y con mi ropa y mi manto rasgados, y arrodillado levanté las manos al Señor mi Dios.
+9:6 Y le dije: «Dios mío, estoy muy confundido y avergonzado. Me siento incapaz de levantar mi rostro hacia ti porque nuestra maldad ha aumentado; ¡nos ha rebasado hasta llegar al cielo!
+9:7 Desde los días de nuestros antepasados, y hasta hoy, hemos vivido en la maldad. Por eso nosotros, y nuestros reyes y sacerdotes, hemos sido entregados en manos de los reyes de otras naciones; nos han robado, nos han hecho prisioneros, y hasta le fecha la vergüenza no se aparta de nosotros.
+9:8 Ahora el Señor nuestro Dios ha tenido misericordia de nosotros, aunque sea por un poco de tiempo, y nos ha dejado a salvo un remanente; nos ha dado un lugar seguro en su santuario, para que veamos las cosas con claridad y podamos vivir un poco más, aunque sea en nuestra condición de esclavos.
+9:9 Hemos vivido en la servidumbre, pero dentro de ella Dios no nos ha desamparado, sino que por su misericordia ha hecho que los reyes de Persia nos concedan vida para poder reconstruir el templo de nuestro Dios y restaurar sus ruinas, y brindarnos protección en Judá y en Jerusalén.
+9:10 »¿Pero qué te podemos decir ahora, Dios nuestro? Hemos abandonado tus mandamientos,
+9:11 los cuales nos diste por medio de tus siervos los profetas, cuando dijiste: “La tierra de la cual van a tomar posesión está llena de corrupción porque ahí habitan pueblos que han esparcido por toda la tierra sus prácticas repugnantes.
+9:12 Pero ustedes no dejarán que sus hijas se casen con los hijos de ellos, ni tampoco dejarán que los hijos de ustedes se casen con las hijas de ellos; ni procurarán que ellos vivan en paz y prosperen. Así ustedes serán fuertes y disfrutarán de las bondades de la tierra, y podrán dejársela a sus hijos como herencia.”
+9:13 »A pesar de que hemos sufrido mucho por nuestras malas acciones, tú, Dios nuestro, no nos has castigado como merecen nuestras maldades; en cambio, a unos pocos de nosotros nos has dejado con vida.
+9:14 ¿Cómo podríamos volver a desobedecer tus mandamientos y emparentar con pueblos que practican cosas que te repugnan? ¡Ciertamente tú te indignarías contra nosotros hasta consumirnos, y no quedaría uno solo de nosotros con vida!
+9:15 »Señor y Dios de Israel, tú eres justo, pues hasta este día unos pocos de nosotros hemos quedado con vida. Estamos aquí, en tu presencia, reconociendo nuestros pecados, aun cuando nadie podría permanecer en tu presencia sin ser castigado.»
+10:1 Mientras Esdras estaba en el templo de Dios, de rodillas y orando, llorando y confesando sus pecados, una gran multitud de israelitas se le unió; eran hombres, mujeres y niños, que lloraban amargamente.
+10:2 Entonces Secanías hijo de Yejiel, que era de la familia de Elam, le dijo a Esdras: «Hemos pecado contra nuestro Dios. Hemos tomado por esposas a mujeres extranjeras, de los pueblos de estas tierras. No obstante, creo que los israelitas aún tenemos esperanza.
+10:3 Hagamos con nuestro Dios el pacto de despedir a todas esas mujeres que tenemos por esposas, lo mismo que a sus hijos, y cumplamos la ley, en conformidad con el consejo que nos has dado y el de los que temen los mandamientos de nuestro Dios.
+10:4 Levántate, y manos a la obra, que ésa es tu responsabilidad. Tú, pon todo tu empeño, que nosotros te apoyaremos.»
+10:5 Entonces Esdras se levantó y tomó juramento a los jefes de los sacerdotes y de los levitas, y a todo el pueblo de Israel, para que se comprometieran a cumplir todo lo que habían dicho.
+10:6 Luego, salió del templo y se dirigió a la habitación de Johanán hijo de Eliasib, y una vez allí no comió ni bebió nada, pues estaba muy triste por el pecado de los israelitas que habían vuelto del cautiverio.
+10:7 Acto seguido, enviaron mensajeros a Judá y a Jerusalén para que todos los israelitas nacidos en Babilonia se reunieran en Jerusalén.
+10:8 Los que no llegaran en un plazo de tres días, conforme al pacto aceptado por los jefes y los ancianos, perderían sus posesiones y serían excluidos de la comunidad de los repatriados.
+10:9 Fue así como todos los descendientes de Judá y de Benjamín se reunieron en Jerusalén en el plazo fijado. La reunión tuvo lugar el día veinte del mes noveno, en la plaza del templo de Dios. Todos temblaban de miedo por causa de la lluvia y por tener que afrontar este asunto.
+10:10 Entonces el sacerdote Esdras se puso de pie y les dijo: «Ustedes han pecado al tomar por esposas a mujeres de otros pueblos. Con esto han añadido más pecados a los ya cometidos por el pueblo de Israel.
+10:11 Lo que deben hacer ahora es dar gloria al Señor, Dios de nuestros padres, y comprometerse a cumplir su voluntad, y separarse de los pueblos que habitan estas tierras y de las mujeres extranjeras.»
+10:12 Todos los convocados respondieron en alta voz: «Haremos todo lo que nos has dicho.
+10:13 Pero somos muchos, está lloviendo, y no podemos quedarnos en la calle. Además, este asunto no va a resolverse en un día ni dos, pues somos muchos los que hemos incurrido en este pecado.
+10:14 Que se queden nuestros jefes, y que aquellos que vivan en nuestras ciudades y hayan tomado por esposas a mujeres extranjeras vengan a Jerusalén en tiempos determinados, junto con los ancianos y jueces de cada ciudad, hasta que apartemos de nosotros la ira de nuestro Dios.»
+10:15 Solamente Jonatán hijo de Asael y Jahazías hijo de Ticvá se opusieron, apoyados por los levitas Mesulán y Sabetay.
+10:16 Así lo hicieron los que habían vuelto del cautiverio. Entonces eligieron al sacerdote Esdras y a ciertos jefes de las familias patriarcales, y todos los que habían sido nombrados se presentaron el primer día del mes décimo para dilucidar este asunto.
+10:17 El juicio se prolongó hasta el primer día del mes primero, y comparecieron todos los que habían tomado por esposas a mujeres extranjeras.
+10:18 La siguiente es una lista de los hijos de los sacerdotes que tomaron por esposas a mujeres extranjeras. De los hijos de Josué hijo de Josadac, y de sus hermanos: Maseías, Eliezer, Jarib y Gedalías.
+10:19 Éstos juraron que despedirían a sus mujeres, y como ofrenda por su pecado ofrecieron un carnero de sus rebaños.
+10:20 De los hijos de Imer: Jananí y Zebadías.
+10:21 De los hijos de Jarín: Maseías, Elías, Semaías, Yejiel y Uzías.
+10:22 De los hijos de Pasjur: Elioguenay, Maseías, Ismael, Natanael, Jozabad y Elasa.
+10:23 De los descendientes de los levitas: Jozabad, Simey, Kelaía (es decir, Kelita), Petajías, Judá y Eliezer.
+10:24 De los cantores: Eliasib. De los porteros: Salún, Telén y Uri.
+10:25 Otros israelitas fueron: De los hijos de Paros: Ramía, Jezías, Malquías, Mijamín, Eleazar, Malquías y Benaías.
+10:26 De los hijos de Elam: Matanías, Zacarías, Yejiel, Abdi, Jeremot y Elías.
+10:27 De los hijos de Zatu: Elioguenay, Eliasib, Matanías, Jeremot, Zabad y Aziza.
+10:28 De los hijos de Bebay: Johanán, Jananías, Zabay y Atlay.
+10:29 De los hijos de Bani: Mesulán, Maluc, Adaías, Jasub, Seal y Ramot.
+10:30 De los hijos de Pajat Moab: Adna, Quelal, Benaías, Maseías, Matanías, Besalel, Binúi y Manasés.
+10:31 De los hijos de Jarín: Eliezer, Isías, Malquías, Semaías, Simeón,
+10:32 Benjamín, Maluc y Semarías.
+10:33 De los hijos de Jasún: Matenay, Matata, Zabad, Elifelet, Yeremay, Manasés y Simey.
+10:34 De los hijos de Bani: Maday, Amirán, Uel,
+10:35 Benaías, Bedías, Queluí,
+10:36 Vanías, Meremot, Eliasib,
+10:37 Matanías, Matenay, Jasay,
+10:38 Bani, Binúi, Simey,
+10:39 Selemías, Natán, Adaías,
+10:40 Macnadebay, Sasay, Saraí,
+10:41 Azareel, Selemías, Semarías,
+10:42 Salún, Amarías y José.
+10:43 De los hijos de Nebo: Yeguiel, Matatías, Zabad, Zebina, Jadau, Joel y Benaías.
+10:44 Todos estos habían tomado por esposas a mujeres extranjeras, y muchas de ellas habían tenido hijos.

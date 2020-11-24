@@ -1,0 +1,437 @@
+#title Romanos
+#description Descripcion
+#abbreviation 45_Rom
+
+1:1 Yo, Pablo, siervo de Jesucristo, llamado a ser apóstol y apartado para el evangelio de Dios,
+1:2 que él ya había prometido por medio de sus profetas en las santas Escrituras,
+1:3 les escribo acerca de su Hijo, nuestro Señor Jesucristo, que conforme a los hombres descendía de David,
+1:4 pero que conforme al Espíritu de santidad fue declarado Hijo de Dios con poder, por su resurrección de entre los muertos.
+1:5 Por medio de Jesucristo recibimos la gracia del apostolado, para que por su nombre llevemos a todas las naciones a obedecer a la fe.
+1:6 Entre esas naciones están también ustedes, llamados a ser de Jesucristo.
+1:7 A todos ustedes que están en Roma, los amados de Dios que fueron llamados a ser santos: Que la gracia y la paz de Dios nuestro Padre y del Señor Jesucristo sean con ustedes.
+1:8 En primer lugar, por medio de Jesucristo doy gracias a mi Dios por todos ustedes y porque su fe se difunde por todo el mundo.
+1:9 Dios, a quien sirvo con todo mi corazón predicando el evangelio de su Hijo, es testigo de que los recuerdo siempre en mis oraciones,
+1:10 y de que en ellas le ruego que, si es su voluntad, me conceda que por fin pueda ir a visitarlos.
+1:11 Porque deseo verlos para impartirles algún don espiritual, a fin de que sean fortalecidos;
+1:12 es decir, para que nos fortalezcamos unos a otros con esta fe que ustedes y yo compartimos.
+1:13 Pero quiero que sepan, hermanos, que muchas veces me propuse ir a visitarlos para tener también entre ustedes algún fruto, como entre los otros hermanos no judíos, pero hasta ahora he encontrado obstáculos.
+1:14 Estoy en deuda con todos, sean griegos o no griegos, sabios o no sabios.
+1:15 Así que, por mi parte, estoy dispuesto a anunciarles el evangelio también a ustedes, los que están en Roma.
+1:16 No me avergüenzo del evangelio, porque es poder de Dios para la salvación de todo aquel que cree: en primer lugar, para los judíos, y también para los que no lo son.
+1:17 Porque en el evangelio se revela la justicia de Dios, que de principio a fin es por medio de la fe, tal como está escrito: «El justo por la fe vivirá.»
+1:18 La ira de Dios se revela desde el cielo contra toda impiedad y maldad de quienes injustamente retienen la verdad.
+1:19 Para ellos, lo que de Dios se puede conocer es evidente, pues Dios se lo reveló;
+1:20 porque lo invisible de Dios, es decir, su eterno poder y su naturaleza divina, se hacen claramente visibles desde la creación del mundo, y pueden comprenderse por medio de las cosas hechas, de modo que no tienen excusa.
+1:21 Pues a pesar de haber conocido a Dios, no lo glorificaron como a Dios, ni le dieron gracias, sino que se envanecieron en sus razonamientos, y su necio corazón se llenó de oscuridad.
+1:22 Aunque afirmaban que eran sabios, se hicieron necios,
+1:23 y cambiaron la gloria del Dios inmortal por imágenes de hombres mortales, de aves, de cuadrúpedos y de reptiles.
+1:24 Por eso Dios los entregó a los malos deseos de su corazón y a la impureza, de modo que degradaron entre sí sus propios cuerpos.
+1:25 Cambiaron la verdad de Dios por la mentira, y honraron y dieron culto a las criaturas antes que al Creador, el cual es bendito por los siglos. Amén.
+1:26 Por esto Dios los entregó a pasiones vergonzosas. Hasta sus mujeres cambiaron las relaciones naturales por las que van en contra de la naturaleza.
+1:27 De la misma manera, los hombres dejaron las relaciones naturales con las mujeres y se encendieron en su lascivia unos con otros. Cometieron hechos vergonzosos hombres con hombres, y recibieron en sí mismos la retribución que merecía su perversión.
+1:28 Y como ellos no quisieron tener en cuenta a Dios, Dios los entregó a una mente depravada, para hacer cosas que no convienen.
+1:29 Están atiborrados de toda clase de injusticia, inmoralidad sexual, perversidad, avaricia, maldad; llenos de envidia, homicidios, contiendas, engaños y malignidades.
+1:30 Son murmuradores, detractores, aborrecedores de Dios, injuriosos, soberbios, altivos, inventores de males, desobedientes a los padres,
+1:31 necios, desleales, insensibles, implacables, inmisericordes.
+1:32 Y aunque saben bien el juicio de Dios, en cuanto a que los que practican tales cosas son dignos de muerte, no sólo las hacen, sino que también se regodean con los que las practican.
+2:1 Por tanto tú, que juzgas a otros, no tienes excusa, no importa quién seas, pues al juzgar a otros te condenas a ti mismo, porque haces las mismas cosas que hacen ellos.
+2:2 Todos sabemos que el juicio de Dios contra los que practican tales cosas se ciñe a la verdad.
+2:3 Y tú, que juzgas a los demás pero practicas las mismas cosas que ellos, ¿piensas que escaparás del juicio de Dios?
+2:4 ¿No te das cuenta de que menosprecias la benignidad, la tolerancia y la paciencia de Dios, y que ignoras que su benignidad busca llevarte al arrepentimiento?
+2:5 Pero por la obstinación y dureza de tu corazón, vas acumulando ira contra ti mismo para el día de la ira, cuando Dios revelará su justo juicio,
+2:6 en el cual pagará a cada uno conforme a sus obras.
+2:7 Dios dará vida eterna a los que, perseverando en hacer el bien, buscan gloria, honra e inmortalidad;
+2:8 pero castigará con ira a los que por egoísmo se rebelan y no obedecen a la verdad, sino a la injusticia.
+2:9 Habrá sufrimiento y angustia para todos los que hacen lo malo, en primer lugar para los judíos, pero también para los que no lo son.
+2:10 En cambio, habrá gloria, honra y paz para todos los que hacen lo bueno, en primer lugar para los judíos, pero también para los que no lo son;
+2:11 porque ante Dios todas las personas son iguales.
+2:12 Así que todos los que han pecado sin haber tenido la ley, perecerán sin la ley, y todos los que han pecado bajo la ley, serán juzgados por la ley.
+2:13 Porque Dios no considera justos a los que simplemente oyen la ley sino a los que la obedecen.
+2:14 Porque cuando los paganos, que no tienen ley, hacen por naturaleza lo que la ley demanda, son ley para sí mismos, aunque no tengan la ley;
+2:15 y de esa manera demuestran que llevan la ley escrita en su corazón, pues su propia conciencia da testimonio, y sus propios razonamientos los acusarán o defenderán
+2:16 en el día en que Dios juzgará por medio de Jesucristo los secretos de los hombres, conforme a mi evangelio.
+2:17 Ahora bien, tú te llamas judío, confías en la ley, y te enorgulleces de tu Dios.
+2:18 Conoces la voluntad de Dios y juzgas lo que es mejor porque la ley así te lo ha enseñado.
+2:19 Estás convencido de que eres guía de los ciegos y luz de los que están en tinieblas,
+2:20 instructor de los ignorantes y maestro de niños, y que tienes en la ley la clave del conocimiento y de la verdad.
+2:21 Pues bien, tú que enseñas a otros, ¿no te enseñas a ti mismo? Tú que predicas que no se debe robar, ¿robas?
+2:22 Tú que dices que no se debe cometer adulterio, ¿adulteras? Tú que detestas a los ídolos, ¿robas en los templos?
+2:23 Tú que te sientes orgulloso de la ley, ¿deshonras a Dios quebrantando la ley?
+2:24 Porque, como está escrito: «Por causa de ustedes el nombre de Dios es blasfemado entre los paganos.»
+2:25 Es verdad que, si obedeces a la ley, la circuncisión es provechosa, pero si la desobedeces, será como si no estuvieras circuncidado.
+2:26 Por lo tanto, si el que no está circuncidado obedece lo que la ley ordena, ¿no se lo considerará como si estuviera circuncidado?
+2:27 Y el que no está físicamente circuncidado, pero obedece a la ley, te condenará a ti, que desobedeces a la ley a pesar de que tienes la ley y estás circuncidado.
+2:28 Porque lo exterior no hace judío a nadie, y estar circuncidado no es una señal externa solamente.
+2:29 El verdadero judío lo es en su interior, y la circuncisión no es la literal sino la espiritual, la del corazón. El que es judío de esta manera es aprobado, no por los hombres, sino por Dios.
+3:1 Entonces, ¿qué ventaja tiene el judío? ¿De qué sirve la circuncisión?
+3:2 De mucho, y por muchas razones. En primer lugar, a los judíos se les confió la palabra de Dios.
+3:3 Pero entonces, si algunos de ellos no fueron fieles, ¿su falta de fe anulará la fidelidad de Dios?
+3:4 ¡De ninguna manera! Dios es siempre veraz aunque todo hombre sea mentiroso. Como está escrito: «Para que seas justificado en tus palabras, Y salgas airoso cuando seas juzgado.»
+3:5 Entonces, ¿qué diremos si nuestra injusticia hace resaltar la justicia de Dios? ¿Que Dios es injusto cuando nos castiga? (Hablo como hombre.)
+3:6 ¡De ninguna manera! Pues si Dios fuera injusto, ¿cómo juzgaría al mundo?
+3:7 Pero si mi mentira sirve para que la verdad de Dios abunde para su gloria, ¿por qué todavía soy juzgado como pecador?
+3:8 ¿Y por qué no decir: «Hagamos males para que vengan bienes»? Así nos calumnian algunos que afirman que eso es lo que enseñamos. ¡Estas personas se tienen bien merecida la condenación!
+3:9 ¿Entonces, qué? ¿Somos nosotros mejores que ellos? ¡De ninguna manera! Porque ya hemos demostrado que todos, judíos y no judíos, están bajo el pecado.
+3:10 Como está escrito: «¡No hay ni uno solo que sea justo!
+3:11 No hay quien entienda; no hay quien busque a Dios.
+3:12 Todos se desviaron, a una se han corrompido. No hay quien haga lo bueno, ¡no hay ni siquiera uno!
+3:13 Su garganta es un sepulcro abierto, y con su lengua engañan. ¡En sus labios hay veneno de serpientes!
+3:14 Su boca está llena de maldición y de amargura.
+3:15 Sus pies son veloces para derramar sangre.
+3:16 Destrucción y desgracia hay en sus caminos,
+3:17 Y no conocen el camino de la paz.
+3:18 No hay temor de Dios delante de sus ojos.»
+3:19 Pero sabemos que todo lo que dice la ley, se lo dice a los que están bajo la ley, para que todos callen y caigan bajo el juicio de Dios,
+3:20 ya que nadie será justificado delante de Dios por hacer las cosas que la ley exige, pues la ley sirve para reconocer el pecado.
+3:21 Pero ahora, aparte de la ley, se ha manifestado la justicia de Dios, y de ello dan testimonio la ley y los profetas.
+3:22 La justicia de Dios, por medio de la fe en Jesucristo, es para todos los que creen en él. Pues no hay diferencia alguna,
+3:23 por cuanto todos pecaron y están destituidos de la gloria de Dios;
+3:24 pero son justificados gratuitamente por su gracia, mediante la redención que proveyó Cristo Jesús,
+3:25 a quien Dios puso como sacrificio de expiación por medio de la fe en su sangre. Esto lo hizo Dios para manifestar su justicia, pues en su paciencia ha pasado por alto los pecados pasados,
+3:26 para manifestar su justicia en este tiempo, a fin de que él sea el justo y, al mismo tiempo, el que justifica al que tiene fe en Jesús.
+3:27 Entonces, ¿dónde está la jactancia? Queda excluida. ¿Por cuál ley? ¿Por la de las obras? No, sino por la ley de la fe.
+3:28 Por lo tanto, llegamos a la conclusión de que el hombre es justificado por la fe, sin las obras de la ley.
+3:29 ¿Acaso Dios es solamente Dios de los judíos? ¿No es también Dios de los no judíos? Ciertamente, también es Dios de los no judíos.
+3:30 Porque Dios es uno, y él justificará por la fe a los que están circuncidados, y por medio de la fe a los que no lo están.
+3:31 Entonces, ¿por la fe invalidamos la ley? ¡De ninguna manera! Más bien confirmamos la ley.
+4:1 Entonces, ¿qué fue lo que obtuvo nuestro antepasado Abrahán?
+4:2 Porque si Abrahán hubiera sido justificado por las obras, tendría de qué jactarse, pero no delante de Dios.
+4:3 Pues ¿qué es lo que dice la Escritura? Que Abrahán le creyó a Dios, y esto se le tomó en cuenta como justicia.
+4:4 Ahora bien, para el que trabaja, su salario no es un regalo sino algo que tiene merecido;
+4:5 pero al que no trabaja, sino que cree en aquel que justifica al pecador, su fe se le toma en cuenta como justicia.
+4:6 David también se refiere a la felicidad del hombre a quien Dios atribuye justicia sin obras,
+4:7 cuando dice: «¡Dichoso aquel cuyas iniquidades son perdonadas, Y cuyos pecados son cubiertos!
+4:8 ¡Dichoso aquél a quien el Señor no culpa de pecado!»
+4:9 ¿Acaso esta dicha es solamente para los que están circuncidados, o es también para los que no lo están? Porque decimos que la fe de Abrahán se le tomó en cuenta como justicia.
+4:10 ¿Cuándo se le tomó en cuenta? ¿Antes de ser circuncidado, o después? Antes, y no después.
+4:11 Entonces Abrahán fue circuncidado como señal, como sello de la justicia por la fe que tuvo antes de ser circuncidado. De esa manera, Abrahán es padre de todos los creyentes que no están circuncidados, a fin de que también a ellos la fe se les tome en cuenta como justicia.
+4:12 Y también es padre de aquellos que, además de estar circuncidados, siguen las pisadas de la fe que tuvo nuestro padre Abrahán antes de ser circuncidado.
+4:13 Porque la promesa dada a Abrahán y a su descendencia en cuanto a que recibiría el mundo como herencia, no le fue dada por la ley sino por la justicia que se basa en la fe.
+4:14 Pues si los que van a recibir la herencia se basan en la ley, la fe resulta vana y la promesa queda anulada.
+4:15 Porque la ley produce castigo, pero donde no hay ley, tampoco hay transgresión.
+4:16 Por tanto, la promesa se recibe por fe, para que sea por gracia, a fin de que la promesa sea firme para toda su descendencia, tanto para los que son de la ley como para los que son de la fe de Abrahán, el cual es padre de todos nosotros.
+4:17 Como está escrito: «Te he puesto por padre de muchas naciones.» Y lo es delante de Dios, a quien creyó, el cual da vida a los muertos, y llama las cosas que no existen, como si existieran.
+4:18 Contra toda esperanza, Abrahán creyó para llegar a ser padre de muchas naciones, conforme a lo que se le había dicho: «Así será tu descendencia.»
+4:19 Además, su fe no flaqueó al considerar su cuerpo, que estaba ya como muerto (pues ya tenía casi cien años), o la esterilidad de la matriz de Sara.
+4:20 Tampoco dudó, por incredulidad, de la promesa de Dios, sino que se fortaleció en la fe y dio gloria a Dios,
+4:21 plenamente convencido de que Dios era también poderoso para hacer todo lo que había prometido.
+4:22 Por eso su fe se le tomó en cuenta como justicia.
+4:23 Y no solamente con respecto a él se escribió que se le tomó en cuenta,
+4:24 sino también con respecto a nosotros, pues Dios tomará en cuenta nuestra fe, si creemos en el que levantó de los muertos a Jesús, nuestro Señor,
+4:25 el cual fue entregado por nuestros pecados, y resucitó para nuestra justificación.
+5:1 Así, pues, justificados por la fe tenemos paz con Dios por medio de nuestro Señor Jesucristo,
+5:2 por quien tenemos también, por la fe, acceso a esta gracia en la cual estamos firmes, y nos regocijamos en la esperanza de la gloria de Dios.
+5:3 Y no sólo esto, sino que también nos regocijamos en los sufrimientos, porque sabemos que los sufrimientos producen resistencia,
+5:4 la resistencia produce un carácter aprobado, y el carácter aprobado produce esperanza.
+5:5 Y esta esperanza no nos defrauda, porque Dios ha derramado su amor en nuestro corazón por el Espíritu Santo que nos ha dado.
+5:6 Porque a su debido tiempo, cuando aún éramos débiles, Cristo murió por los pecadores.
+5:7 Es difícil que alguien muera por un justo, aunque tal vez haya quien se atreva a morir por una persona buena.
+5:8 Pero Dios muestra su amor por nosotros en que, cuando aún éramos pecadores, Cristo murió por nosotros.
+5:9 Con mucha más razón, ahora que ya hemos sido justificados en su sangre, seremos salvados del castigo por medio de él.
+5:10 Porque, si cuando éramos enemigos de Dios fuimos reconciliados con él mediante la muerte de su Hijo, mucho más ahora, que estamos reconciliados, seremos salvados por su vida.
+5:11 Y no sólo esto, sino que también nos regocijamos en Dios por nuestro Señor Jesucristo, por quien ahora hemos recibido la reconciliación.
+5:12 Por tanto, como el pecado entró en el mundo por un solo hombre, y por medio del pecado entró la muerte, así la muerte pasó a todos los hombres, por cuanto todos pecaron.
+5:13 Antes de la ley ya había pecado en el mundo, aunque el pecado no se toma en cuenta cuando no hay ley.
+5:14 No obstante, la muerte reinó desde Adán hasta Moisés, aun para aquellos que no pecaron del mismo modo que Adán, el cual es figura de aquel que había de venir.
+5:15 Pero el pecado de Adán no puede compararse con el don de Dios. Pues si por el pecado de un solo hombre muchos murieron, la gracia y el don que Dios nos dio por medio de un solo hombre, Jesucristo, abundaron para el bien de muchos.
+5:16 El don de Dios no puede compararse con el pecado de Adán, porque por un solo pecado vino la condenación, pero el don de Dios vino por muchas transgresiones para justificación.
+5:17 Pues si por la transgresión de uno solo reinó la muerte, mucho más reinarán en vida los que reciben la abundancia de la gracia y del don de la justicia mediante un solo hombre, Jesucristo.
+5:18 Así que, como por la transgresión de uno solo vino la condenación a todos los hombres, de la misma manera por la justicia de uno solo vino la justificación de vida a todos los hombres.
+5:19 Porque así como por la desobediencia de un solo hombre muchos fueron constituidos pecadores, así también por la obediencia de uno solo muchos serán constituidos justos.
+5:20 La ley se introdujo para que abundara el pecado; pero cuando el pecado abundó, sobreabundó la gracia;
+5:21 para que así como el pecado reinó para traer muerte, también la gracia reine por la justicia para darnos vida eterna mediante Jesucristo, nuestro Señor.
+6:1 Entonces, ¿qué diremos? ¿Seguiremos pecando, para que la gracia abunde?
+6:2 ¡De ninguna manera! Porque los que hemos muerto al pecado, ¿cómo podemos seguir viviendo en él?
+6:3 ¿No saben ustedes que todos los que fuimos bautizados en Cristo Jesús, fuimos bautizados en su muerte?
+6:4 Porque por el bautismo fuimos sepultados con él en su muerte, para que así como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros vivamos una vida nueva.
+6:5 Porque si nos hemos unido a Cristo en su muerte, así también nos uniremos a él en su resurrección.
+6:6 Sabemos que nuestro antiguo yo fue crucificado juntamente con él, para que el cuerpo del pecado sea destruido, a fin de que no sirvamos más al pecado.
+6:7 Porque el que ha muerto, ha sido liberado del pecado.
+6:8 Así que, si morimos con Cristo, creemos que también viviremos con él.
+6:9 Sabemos que Cristo resucitó y que no volverá a morir, pues la muerte ya no tiene poder sobre él.
+6:10 Porque en cuanto a su muerte, murió al pecado de una vez y para siempre; pero en cuanto a su vida, vive para Dios.
+6:11 Así también ustedes, considérense muertos al pecado pero vivos para Dios en Cristo Jesús, nuestro Señor.
+6:12 Por lo tanto, no permitan ustedes que el pecado reine en su cuerpo mortal, ni lo obedezcan en sus malos deseos.
+6:13 Tampoco presenten sus miembros al pecado como instrumentos de iniquidad, sino preséntense ustedes mismos a Dios como vivos de entre los muertos, y presenten sus miembros a Dios como instrumentos de justicia.
+6:14 El pecado ya no tendrá poder sobre ustedes, pues ya no están bajo la ley sino bajo la gracia.
+6:15 ¿Entonces, qué? ¿Pecaremos porque no estamos bajo la ley sino bajo la gracia? ¡De ninguna manera!
+6:16 ¿Acaso no saben ustedes que, si se someten a alguien para obedecerlo como esclavos, se hacen esclavos de aquel a quien obedecen, ya sea del pecado que lleva a la muerte, o de la obediencia que lleva a la justicia?
+6:17 Pero gracias a Dios que, aunque ustedes eran esclavos del pecado, han obedecido de corazón al modelo de enseñanza que han recibido,
+6:18 y una vez liberados del pecado llegaron a ser siervos de la justicia.
+6:19 Hablo en términos humanos, por la debilidad de su naturaleza humana. Así como para practicar la iniquidad presentaron sus miembros para servir a la impureza y la maldad, ahora, para practicar la santidad, presenten sus miembros para servir a la justicia.
+6:20 Cuando ustedes eran esclavos del pecado, eran libres en cuanto a la justicia.
+6:21 ¿Pero qué provecho sacaron de eso? Ahora ustedes se avergüenzan de aquellas cosas, pues conducen a la muerte;
+6:22 pero como ya han sido liberados del pecado y hechos siervos de Dios, el provecho que obtienen es la santificación, cuya meta final es la vida eterna.
+6:23 Porque la paga del pecado es muerte, pero la dádiva de Dios es vida eterna en Cristo Jesús, nuestro Señor.
+7:1 Puesto que hablo con quienes conocen la ley, les pregunto: ¿Acaso ignoran, hermanos, que la ley ejerce poder sobre alguien mientras esa persona vive?
+7:2 Por ejemplo, por la ley una mujer casada está sujeta a su marido mientras éste vive; pero si el marido muere, ella queda libre de la ley que la sujetaba a él.
+7:3 Así que, si ella se une a otro hombre mientras su marido vive, comete adulterio, pero si su marido muere, ella queda libre de esa ley; de modo que, si se une a otro hombre, no comete adulterio.
+7:4 Así también ustedes, hermanos míos, por medio del cuerpo de Cristo han muerto a la ley, para pertenecer a otro, al que resucitó de los muertos, a fin de que demos fruto para Dios.
+7:5 Porque mientras vivíamos en la carne, las pasiones pecaminosas estimuladas por la ley actuaban en nuestros miembros y producían frutos que llevan a la muerte.
+7:6 Pero ahora que hemos muerto a su dominio, estamos libres de la ley, y de ese modo podemos servir en la vida nueva del Espíritu y no bajo el viejo régimen de la letra.
+7:7 ¿Concluiremos entonces que la ley es pecado? ¡De ninguna manera! Sin embargo, de no haber sido por la ley, yo no hubiera conocido el pecado; porque si la ley no dijera: «No codiciarás», tampoco yo habría sabido lo que es codiciar.
+7:8 Pero el pecado se aprovechó del mandamiento y despertó en mí toda clase de codicia, porque sin la ley el pecado está muerto.
+7:9 En un tiempo, yo vivía sin la ley, pero cuando vino el mandamiento, el pecado cobró vida y yo morí.
+7:10 Entonces me di cuenta de que el mismo mandamiento que debía darme vida, me llevó a la muerte,
+7:11 porque el pecado se aprovechó del mandamiento y me engañó, y por medio de él me mató.
+7:12 Podemos decir, entonces, que la ley es santa, y que el mandamiento es santo, justo y bueno.
+7:13 Pero entonces, ¿lo que es bueno, se convirtió en muerte para mí? ¡De ninguna manera! Más bien el pecado, para demostrar que es pecado, produjo en mí la muerte por medio de lo que es bueno, a fin de que por medio del mandamiento llegara a ser extremadamente pecaminoso.
+7:14 Sabemos que la ley es espiritual. Pero yo soy un simple ser carnal, que ha sido vendido como esclavo al pecado.
+7:15 No entiendo qué me pasa, pues no hago lo que quiero, sino lo que aborrezco.
+7:16 Y si hago lo que no quiero hacer, compruebo entonces que la ley es buena.
+7:17 De modo que no soy yo quien hace aquello, sino el pecado que habita en mí.
+7:18 Yo sé que en mí, esto es, en mi naturaleza humana, no habita el bien; porque el desear el bien está en mí, pero no el hacerlo.
+7:19 Porque no hago el bien que quiero, sino el mal que no quiero.
+7:20 Y si hago lo que no quiero, ya no soy yo quien lo hace, sino el pecado que habita en mí.
+7:21 Entonces, aunque quiero hacer el bien, descubro esta ley: que el mal está en mí.
+7:22 Porque, según el hombre interior, me deleito en la ley de Dios;
+7:23 pero encuentro que hay otra ley en mis miembros, la cual se rebela contra la ley de mi mente y me tiene cautivo a la ley del pecado que está en mis miembros.
+7:24 ¡Miserable de mí! ¿quién me librará de este cuerpo de muerte?
+7:25 Doy gracias a Dios, por medio de nuestro Señor Jesucristo. Así que yo mismo, con la mente, sirvo a la ley de Dios, pero con la naturaleza humana sirvo a la ley del pecado.
+8:1 Por tanto, no hay ninguna condenación para los que están unidos a Cristo Jesús, los que no andan conforme a la carne, sino conforme al Espíritu,
+8:2 porque la ley del Espíritu de vida en Cristo Jesús me ha librado de la ley del pecado y de la muerte.
+8:3 Porque Dios ha hecho lo que para la ley era imposible hacer, debido a que era débil por su naturaleza pecaminosa: por causa del pecado envió a su Hijo en una condición semejante a la del hombre pecador, y de esa manera condenó al pecado en la carne,
+8:4 para que la justicia de la ley se cumpliera en nosotros, que no seguimos los pasos de nuestra carne, sino los del Espíritu.
+8:5 Porque los que siguen los pasos de la carne fijan su atención en lo que es de la carne, pero los que son del Espíritu, la fijan en lo que es del Espíritu.
+8:6 Porque el ocuparse de la carne es muerte, pero el ocuparse del Espíritu es vida y paz.
+8:7 Las intenciones de la carne llevan a la enemistad contra Dios; porque no se sujetan a la ley de Dios, ni tampoco pueden;
+8:8 además, los que viven según la carne no pueden agradar a Dios.
+8:9 Pero ustedes no viven según las intenciones de la carne, sino según el Espíritu, si es que el Espíritu de Dios habita en ustedes. Y si alguno no tiene el Espíritu de Cristo, no es de él.
+8:10 Pero si Cristo está en ustedes, el cuerpo está en verdad muerto a causa del pecado, pero el espíritu vive a causa de la justicia.
+8:11 Y si el Espíritu de aquel que levantó de los muertos a Jesús vive en ustedes, el que levantó de los muertos a Cristo Jesús también dará vida a sus cuerpos mortales por medio de su Espíritu que vive en ustedes.
+8:12 Así que, hermanos, tenemos una deuda pendiente, pero no es la de vivir en conformidad con la carne,
+8:13 porque si ustedes viven en conformidad con la carne, morirán; pero si dan muerte a las obras de la carne por medio del Espíritu, entonces vivirán.
+8:14 Porque los hijos de Dios son todos aquellos que son guiados por el Espíritu de Dios.
+8:15 Pues ustedes no han recibido un espíritu que los esclavice nuevamente al miedo, sino que han recibido el espíritu de adopción, por el cual clamamos: ¡Abba, Padre!
+8:16 El Espíritu mismo da testimonio a nuestro espíritu, de que somos hijos de Dios.
+8:17 Y si somos hijos, somos también herederos; herederos de Dios y coherederos con Cristo, si es que padecemos juntamente con él, para que juntamente con él seamos glorificados.
+8:18 Pues no tengo dudas de que las aflicciones del tiempo presente en nada se comparan con la gloria venidera que habrá de revelarse en nosotros.
+8:19 Porque la creación aguarda con gran impaciencia la manifestación de los hijos de Dios.
+8:20 Porque la creación fue sujetada a vanidad, no por su propia voluntad, sino porque así lo dispuso Dios, pero todavía tiene esperanza,
+8:21 pues también la creación misma será liberada de la esclavitud de corrupción, para así alcanzar la libertad gloriosa de los hijos de Dios.
+8:22 Porque sabemos que toda la creación hasta ahora gime a una, y sufre como si tuviera dolores de parto.
+8:23 Y no sólo ella, sino también nosotros, que tenemos las primicias del Espíritu, gemimos dentro de nosotros mismos mientras esperamos la adopción, la redención de nuestro cuerpo.
+8:24 Porque con esa esperanza fuimos salvados. Pero la esperanza que se ve, ya no es esperanza, porque ¿quién espera lo que ya está viendo?
+8:25 Pero si lo que esperamos es algo que todavía no vemos, tenemos que esperarlo con paciencia.
+8:26 De igual manera, el Espíritu nos ayuda en nuestra debilidad, pues no sabemos qué nos conviene pedir, pero el Espíritu mismo intercede por nosotros con gemidos indecibles.
+8:27 Pero el que examina los corazones sabe cuál es la intención del Espíritu, porque intercede por los santos conforme a la voluntad de Dios.
+8:28 Ahora bien, sabemos que Dios dispone todas las cosas para el bien de los que lo aman, es decir, de los que él ha llamado de acuerdo a su propósito.
+8:29 Porque a los que antes conoció, también los predestinó para que sean hechos conforme a la imagen de su Hijo, para que él sea el primogénito entre muchos hermanos.
+8:30 Y a los que predestinó, también los llamó; y a los que llamó, también los justificó; y a los que justificó, también los glorificó.
+8:31 ¿Qué más podemos decir? Que si Dios está a nuestro favor, nadie podrá estar en contra de nosotros.
+8:32 El que no escatimó ni a su propio Hijo, sino que lo entregó por todos nosotros, ¿cómo no nos dará también con él todas las cosas?
+8:33 ¿Quién acusará a los escogidos de Dios? Dios es el que justifica.
+8:34 ¿Quién es el que condenará? Cristo es el que murió; más aun, el que también resucitó, el que además está a la derecha de Dios e intercede por nosotros.
+8:35 ¿Qué podrá separarnos del amor de Cristo? ¿Tribulación, angustia, persecución, hambre, desnudez, peligro, espada?
+8:36 Como está escrito: «Por causa de ti siempre nos llevan a la muerte, Somos contados como ovejas de matadero.»
+8:37 Sin embargo, en todo esto somos más que vencedores por medio de aquel que nos amó.
+8:38 Por lo cual estoy seguro de que ni la muerte, ni la vida, ni los ángeles, ni los principados, ni las potestades, ni lo presente, ni lo por venir,
+8:39 ni lo alto, ni lo profundo, ni ninguna otra cosa creada nos podrá separar del amor que Dios nos ha mostrado en Cristo Jesús nuestro Señor.
+9:1 Digo la verdad en Cristo, no miento. Mi conciencia me da testimonio en el Espíritu Santo:
+9:2 tengo una gran tristeza y un continuo dolor en mi corazón.
+9:3 Porque desearía ser yo mismo maldecido y separado de Cristo, por amor a mis hermanos, por los de mi propia raza,
+9:4 que son israelitas. De ellos son la adopción, la gloria, el pacto, la promulgación de la ley, el culto y las promesas.
+9:5 De ellos son los patriarcas, y de ellos, desde el punto de vista humano, vino Cristo, el cual es Dios sobre todas las cosas. ¡Bendito sea por siempre! Amén.
+9:6 Ahora bien, no estoy diciendo que la palabra de Dios haya fallado, porque no todos los que descienden de Israel son israelitas;
+9:7 ni todos los descendientes de Abrahán son verdaderamente sus hijos, pues dice: «Tu descendencia vendrá por medio de Isaac.»
+9:8 Esto significa que los hijos de Dios no son los descendientes naturales, sino aquellos que son considerados descendientes según la promesa.
+9:9 La promesa dice así: «Por este tiempo vendré, y Sara tendrá un hijo.»
+9:10 Y no sólo esto. También sucedió cuando Rebeca concibió de un solo hombre, de nuestro antepasado Isaac,
+9:11 aunque sus hijos todavía no habían nacido ni habían hecho algo bueno o malo; y para confirmar que el propósito de Dios no está basado en las obras sino en el que llama,
+9:12 se le dijo: «El mayor servirá al menor.»
+9:13 Como está escrito: «A Jacob amé, pero a Esaú aborrecí.»
+9:14 Entonces, ¿qué diremos? ¿Que Dios es injusto? ¡De ninguna manera!
+9:15 Porque Dios dijo a Moisés: «Tendré misericordia del que yo quiera, y me compadeceré del que yo quiera.»
+9:16 Así pues, no depende de que el hombre quiera o se esfuerce, sino de que Dios tenga misericordia.
+9:17 Porque la Escritura le dice a Faraón: «Te he levantado precisamente para mostrar en ti mi poder, y para que mi nombre sea anunciado por toda la tierra.»
+9:18 De manera que Dios tiene misericordia de quien él quiere tenerla y endurece a quien él quiere endurecer.
+9:19 Entonces me dirás: ¿Por qué Dios todavía nos echa la culpa? ¿Quién puede oponerse a su voluntad?
+9:20 Pero tú, hombre, ¿quién eres para discutir con Dios? ¿Acaso el vaso de barro le dirá al que lo formó por qué lo hizo así?
+9:21 ¿Qué, no tiene derecho el alfarero de hacer del mismo barro un vaso para honra y otro para deshonra?
+9:22 ¿Y qué si Dios, queriendo mostrar su ira y dar a conocer su poder, soportó con mucha paciencia los vasos de ira que estaban preparados para destrucción?
+9:23 ¿Y qué si, para dar a conocer las riquezas de su gloria, se las mostró a los vasos de misericordia que él de antemano preparó para esa gloria?
+9:24 Esos somos nosotros, a quienes Dios llamó, no sólo de entre los judíos, sino también de entre los no judíos.
+9:25 Como también se dice en Oseas: «Llamaré “pueblo mío” al que no era mi pueblo, Y llamaré “amada mía” a la que no era mi amada.
+9:26 Y en el lugar donde se les dijo: “Ustedes no son mi pueblo”, Allí serán llamados “hijos del Dios viviente”.»
+9:27 También Isaías clama, en referencia a Israel: «Aunque los descendientes de Israel sean tan numerosos como la arena del mar, tan sólo el remanente será salvo;
+9:28 porque el Señor ejecutará su sentencia sobre la tierra con justicia y prontitud.»
+9:29 Y como antes dijo Isaías: «Si el Señor de los ejércitos no nos hubiera dejado descendencia, Ya seríamos como Sodoma, y nos pareceríamos a Gomorra.»
+9:30 Entonces, ¿qué diremos? Que los no judíos, que no buscaban la justicia, la han alcanzado; es decir, la justicia que viene por medio de la fe.
+9:31 Pero Israel, que buscaba una ley de justicia, no la alcanzó.
+9:32 ¿Por qué? Porque no la buscaba a partir de la fe, sino a partir de las obras de la ley; y tropezaron en la piedra de tropiezo,
+9:33 como está escrito: «Yo pongo en Sión una piedra de tropiezo y una roca de caída; pero el que crea en él, no será avergonzado.»
+10:1 Hermanos, ciertamente lo que mi corazón anhela, y lo que pido a Dios en oración es la salvación de Israel.
+10:2 Me consta que ustedes tienen celo por Dios, pero su celo no se basa en el conocimiento.
+10:3 Pues al ignorar la justicia de Dios y procurar establecer su propia justicia, no se sujetaron a la justicia de Dios;
+10:4 porque el cumplimiento de la ley es Cristo, para la justicia de todo aquel que cree.
+10:5 Moisés describe así a la justicia que se basa en la ley: «Quien practique estas cosas, vivirá por ellas.»
+10:6 Pero la justicia que se basa en la fe dice así: «No digas en tu corazón: ¿Quién subirá al cielo? (Es decir, para hacer que Cristo baje.)
+10:7 ¿O quién bajará al abismo? (Es decir, para hacer subir a Cristo de entre los muertos.)»
+10:8 Lo que dice es: «La palabra está cerca de ti, en tu boca y en tu corazón.» Ésta es la palabra de fe que predicamos:
+10:9 «Si confiesas con tu boca que Jesús es el Señor, y crees en tu corazón que Dios lo levantó de los muertos, serás salvo.»
+10:10 Porque con el corazón se cree para alcanzar la justicia, pero con la boca se confiesa para alcanzar la salvación.
+10:11 Pues la Escritura dice: «Todo aquel que cree en él, no será defraudado.»
+10:12 Porque no hay diferencia entre el que es judío y el que no lo es, pues el mismo que es Señor de todos, es rico para con todos los que lo invocan,
+10:13 porque todo el que invoque el nombre del Señor será salvo.
+10:14 Ahora bien, ¿cómo invocarán a aquel en el cual no han creído? ¿Y cómo creerán en aquel de quien no han oído? ¿Y cómo oirán si no hay quien les predique?
+10:15 ¿Y cómo predicarán si no son enviados? Como está escrito: «¡Cuán hermosa es la llegada de los que anuncian la paz, de los que anuncian buenas nuevas!»
+10:16 Pero no todos obedecieron al evangelio; pues Isaías dice: «Señor, ¿quién ha creído a nuestro anuncio?»
+10:17 Así que la fe proviene del oír, y el oír proviene de la palabra de Dios.
+10:18 Pero yo pregunto: ¿En verdad no han oído? ¡Por supuesto que sí! «Por toda la tierra ha salido la voz de ellos, Y sus palabras han llegado hasta los confines de la tierra.»
+10:19 Y vuelvo a preguntar: ¿En verdad Israel no ha comprendido esto? En primer lugar, Moisés dice: «Yo haré que ustedes sientan celos de un pueblo que no es pueblo; Y haré que ustedes se enojen con un pueblo insensato.»
+10:20 También Isaías dice resueltamente: «Los que no me buscaban, me encontraron; me manifesté a los que no preguntaban por mí.»
+10:21 Pero acerca de Israel dice: «Todo el día extendí mis manos a un pueblo rebelde y contestatario.»
+11:1 Por lo tanto, pregunto: ¿Acaso Dios desechó a su pueblo? ¡De ninguna manera! Porque también yo soy israelita, descendiente de Abrahán y de la tribu de Benjamín.
+11:2 Dios no desechó a su pueblo, al cual conoció desde un principio. ¿No saben ustedes lo que dice la Escritura acerca de Elías, de cómo invocó a Dios contra Israel, cuando dijo:
+11:3 «Señor, han dado muerte a tus profetas, y han derribado tus altares. Sólo yo he quedado, y procuran matarme»?
+11:4 ¿Y cuál fue la respuesta divina? «Me he reservado siete mil hombres, que no han doblado la rodilla delante de Baal.»
+11:5 De la misma manera, aun en este tiempo ha quedado un remanente escogido por gracia.
+11:6 Y si es por gracia, ya no es por obras; de otra manera la gracia ya no sería gracia. Y si fuera por obras, ya no sería gracia; de otra manera la obra ya no es obra.
+11:7 ¿Entonces, qué? Israel no ha alcanzado lo que buscaba, pero los escogidos sí lo han alcanzado, y los demás fueron endurecidos.
+11:8 Como está escrito: «Dios les dio un espíritu de estupor, y así son hasta el día de hoy. Tienen ojos que no ven y oídos que no oyen.»
+11:9 Y David dice: «Que sus banquetes se conviertan en trampa y en red, En tropezadero y en retribución;
+11:10 Que sus ojos se nublen para que no vean, Y sus espaldas se encorven para siempre.»
+11:11 Pregunto entonces: «¿Será que los de Israel tropezaron para caer?» ¡De ninguna manera! Más bien, su transgresión redundó en la salvación de los no judíos, para que los israelitas se pongan celosos.
+11:12 Pues si su transgresión ha enriquecido al mundo, y su fracaso ha enriquecido a los no judíos, ¡mucho más será lo que logre su plena restauración!
+11:13 Ahora les hablo a ustedes, a los que no son judíos. Por cuanto yo soy el apóstol de ustedes, honro mi ministerio.
+11:14 Yo quisiera poner celosos a los de mi sangre, y de esa manera salvar a algunos de ellos.
+11:15 Porque si su exclusión trajo como resultado la reconciliación del mundo, ¿qué resultará de su admisión, sino vida de entre los muertos?
+11:16 Si la primera parte de la masa es santa, también lo es la masa restante; y si la raíz es santa, también lo son las ramas.
+11:17 Si algunas de las ramas fueron cortadas, y tú, que eras un olivo silvestre, fuiste injertado en su lugar y has venido a participar de la raíz y de la rica savia del olivo,
+11:18 no te jactes contra las ramas; y si te jactas, conviene que sepas que no eres tú el que sustenta a la raíz, sino que es la raíz la que te sustenta a ti.
+11:19 Tal vez digas: «Las ramas fueron cortadas para que yo fuera injertado.»
+11:20 De acuerdo. Pero ellas fueron cortadas por su incredulidad, y tú te mantienes firme por la fe. Por lo tanto, no seas soberbio, sino temeroso.
+11:21 Porque si Dios no perdonó a las ramas naturales, tampoco a ti te perdonará.
+11:22 Por lo tanto, toma en cuenta la bondad y la severidad de Dios; severidad para con los que cayeron, pero bondad para contigo, si permaneces en esa bondad, pues de otra manera también tú serás cortado.
+11:23 Y aun ellos pueden ser injertados, si no permanecen en su incredulidad, pues Dios es poderoso para volver a injertarlos.
+11:24 Porque si tú, que por naturaleza eras un olivo silvestre, contra la naturaleza fuiste cortado e injertado en el buen olivo, ¡con más razón éstos, que son las ramas naturales, serán injertados en su propio olivo!
+11:25 Hermanos, no quiero que ignoren este misterio, para que no se vuelvan arrogantes. Parte de Israel se ha endurecido, y esto será así hasta que se haya incorporado la totalidad de los no judíos;
+11:26 y después de eso todo Israel será salvo. Como está escrito: «El Libertador vendrá de Sión, y apartará de Jacob la impiedad.
+11:27 Y éste será mi pacto con ellos, cuando yo quite sus pecados.»
+11:28 Así que, en cuanto al evangelio, son enemigos por causa de ustedes; pero en cuanto a la elección, son amados por causa de sus antepasados.
+11:29 Porque los dones y el llamamiento de Dios son irrevocables.
+11:30 Así como en otro tiempo ustedes eran desobedientes a Dios, pero ahora han alcanzado misericordia por la desobediencia de ellos,
+11:31 así también éstos han sido desobedientes ahora, para que por la misericordia concedida a ustedes también ellos alcancen misericordia.
+11:32 Porque Dios sujetó a todos a la desobediencia, para tener misericordia de todos.
+11:33 ¡Qué profundas son las riquezas de la sabiduría y del conocimiento de Dios! ¡Cuán incomprensibles son sus juicios, e inescrutables sus caminos!
+11:34 Porque ¿quién ha entendido la mente del Señor? ¿O quién ha sido su consejero?
+11:35 ¿O quién le dio a él primero, para que él tenga que devolverlo?
+11:36 Ciertamente, todas las cosas son de él, y por él, y para él. ¡A él sea la gloria por siempre! Amén.
+12:1 Así que, hermanos, yo les ruego, por las misericordias de Dios, que se presenten ustedes mismos como un sacrificio vivo, santo y agradable a Dios. ¡Así es como se debe adorar a Dios!
+12:2 Y no adopten las costumbres de este mundo, sino transfórmense por medio de la renovación de su mente, para que comprueben cuál es la voluntad de Dios, lo que es bueno, agradable y perfecto.
+12:3 Por la gracia que me es dada, digo a cada uno de ustedes que no tenga más alto concepto de sí que el que debe tener, sino que piense de sí con sensatez, según la medida de fe que Dios repartió a cada uno.
+12:4 Porque así como en un cuerpo hay muchos miembros, y no todos los miembros tienen la misma función,
+12:5 así también nosotros, aunque somos muchos, formamos un solo cuerpo en Cristo, y cada miembro está unido a los demás.
+12:6 Ya que tenemos diferentes dones, según la gracia que nos ha sido dada, si tenemos el don de profecía, usémoslo conforme a la medida de la fe.
+12:7 Si tenemos el don de servicio, sirvamos; si tenemos el don de la enseñanza, enseñemos;
+12:8 si tenemos el don de exhortación, exhortemos; si debemos repartir, hagámoslo con generosidad; si nos toca presidir, hagámoslo con solicitud; si debemos brindar ayuda, hagámoslo con alegría.
+12:9 Nuestro amor debe ser sincero. Aborrezcamos lo malo y sigamos lo bueno.
+12:10 Amémonos unos a otros con amor fraternal; respetemos y mostremos deferencia hacia los demás.
+12:11 Si algo demanda diligencia, no seamos perezosos; sirvamos al Señor con espíritu ferviente.
+12:12 Gocémonos en la esperanza, soportemos el sufrimiento, seamos constantes en la oración.
+12:13 Ayudemos a los hermanos necesitados. Practiquemos la hospitalidad.
+12:14 Bendigamos a los que nos persiguen; bendigamos y no maldigamos.
+12:15 Gocémonos con los que se gozan y lloremos con los que lloran.
+12:16 Vivamos como si fuéramos uno solo. No seamos altivos, sino juntémonos con los humildes. No debemos creernos más sabios que los demás.
+12:17 No paguemos a nadie mal por mal. Procuremos hacer lo bueno a los ojos de todo el mundo.
+12:18 Si es posible, y en cuanto dependa de nosotros, vivamos en paz con todos.
+12:19 No busquemos vengarnos, amados míos. Mejor dejemos que actúe la ira de Dios, porque está escrito: «Mía es la venganza, yo pagaré, dice el Señor.»
+12:20 Por lo tanto, si nuestro enemigo tiene hambre, démosle de comer; si tiene sed, démosle de beber. Si así lo hacemos, haremos que éste se avergüence de su conducta.
+12:21 No permitamos que nos venza el mal. Es mejor vencer al mal con el bien.
+13:1 Todos debemos someternos a las autoridades, pues no hay autoridad que no venga de Dios. Las autoridades que hay han sido establecidas por Dios.
+13:2 Por lo tanto, aquel que se opone a la autoridad, en realidad se opone a lo establecido por Dios, y los que se oponen acarrean condenación sobre ellos mismos.
+13:3 Porque los gobernantes no están para infundir temor a los que hacen lo bueno, sino a los que hacen lo malo. ¿Quieres vivir sin miedo a la autoridad? Haz lo bueno, y tendrás su aprobación,
+13:4 pues la autoridad está al servicio de Dios para tu bien. Pero si haces lo malo, entonces sí debes temer, porque no lleva la espada en vano, sino que está al servicio de Dios para darle su merecido al que hace lo malo.
+13:5 Por lo tanto, es necesario que nos sujetemos a la autoridad, no sólo por causa del castigo, sino también por motivos de conciencia.
+13:6 Por eso mismo ustedes pagan los impuestos, porque los gobernantes están al servicio de Dios y se dedican a gobernar.
+13:7 Paguen a todos lo que deban pagar, ya sea que deban pagar tributo, impuesto, respeto u honra.
+13:8 No tengan deudas con nadie, aparte de la deuda de amarse unos a otros; porque el que ama al prójimo, ha cumplido la ley.
+13:9 Los mandamientos: «No adulterarás», «no matarás», «no hurtarás», «no dirás falso testimonio», «no codiciarás», y cualquier otro mandamiento, se resume en esta sentencia: «Amarás a tu prójimo como a ti mismo.»
+13:10 El amor no hace daño a nadie. De modo que el amor es el cumplimiento de la ley.
+13:11 Hagan todo esto, conscientes del tiempo en que vivimos y de que ya es hora de que despertemos del sueño. Porque nuestra salvación está más cerca de nosotros ahora que cuando creímos.
+13:12 La noche ha avanzado, y se acerca el día. Por tanto, desechemos las obras de las tinieblas, y revistámonos de las armas de la luz.
+13:13 Vivamos con honestidad, como a la luz del día, y no andemos en glotonerías ni en borracheras, ni en lujurias y lascivias, ni en contiendas y envidias.
+13:14 Más bien, revistámonos del Señor Jesucristo, y no busquemos satisfacer los deseos de la carne.
+14:1 Reciban al que es débil en la fe, pero no para entrar en discusiones.
+14:2 Algunos creen que está permitido comer de todo, pero hay otros, que son débiles y que sólo comen legumbres.
+14:3 El que come de todo, no debe menospreciar al que no come ciertas cosas, y el que no come de todo, no debe juzgar al que come, porque Dios lo ha aceptado.
+14:4 ¿Quién eres tú, para juzgar al criado ajeno? Si éste se mantiene firme o cae, es un asunto de su propio amo. Pero se mantendrá firme, porque el Señor es poderoso para mantenerlo así.
+14:5 Algunos creen que ciertos días son más importantes que otros. Otros consideran que todos los días son iguales. Cada uno está plenamente convencido de su propio pensamiento.
+14:6 El que da importancia a ciertos días, lo hace para el Señor; y el que no les da importancia, también lo hace para el Señor. El que come, para el Señor come, porque da gracias a Dios; y el que deja de comer, lo hace para el Señor, y también da gracias a Dios.
+14:7 Y es que nadie vive para sí, ni nadie muere para sí,
+14:8 pues si vivimos, para el Señor vivimos, y si morimos, para el Señor morimos. Así que, ya sea que vivamos, o que muramos, somos del Señor.
+14:9 Porque para esto mismo Cristo murió y resucitó: para ser Señor de los vivos y de los muertos.
+14:10 Así que tú, ¿por qué juzgas a tu hermano? O tú también, ¿por qué menosprecias a tu hermano? ¡Todos tendremos que comparecer ante el tribunal de Cristo!
+14:11 Escrito está: «Vivo yo, dice el Señor, que ante mí se doblará toda rodilla, Y toda lengua confesará a Dios.»
+14:12 Así que cada uno de nosotros tendrá que rendir cuentas a Dios de sí mismo.
+14:13 Por tanto, no sigamos juzgándonos unos a otros. Más bien, propongámonos no poner tropiezo al hermano, ni hacerlo caer.
+14:14 Yo sé, y confío en el Señor Jesús, que nada es impuro en sí mismo; pero si alguien piensa que algo es impuro, lo es para él.
+14:15 Pero si tu hermano se siente agraviado por causa de lo que comes, entonces tu conducta ya no refleja el amor. No hagas que por causa de tu comida se pierda aquel por quien Cristo murió.
+14:16 No permitan que se hable mal del bien que ustedes hacen,
+14:17 porque el reino de Dios no es cuestión de comida ni de bebida, sino de justicia, paz y gozo en el Espíritu Santo.
+14:18 El que de esta manera sirve a Cristo, agrada a Dios, y es aprobado por los hombres.
+14:19 Así que, sigamos lo que contribuye a la paz y a la mutua edificación.
+14:20 No destruyas la obra de Dios por causa de la comida. Todas las cosas son limpias; lo malo es hacer tropezar a otros por lo que comemos.
+14:21 Lo mejor es no comer carne, ni beber vino, ni hacer nada que haga que tu hermano tropiece, o se ofenda, o se debilite.
+14:22 ¿Tú tienes fe? Tenla para contigo delante de Dios. Dichoso aquel, a quien su conciencia no lo acusa por lo que hace.
+14:23 Pero el que duda acerca de lo que come, ya se ha condenado, porque no lo hace por convicción; y todo lo que no se hace por convicción es pecado.
+15:1 Así que, los que somos fuertes debemos soportar las flaquezas de los débiles, en vez de hacer lo que nos agrada.
+15:2 Cada uno de nosotros debe agradar a su prójimo en lo que es bueno, con el fin de edificarlo.
+15:3 Porque ni aun Cristo se agradó a sí mismo sino que, como está escrito: «Las ofensas de los que te insultaban cayeron sobre mí.»
+15:4 Las cosas que se escribieron antes, se escribieron para nuestra enseñanza, a fin de que tengamos esperanza por medio de la paciencia y la consolación de las Escrituras.
+15:5 Que el Dios de la paciencia y de la consolación les conceda a ustedes un mismo sentir, según Cristo Jesús,
+15:6 para que todos juntos y a una sola voz glorifiquen al Dios y Padre de nuestro Señor Jesucristo.
+15:7 Por tanto, recíbanse unos a otros, como también Cristo nos recibió, para la gloria de Dios.
+15:8 Pues les digo que Cristo Jesús vino a ser siervo de los judíos para mostrar la verdad de Dios, para confirmar las promesas hechas a nuestros antepasados,
+15:9 y para que los que no son judíos glorifiquen a Dios por su misericordia, como está escrito: «Por tanto, yo te confesaré entre las naciones, Y cantaré salmos a tu nombre.»
+15:10 Y en otra parte dice: «Alégrense, naciones, con su pueblo.»
+15:11 Y también dice: «Alaben al Señor todas las naciones, Y exáltenlo todos los pueblos.»
+15:12 Y otra vez dice Isaías: «Se alzará la raíz de Yesé; se levantará a gobernar a las naciones, las cuales pondrán en él su esperanza.»
+15:13 ¡Que el Dios de la esperanza los llene de todo gozo y paz en la fe, para que rebosen de esperanza por el poder del Espíritu Santo!
+15:14 Estoy seguro, hermanos míos, de que ustedes mismos están llenos de bondad y de todo conocimiento, de tal manera que pueden amonestarse unos a otros.
+15:15 Pero les he escrito con toda franqueza, como para hacerles recordar, por la gracia que Dios me ha dado,
+15:16 para ser ministro de Jesucristo a los no judíos y ministrarles el evangelio de Dios, para que ellos sean una ofrenda agradable a Dios, santificada por el Espíritu Santo.
+15:17 Tengo, pues, de qué gloriarme en Cristo Jesús en lo que a Dios se refiere.
+15:18 Porque no me atrevería a contar sino lo que, de palabra y obra, Cristo ha hecho por medio de mí para la obediencia de los no judíos;
+15:19 y esto mediante poderosas señales y prodigios, en el poder del Espíritu de Dios, de tal manera que desde Jerusalén y por los alrededores hasta Ilírico, todo lo he llenado del evangelio de Cristo.
+15:20 Fue así como me esforcé a predicar el evangelio, no donde Cristo ya hubiera sido anunciado, para no edificar sobre fundamento ajeno,
+15:21 sino, como está escrito: «Aquellos a quienes nunca les fue anunciado acerca de él, verán; Y los que nunca han oído de él, entenderán.»
+15:22 Por esto muchas veces no me ha sido posible ir a visitarlos;
+15:23 pero como no me queda más tarea pendiente en estas regiones, y como desde hace muchos años deseo ir a verlos,
+15:24 iré a visitarlos ahora que vaya a España. Espero verlos cuando pase por allá, y que me ayuden a continuar con mi viaje, luego de haber disfrutado de su compañía.
+15:25 Pero ahora voy a Jerusalén para servir a los santos.
+15:26 Macedonia y Acaya tuvieron a bien hacer una ofrenda para los pobres que hay entre los santos que están en Jerusalén,
+15:27 pues les pareció que era lo correcto, y se sienten en deuda con ellos. Porque si los que no son judíos han sido hechos partícipes de las bendiciones espirituales, deben también compartir las bendiciones materiales.
+15:28 Así que, cuando esto haya concluido y yo les haya entregado este fruto, pasaré a visitarlos de camino a España,
+15:29 y sé que, cuando los visite, llegaré con la abundante bendición del evangelio de Cristo.
+15:30 Pero les ruego, hermanos, por nuestro Señor Jesucristo y por el amor del Espíritu, que me ayuden con sus oraciones a Dios por mí,
+15:31 para que sea yo librado de los rebeldes que están en Judea, y que la ofrenda de mi servicio a los santos en Jerusalén sea agradable,
+15:32 para que, por la voluntad de Dios, llegue a ustedes gozoso y pueda descansar entre ustedes.
+15:33 Que el Dios de paz sea con todos ustedes. Amén.
+16:1 Les recomiendo a nuestra hermana Febe, diaconisa de la iglesia en Cencrea.
+16:2 Les pido que la reciban en el Señor, como merecen ser recibidos los santos, y que la ayuden en cualquier cosa que necesite de ustedes, porque ha ayudado a muchos, y también a mí mismo.
+16:3 Saluden a Priscila y a Aquila, mis colaboradores en Cristo Jesús,
+16:4 que arriesgaron su vida por mí. Tanto yo como todas las iglesias de los no judíos les estamos muy agradecidos.
+16:5 Saluden también a la iglesia de su casa. Saluden a mi amado hermano Epeneto, que fue el primer convertido a Cristo en Acaya.
+16:6 Saluden a María, que tanto ha trabajado entre ustedes.
+16:7 Saluden a Andrónico y a Junias, mis parientes y compañeros de prisiones; ellos son muy estimados entre los apóstoles, y se convirtieron a Cristo antes que yo.
+16:8 Saluden a Amplias, a quien amo en el Señor.
+16:9 Saluden a Urbano, nuestro colaborador en Cristo Jesús, y a mi amado hermano Estaquis.
+16:10 Saluden a Apeles, un auténtico cristiano. Saluden a los de la casa de Aristóbulo.
+16:11 Saluden a Herodión, mi pariente, y a los de la casa de Narciso, quienes están en el Señor.
+16:12 Saluden a Trifena y a Trifosa, las cuales trabajan en el Señor. Saluden a la amada Pérsida, la cual ha trabajado mucho en el Señor.
+16:13 Saluden a Rufo, escogido en el Señor, y a su madre, que es también la mía.
+16:14 Saluden a Asíncrito, Flegonte, Hermas, Patrobas, Hermes y los hermanos que están con ellos.
+16:15 Saluden a Filólogo y Julia, a Nereo y a su hermana, a Olimpas y a todos los santos que están con ellos.
+16:16 Salúdense unos a otros con un beso santo. Todas las iglesias en Cristo los saludan.
+16:17 Pero les ruego, hermanos, que se cuiden de los que causan divisiones y tropiezos en contra de la enseñanza que ustedes han recibido, y que se aparten de ellos.
+16:18 Porque tales personas no sirven a nuestro Señor Jesucristo, sino a su propio vientre, y con palabras suaves y lisonjeras engañan al corazón de los ingenuos.
+16:19 La obediencia de ustedes ha llegado a ser bien conocida por todos, lo que me llena de alegría por ustedes; pero quiero que sean sabios para el bien, e ingenuos para el mal.
+16:20 Muy pronto el Dios de paz aplastará a Satanás bajo los pies de ustedes. Que la gracia de nuestro Señor Jesucristo sea con ustedes.
+16:21 Reciban saludos de mi colaborador Timoteo y de Lucio, Jasón y Sosípater, mis parientes.
+16:22 Yo, Tercio, que escribí la carta, los saludo en el Señor.
+16:23 Los saluda Gayo, que nos ha hospedado a mí y a toda la iglesia. Los saluda Erasto, el tesorero de la ciudad, y el hermano Cuarto.
+16:24 Que la gracia de nuestro Señor Jesucristo sea con todos ustedes. Amén.
+16:25 Y al que puede fortalecerlos conforme a mi evangelio y a la predicación de Jesucristo, según la revelación del misterio que se ha mantenido oculto desde tiempos eternos,
+16:26 pero que ahora ha sido revelado por medio de las Escrituras de los profetas, y que de acuerdo al mandamiento del Dios eterno se ha dado a conocer a todas las naciones para que obedezcan a la fe,
+16:27 al único y sabio Dios, sea la gloria mediante Jesucristo para siempre. Amén.

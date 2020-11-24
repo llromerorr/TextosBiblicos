@@ -1,12 +1,5 @@
 # BibleText
-Convierte un archivo de texto que contiene los capitulos de la biblia a formato Json.
-
-```
-Si deseas leer los textos y el avance, puedes entrar en las siguientes carpetas:
-|
-├───txt_original  (Texto original Valera 1602 Purificada)
-└───txt_revisado  (Texto revisado Valera 1602 Purificada)
-```
+Convierte un archivo de texto que contiene los capitulos de la biblia a formato .json o de texto por versiculo.
 
 ## Formato del archivo de texto
 Este es el formato predefinido, se debe tener en cuenta los siguientes aspectos.

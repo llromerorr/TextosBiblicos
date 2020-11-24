@@ -1,0 +1,307 @@
+#title Hebreos
+#description Descripcion
+#abbreviation 58_Heb
+
+1:1 Dios, que muchas veces y de distintas maneras habló en otros tiempos a nuestros padres por medio de los profetas,
+1:2 en estos días finales nos ha hablado por medio del Hijo, a quien constituyó heredero de todo, y mediante el cual hizo el universo.
+1:3 Él es el resplandor de la gloria de Dios. Es la imagen misma de lo que Dios es. Él es quien sustenta todas las cosas con la palabra de su poder. Después de llevar a cabo la purificación de nuestros pecados por medio de sí mismo, se sentó a la derecha de la Majestad, en las alturas,
+1:4 y ha llegado a ser superior a los ángeles, pues ha recibido un nombre más sublime que el de ellos.
+1:5 Porque jamás dijo Dios a ninguno de sus ángeles: «Tú eres mi Hijo. Yo te he engendrado hoy.» Ni tampoco: «Yo seré su Padre, y él será mi hijo.»
+1:6 Además, cuando Dios introduce al Primogénito en el mundo, dice: «Que lo adoren todos los ángeles de Dios.»
+1:7 Acerca de los ángeles, dice: «Él hace que sus ángeles sean como vientos, y sus ministros como llamas de fuego.»
+1:8 Pero del Hijo dice: «Tu trono, oh Dios, es eterno y para siempre; el cetro de tu reino es un cetro de justicia.
+1:9 Amas la justicia, y odias la maldad. Por eso te ungió Dios, tu Dios, con óleo de alegría más que a tus compañeros.»
+1:10 Y también dice: «Señor, tú fundaste la tierra en el principio, Y los cielos son obra de tus manos.
+1:11 Ellos perecerán, pero tú permaneces para siempre. Todos ellos se desgastarán como un vestido;
+1:12 los enrollarás como un manto, y quedarán cambiados; pero tú eres el mismo, Y tus años no tendrán fin.»
+1:13 Dios jamás le dijo a ninguno de los ángeles: «Siéntate a mi derecha hasta que ponga a tus enemigos por estrado de tus pies.»
+1:14 ¿Y acaso no son todos ellos espíritus ministradores, enviados para servir a quienes serán los herederos de la salvación?
+2:1 Por tanto, es necesario que prestemos más atención a lo que hemos oído, no sea que nos extraviemos.
+2:2 Porque si el mensaje anunciado por medio de los ángeles fue firme, y toda transgresión y desobediencia recibió su justo castigo,
+2:3 ¿cómo escaparemos nosotros, si descuidamos una salvación tan grande? Esta salvación fue anunciada primeramente por el Señor, y los que la oyeron nos la confirmaron.
+2:4 Además, Dios la ha confirmado con señales y prodigios, y con diversos milagros y repartimientos del Espíritu Santo, según su voluntad.
+2:5 Dios no puso el mundo venidero, del cual estamos hablando, bajo la autoridad de los ángeles.
+2:6 Como alguien testificó en cierto lugar: «¿Qué es el hombre, para que te acuerdes de él, o el hijo del hombre, para que lo tengas en cuenta?
+2:7 Lo hiciste un poco menor que los ángeles; lo coronaste de gloria y de honra, y lo pusiste sobre las obras de tus manos;
+2:8 todo lo sujetaste debajo de sus pies.» Así que, si Dios puso todas las cosas debajo de sus pies, entonces no dejó nada que no esté sujeto a él. Sin embargo, todavía no vemos que todas las cosas le estén sujetas.
+2:9 Lo que sí vemos es que Jesús, que fue hecho un poco menor que los ángeles, está coronado de gloria y de honra, a causa de la muerte que sufrió. Dios, en su bondad, quiso que Jesús experimentara la muerte para el bien de todos.
+2:10 Porque convenía que Dios, por quien todas las cosas existen y subsisten, perfeccionara mediante el sufrimiento al autor de la salvación de ellos, a fin de llevar muchos hijos a la gloria.
+2:11 Porque el mismo origen tienen el que santifica y los que son santificados. Por eso no se avergüenza de llamarlos hermanos
+2:12 cuando dice: «Anunciaré tu nombre a mis hermanos, Y en medio de la congregación te alabaré.»
+2:13 Y en otra parte: «Yo confiaré en él.» Y una vez más: «Aquí estoy, con los hijos que Dios me dio.»
+2:14 Así como los hijos eran de carne y hueso, también él era de carne y hueso, para que por medio de la muerte destruyera al que tenía el dominio sobre la muerte, es decir, al diablo,
+2:15 y de esa manera librara a todos los que, por temor a la muerte, toda su vida habían estado sometidos a esclavitud.
+2:16 Ciertamente él no vino para ayudar a los ángeles, sino a los descendientes de Abrahán.
+2:17 Por eso le era necesario ser semejante a sus hermanos en todo: para que llegara a ser un sumo sacerdote misericordioso y fiel en lo que a Dios se refiere, y expiara los pecados del pueblo.
+2:18 Puesto que él mismo sufrió la tentación, es poderoso para ayudar a los que son tentados.
+3:1 Por lo tanto, hermanos santos, que tienen parte del llamamiento celestial, consideren a Cristo Jesús, el apóstol y sumo sacerdote de la fe que profesamos.
+3:2 Él es fiel al que lo constituyó, como lo fue también Moisés en toda la casa de Dios.
+3:3 Pero a Jesús se le ha concedido más honor que a Moisés, así como al que hace una casa se le rinde más honor que a la casa misma.
+3:4 Porque toda casa es hecha por alguien, pero el que hizo todas las cosas es Dios.
+3:5 Como siervo, Moisés fue fiel en toda la casa de Dios, para dar testimonio de lo que se iba a decir.
+3:6 Cristo, en cambio, como hijo es fiel sobre su casa, que somos nosotros, si mantenemos la confianza firme hasta el fin y nos gloriamos en la esperanza.
+3:7 Por eso, como dice el Espíritu Santo: «Si ustedes oyen hoy su voz,
+3:8 no endurezcan su corazón, como lo hicieron en el desierto, en el día de la tentación, cuando me provocaron.
+3:9 Allí los antepasados de ustedes me tentaron, me pusieron a prueba, aun cuando durante cuarenta años habían visto mis obras.
+3:10 Por eso me disgusté contra ellos, y dije: “Su corazón siempre divaga; no han reconocido mis caminos.”
+3:11 Por eso, en mi furor juré: “No entrarán en mi reposo.”»
+3:12 Hermanos, cuiden de que no haya entre ustedes ningún corazón pecaminoso e incrédulo, que los lleve a apartarse del Dios vivo.
+3:13 Más bien, anímense unos a otros día tras día, mientras se diga «Hoy», para que el engaño del pecado no endurezca a nadie.
+3:14 Nosotros hemos llegado a participar de Cristo, siempre y cuando retengamos firme hasta el fin la confianza que tuvimos al principio.
+3:15 Como ya se ha dicho: «Si ustedes oyen hoy su voz, No endurezcan su corazón, como cuando me provocaron.»
+3:16 ¿Y quiénes fueron los que lo provocaron, aun después de haberlo oído? ¿No fueron acaso todos los que salieron de Egipto por mediación de Moisés?
+3:17 ¿Y con quiénes estuvo él disgustado durante cuarenta años? ¿No fue acaso con los que pecaron, cuyos cadáveres quedaron tendidos en el desierto?
+3:18 ¿Y a quiénes les juró que no entrarían en su reposo, sino a aquellos que desobedecieron?
+3:19 Como podemos ver, no pudieron entrar por causa de su incredulidad.
+4:1 Por eso, temamos a Dios mientras tengamos todavía la promesa de entrar en su reposo, no sea que alguno de ustedes parezca haberse quedado atrás.
+4:2 Porque la buena nueva se nos ha anunciado a nosotros lo mismo que a ellos; pero de nada les sirvió a ellos el oír esta palabra porque, cuando la oyeron, no la acompañaron con fe.
+4:3 Pero los que creímos hemos entrado en el reposo, conforme a lo que él dijo: «Por eso, en mi furor juré: “No entrarán en mi reposo”», aun cuando sus obras estaban acabadas desde la creación del mundo.
+4:4 En cierto lugar se dice así del séptimo día: «Dios reposó de todas sus obras en el séptimo día.»
+4:5 Y una vez más dice: «No entrarán en mi reposo».
+4:6 Por lo tanto, y puesto que aún falta que algunos entren en el reposo, y como aquellos a quienes primero se les anunció la buena nueva no entraron por causa de su desobediencia,
+4:7 vuelve a determinarse un día, «Hoy», al decir después de tanto tiempo, por medio de David: «Si ustedes oyen hoy su voz, no endurezcan su corazón».
+4:8 Si Josué les hubiera dado el reposo, no habría hablado después de otro día.
+4:9 De modo que aún queda un reposo para el pueblo de Dios.
+4:10 Porque el que entra en su reposo, reposa también de sus obras, como Dios reposó de las suyas.
+4:11 Procuremos, pues, entrar en ese reposo, para que nadie siga el ejemplo de los que desobedecieron.
+4:12 La palabra de Dios es viva y eficaz, y más cortante que las espadas de dos filos, pues penetra hasta partir el alma y el espíritu, las coyunturas y los tuétanos, y discierne los pensamientos y las intenciones del corazón.
+4:13 Nada de lo que Dios creó puede esconderse de él, sino que todas las cosas quedan al desnudo y descubiertas a los ojos de aquel a quien tenemos que rendir cuentas.
+4:14 Por lo tanto, y ya que en Jesús, el Hijo de Dios, tenemos un gran sumo sacerdote que traspasó los cielos, retengamos nuestra profesión de fe.
+4:15 Porque no tenemos un sumo sacerdote que no pueda compadecerse de nuestras debilidades, sino uno que fue tentado en todo de la misma manera que nosotros, aunque sin pecado.
+4:16 Por tanto, acerquémonos confiadamente al trono de la gracia, para alcanzar misericordia y hallar gracia para cuando necesitemos ayuda.
+5:1 Todo sumo sacerdote es elegido entre los hombres, y constituido a favor de los hombres ante la presencia de Dios, para presentar ofrendas y sacrificios por los pecados
+5:2 y para mostrarse paciente con los ignorantes y extraviados, ya que él mismo adolece de la debilidad humana.
+5:3 Por eso mismo debe presentar una ofrenda por sus propios pecados, así como por los del pueblo.
+5:4 Pero nadie puede tomar este honor por cuenta propia, sino sólo el que es llamado por Dios, como en el caso de Aarón.
+5:5 Tampoco Cristo se glorificó a sí mismo haciéndose sumo sacerdote, sino que ese honor se lo dio el que le dijo: «Tú eres mi Hijo, Yo te he engendrado hoy»,
+5:6 y que en otro lugar también dice: «Tú eres sacerdote para siempre, según el orden de Melquisedec».
+5:7 Cuando Cristo vivía en este mundo, con gran clamor y lágrimas ofreció ruegos y súplicas al que lo podía librar de la muerte, y fue escuchado por su temor reverente.
+5:8 Aunque era Hijo, aprendió a obedecer mediante el sufrimiento;
+5:9 y una vez que alcanzó la perfección, llegó a ser el autor de la salvación eterna para todos los que le obedecen,
+5:10 y Dios lo declaró sumo sacerdote, según el orden de Melquisedec.
+5:11 Acerca de esto tenemos mucho que decir, aunque no es fácil explicarlo porque ustedes son lentos para entender.
+5:12 Aunque después de tanto tiempo ya debieran ser maestros, todavía es necesario que se les vuelva a enseñar lo más elemental de las palabras de Dios. Esto es tan así que lo que necesitan es leche, y no alimento sólido.
+5:13 Pero todos los que se alimentan de leche son inexpertos en la palabra de justicia, porque son como niños.
+5:14 El alimento sólido es para los que ya han alcanzado la madurez, para los que pueden discernir entre el bien y el mal, y han ejercitado su capacidad de tomar decisiones.
+6:1 Por lo tanto, dejemos a un lado las enseñanzas elementales acerca de Cristo, y avancemos hacia la perfección. No volvamos a cuestiones básicas, tales como el arrepentirnos de las acciones que nos llevan a la muerte, o la fe en Dios,
+6:2 o las enseñanzas acerca del bautismo, o la imposición de manos, o la resurrección de los muertos y el juicio eterno.
+6:3 Todo esto lo haremos, si Dios nos lo permite.
+6:4 No es posible que los que alguna vez fueron iluminados y saborearon el don celestial, y tuvieron parte en el Espíritu Santo,
+6:5 y saborearon además la buena palabra de Dios y los poderes del mundo venidero,
+6:6 pero volvieron a caer, vuelvan también a ser renovados para arrepentimiento. ¡Eso sería volver a crucificar al Hijo de Dios para ellos mismos, y exponerlo a la vergüenza pública!
+6:7 Cuando la tierra absorbe la lluvia que le cae con frecuencia, y produce plantas útiles para quienes la cultivan, recibe la bendición de Dios;
+6:8 pero cuando produce espinos y abrojos, no vale nada; poco le falta para ser maldecida, y acaba por ser quemada.
+6:9 Queridos hermanos, aunque hablamos así, con respecto a ustedes estamos convencidos de cosas mejores, que tienen que ver con la salvación.
+6:10 Porque Dios es justo, y no olvidará el trabajo de ustedes y el amor que han mostrado hacia él mediante el servicio a los santos, como hasta ahora lo hacen.
+6:11 Pero deseamos que cada uno de ustedes muestre el mismo entusiasmo hasta el fin, para la plena realización de su esperanza
+6:12 y para que no se hagan perezosos, sino que sigan el ejemplo de quienes por medio de la fe y la paciencia heredan las promesas.
+6:13 Cuando Dios hizo la promesa a Abrahán, juró por sí mismo, porque no había nadie superior a él por quien jurar,
+6:14 y dijo: «Ciertamente te bendeciré con abundancia y multiplicaré tu descendencia».
+6:15 Y Abrahán esperó con paciencia, y recibió lo que Dios le había prometido.
+6:16 Cuando alguien jura, lo hace por alguien superior a sí mismo. De esa manera confirma lo que ha dicho y pone fin a toda discusión.
+6:17 Por eso Dios, queriendo demostrar claramente a los herederos de la promesa que sus propósitos no cambian, les hizo un juramento,
+6:18 para que por estas dos cosas que no cambian, y en las que Dios no puede mentir, tengamos un sólido consuelo los que buscamos refugio y nos aferramos a la esperanza que se nos ha propuesto.
+6:19 Esta esperanza mantiene nuestra alma firme y segura, como un ancla, y penetra hasta detrás del velo,
+6:20 donde Jesús, nuestro precursor, entró por nosotros y llegó a ser sumo sacerdote para siempre, según el orden de Melquisedec.
+7:1 Este Melquisedec, que era rey de Salén y sacerdote del Dios Altísimo, salió al encuentro de Abrahán cuando éste volvía de derrotar a los reyes, y lo bendijo.
+7:2 Entonces Abrahán le dio los diezmos de todo. Melquisedec significa, en primer lugar, «Rey de justicia», y también «Rey de Salén», que significa «Rey de paz».
+7:3 Nada se sabe de su padre ni de su madre, ni de sus antepasados, ni si tuvo principio ni fin; pero, a semejanza del Hijo de Dios, permanece como sacerdote eterno.
+7:4 Ustedes pueden ver, entonces, su grandeza, pues el mismo patriarca Abrahán le dio los diezmos del botín.
+7:5 Ahora bien, según la ley, los descendientes de Leví, que reciben el sacerdocio, tienen el derecho de tomar los diezmos del pueblo, es decir, de sus propios hermanos, aun cuando éstos sean también descendientes de Abrahán.
+7:6 Pero Melquisedec, aunque no era descendiente de Leví, tomó de Abrahán los diezmos, y bendijo al que tenía las promesas;
+7:7 ¡y nadie puede negar que el que bendice es superior al que recibe la bendición!
+7:8 En este caso, los que reciben los diezmos son simples hombres; pero en aquél, los recibe Melquisedec, de quien se da testimonio de que vive.
+7:9 Y hasta podría decirse que Leví, que ahora recibe los diezmos, en aquel tiempo los pagó por medio de Abrahán,
+7:10 pues Leví ya estaba presente en su antepasado Abrahán cuando Melquisedec le salió al encuentro.
+7:11 Si la perfección se alcanzara mediante el sacerdocio levítico (ya que bajo éste el pueblo recibió la ley), ¿qué necesidad habría de que aún se levantara otro sacerdote, según el orden de Melquisedec y no según el de Aarón?
+7:12 Porque al cambiar el sacerdocio, también se tiene que cambiar la ley.
+7:13 Pero nuestro Señor, de quien la Escritura dice esto, era de otra tribu, de la cual nadie sirvió al altar.
+7:14 Es bien sabido que nuestro Señor procedía de la tribu de Judá, acerca de la cual Moisés no dijo nada en relación con el sacerdocio.
+7:15 Esto resulta más evidente si el nuevo sacerdote que se levanta es alguien semejante a Melquisedec,
+7:16 quien no llegó a ser sacerdote por ceñirse a una ley meramente humana, sino por el poder de una vida indestructible.
+7:17 Pues de él se hace constar: «Tú eres sacerdote para siempre, Según el orden de Melquisedec».
+7:18 De modo que el mandamiento anterior queda anulado por resultar endeble e inútil,
+7:19 ya que la ley no perfeccionó nada, y en su lugar tenemos una esperanza mejor, por la cual nos acercamos a Dios.
+7:20 Además, esto no se hizo sin un juramento.
+7:21 Los otros sacerdotes fueron nombrados sin juramento, pero éste fue nombrado por el juramento de aquel que le dijo: «El Señor lo ha jurado, y no se arrepentirá: “Tú eres sacerdote para siempre, según el orden de Melquisedec”».
+7:22 Por lo tanto, es Jesús quien garantiza un pacto mejor.
+7:23 Ahora bien, los otros sacerdotes fueron muchos porque la muerte les impedía continuar;
+7:24 pero Jesús tiene un sacerdocio inmutable porque permanece para siempre.
+7:25 Por eso, también puede salvar para siempre a los que por medio de él se acercan a Dios, ya que vive siempre para interceder por ellos.
+7:26 Jesús es el sumo sacerdote que necesitábamos tener: santo, inocente, sin mancha, apartado de los pecadores, y exaltado por encima de los cielos.
+7:27 No es como los otros sumos sacerdotes, que diariamente tienen que ofrecer sacrificios, primero por sus propios pecados y luego por los del pueblo. Jesús hizo esto una sola vez y para siempre, cuando se ofreció a sí mismo.
+7:28 La ley nombra sumos sacerdotes a hombres débiles; pero el juramento, que es posterior a la ley, nombra sumo sacerdote al Hijo, quien ha sido hecho perfecto para siempre.
+8:1 Ahora bien, el punto principal de lo que venimos diciendo es que el sumo sacerdote que tenemos es tal que se sentó a la derecha del trono de la Majestad en los cielos.
+8:2 Él es ministro del santuario, de ese tabernáculo verdadero, levantado por el Señor y no por los hombres.
+8:3 Todo sumo sacerdote es designado para presentar ofrendas y sacrificios, y por eso es necesario que también tenga algo que ofrecer.
+8:4 Si estuviera sobre la tierra, ni siquiera sería sacerdote, porque aquí ya hay sacerdotes que presentan las ofrendas de acuerdo con la ley.
+8:5 Estos sacerdotes sirven a lo que no es más que modelo y sombra de las cosas celestiales, tal y como se le advirtió a Moisés cuando iba a levantar el tabernáculo: «Ten cuidado de hacer todas las cosas según el modelo que se te ha mostrado en el monte.»
+8:6 Pero nuestro Sumo Sacerdote ha recibido un ministerio mucho mejor, pues es mediador de un pacto mejor, establecido sobre mejores promesas.
+8:7 Si el primer pacto hubiera sido perfecto, no habría sido necesario un segundo pacto.
+8:8 Pero Dios, al reprocharles sus defectos, dice: «Vienen días (dice el Señor) en que estableceré un nuevo pacto con la casa de Israel y la casa de Judá.
+8:9 Ese pacto no será semejante al que hice con sus antepasados el día en que los tomé de la mano para sacarlos de la tierra de Egipto, pues ellos no fueron fieles a mi pacto, y por eso los abandoné (dice el Señor).
+8:10 Éste es el pacto que haré con la casa de Israel: Después de aquellos días (dice el Señor) pondré mis leyes en su mente, y las escribiré sobre su corazón. Yo seré su Dios, y ellos serán mi pueblo.
+8:11 Ya nadie enseñará a su prójimo, ni le dirá a su hermano “Conoce al Señor”, porque todos me conocerán, desde el más pequeño hasta el más grande.
+8:12 Seré misericordioso con sus injusticias, y nunca más me acordaré de sus pecados ni de sus iniquidades.»
+8:13 Al decir «nuevo pacto», se ha dado por viejo al primero; y lo que es viejo y anticuado está en vías de desaparecer.
+9:1 Ahora bien, incluso el primer pacto tenía reglas para el culto, y un santuario terrenal.
+9:2 En efecto, el tabernáculo estaba dispuesto así: en la primera parte, llamada el Lugar Santo, estaban el candelabro, la mesa y los panes de la proposición.
+9:3 Tras el segundo velo estaba la parte del tabernáculo llamada el Lugar Santísimo,
+9:4 el cual tenía un incensario de oro y el arca del pacto, totalmente recubierta de oro; en el arca había una urna de oro que contenía el maná, la vara de Aarón que reverdeció, y las tablas del pacto.
+9:5 Por encima del arca estaban los querubines de la gloria, los cuales cubrían el propiciatorio. Pero de esto no se puede hablar ahora en detalle.
+9:6 Con todo esto dispuesto así, los sacerdotes entran continuamente en la primera parte del tabernáculo para celebrar los oficios del culto;
+9:7 pero en la segunda parte entra únicamente el sumo sacerdote, y esto sólo una vez al año, y siempre llevando sangre, la cual ofrece por sí mismo y por los pecados involuntarios que el pueblo comete.
+9:8 Con esto el Espíritu Santo nos da a entender que, mientras la primera parte del tabernáculo siga en pie, el camino que lleva al Lugar Santísimo aún no estará abierto.
+9:9 Todo esto es un símbolo para el tiempo presente, de que las ofrendas y sacrificios que allí se presentan no pueden perfeccionar la conciencia de los que adoran así,
+9:10 ya que tienen que ver sólo con comidas y bebidas, y con diversas ceremonias de purificación y ordenanzas externas, cuyo valor tiene vigencia hasta que llegue el tiempo de reformarlo todo.
+9:11 Pero Cristo vino ya, y es el sumo sacerdote de los bienes venideros, a través del tabernáculo más amplio y más perfecto, el cual no ha sido hecho por los hombres, es decir, que no es de esta creación,
+9:12 y no por medio de la sangre de machos cabríos ni de becerros, sino por medio de su propia sangre. Entró una sola vez y para siempre en el Lugar Santísimo, y así obtuvo para nosotros la redención eterna.
+9:13 Si la sangre de los toros y de los machos cabríos, y las cenizas de la becerra rociadas sobre los impuros, santifican para la purificación de la carne,
+9:14 ¡cuánto más la sangre de Cristo, que por medio del Espíritu eterno se ofreció a sí mismo sin mancha a Dios, limpiará de obras muertas nuestra conciencia, para que sirvamos al Dios vivo!
+9:15 Por eso Cristo es mediador de un nuevo pacto,1 para que los llamados reciban la promesa de la herencia eterna, pues con su muerte libera a los hombres de los pecados cometidos bajo el primer pacto.
+9:16 Porque cuando hay un testamento,2 es necesario que haya constancia de la muerte del que lo hizo,
+9:17 ya que un testamento no tiene ningún valor mientras el que lo hizo siga con vida.
+9:18 Por eso, ni siquiera el primer pacto se estableció sin sangre,
+9:19 porque después de que Moisés anunció todos los mandamientos de la ley a todo el pueblo, tomó la sangre de los becerros y de los machos cabríos junto con agua, lana escarlata y una rama de hisopo, y roció el libro de la ley y a todo el pueblo.
+9:20 Entonces le dijo al pueblo: «Ésta es la sangre del pacto que Dios les ha mandado.»
+9:21 Además de esto, con la sangre roció también el tabernáculo y todos los vasos del ministerio.
+9:22 Según la ley, casi todo es purificado con sangre; pues sin derramamiento de sangre no hay perdón.
+9:23 Por lo tanto, era absolutamente necesario que las réplicas de las cosas celestiales fueran purificadas así; pero las cosas celestiales mismas necesitan mejores sacrificios que éstos,
+9:24 porque Cristo no entró en el santuario hecho por los hombres, el cual era un mero reflejo del verdadero, sino que entró en el cielo mismo para presentarse ahora ante Dios en favor de nosotros.
+9:25 Y no entró para ofrecerse muchas veces, como el sumo sacerdote, que cada año entra en el Lugar Santísimo con sangre ajena.
+9:26 Si así fuera, Cristo habría tenido que morir muchas veces desde la creación del mundo; pero ahora, al final de los tiempos, se presentó una sola vez y para siempre, y se ofreció a sí mismo como sacrificio para quitar el pecado.
+9:27 Y así como está establecido que los hombres mueran una sola vez, y después venga el juicio,
+9:28 así también Cristo fue ofrecido una sola vez para llevar los pecados de muchos; pero aparecerá por segunda vez, ya sin relación con el pecado, para salvar a los que lo esperan.
+10:1 La ley es apenas el contorno de los bienes venideros, y no su imagen real. Por eso jamás podrá hacer perfectos a los que cada año se acercan a Dios para ofrecer los mismos sacrificios.
+10:2 Si en realidad pudiera, entonces los que rinden este culto, una vez limpios, dejarían de ofrecerlos, pues ya no tendrían más conciencia de pecado.
+10:3 Pero con estos sacrificios, cada año se hace memoria de los pecados,
+10:4 porque la sangre de los toros y de los machos cabríos no puede quitar los pecados.
+10:5 Por eso, al entrar en el mundo, Cristo dijo: «No quieres sacrificio y ofrenda, pero me has dado un cuerpo.
+10:6 No te agradan los holocaustos ni las expiaciones por el pecado.
+10:7 Entonces dije: “Mi Dios, aquí estoy para hacer tu voluntad, como está escrito de mí en el libro.”»
+10:8 Al decir primero: «No quieres ni te agradan sacrificios ni ofrendas, ni holocaustos ni expiaciones por el pecado» (cosas que se ofrecen según la ley),
+10:9 y luego añadir: «Aquí estoy, para hacer tu voluntad», quita lo primero para establecer esto último.
+10:10 Por esa voluntad somos santificados, mediante la ofrenda del cuerpo de Jesucristo, hecha una sola vez y para siempre.
+10:11 Todo sacerdote ministra día tras día, y una y otra vez ofrece los mismos sacrificios, los cuales nunca pueden quitar los pecados.
+10:12 Pero Cristo, después de ofrecer una sola vez un solo sacrificio por los pecados, para siempre se sentó a la derecha de Dios,
+10:13 y de ahí en adelante está en espera de que sus enemigos sean puestos por estrado de sus pies.
+10:14 Él, por medio de una sola ofrenda, hizo perfectos para siempre a los santificados.
+10:15 De esto nos da testimonio el Espíritu Santo, pues primero dice:
+10:16 «El Señor ha dicho: Éste es el pacto que haré con ellos después de aquellos días: Pondré mis leyes en su corazón, y las escribiré en su mente.»
+10:17 Y luego añade: «Y nunca más me acordaré de sus pecados y transgresiones.»
+10:18 Cuando los pecados ya han sido perdonados, no hay más necesidad de presentar ofrendas por el pecado.
+10:19 Hermanos, puesto que con toda libertad podemos entrar en el Lugar Santísimo por la sangre de Jesucristo,
+10:20 por el camino nuevo y vivo que él nos abrió a través del velo, es decir, de su propio cuerpo,
+10:21 y puesto que tenemos un gran sacerdote al frente de la casa de Dios,
+10:22 acerquémonos con un corazón sincero, y con la plena seguridad de la fe, con el corazón purificado de una mala conciencia, y con el cuerpo lavado en agua pura.
+10:23 Mantengamos firme y sin fluctuar la esperanza que profesamos, porque fiel es el que prometió.
+10:24 Tengámonos en cuenta unos a otros, a fin de estimularnos al amor y a las buenas obras.
+10:25 No dejemos de congregarnos, como es la costumbre de algunos, sino animémonos unos a otros; y con más razón ahora que vemos que aquel día se acerca.
+10:26 Si con toda intención pecamos después de haber recibido el conocimiento de la verdad, ya no queda más sacrificio por los pecados
+10:27 sino una terrible expectativa del juicio y del fuego ardiente que devorará a los enemigos de Dios.
+10:28 Cualquiera que desobedece la ley de Moisés, muere sin falta, siempre y cuando haya dos o tres testigos que declaren en su contra.
+10:29 ¿Y qué mayor castigo piensan ustedes que merece el que pisotea al Hijo de Dios y considera impura la sangre del pacto, en la cual fue santificado, e insulta al Espíritu de la gracia?
+10:30 Bien sabemos que el Señor ha dicho: «Mía es la venganza, yo pagaré», y también: «El Señor juzgará a su pueblo».
+10:31 ¡Horrenda cosa es caer en las manos del Dios vivo!
+10:32 Pero recuerden ustedes los tiempos pasados, cuando después de haber sido iluminados soportaron ustedes los sufrimientos de una gran lucha.
+10:33 Algunas veces fueron expuestos públicamente a las burlas y las aflicciones, y otras veces llegaron a ser compañeros de los que enfrentaban una situación semejante.
+10:34 Además, ustedes también se compadecieron de los presos, y gozosos soportaron el despojo de sus propios bienes, sabedores de que en los cielos tienen una herencia mejor y permanente.
+10:35 Por lo tanto, no pierdan la confianza, que lleva consigo una gran recompensa.
+10:36 Lo que ustedes necesitan es tener paciencia; para que, una vez que hayan hecho la voluntad de Dios, reciban lo que él ha prometido darnos.
+10:37 «Porque dentro de muy poco tiempo el que ha de venir, vendrá y no tardará.
+10:38 Pero el justo vivirá por la fe; y si se vuelve atrás, no será de mi agrado.»
+10:39 Pero nosotros no somos de los que se vuelven atrás y se pierden, sino de los que tienen fe y salvan su alma.
+11:1 Ahora bien, tener fe es estar seguro de lo que se espera; es estar convencido de lo que no se ve.
+11:2 Gracias a ella, nuestros antepasados fueron reconocidos y aprobados.
+11:3 Por la fe entendemos que Dios creó el universo por medio de su palabra, de modo que lo que ahora vemos fue hecho de lo que no se veía.
+11:4 Por la fe, Abel ofreció a Dios un sacrificio más aceptable que el de Caín, y por eso fue reconocido como un hombre justo, y Dios aceptó con agrado sus ofrendas. Y aunque Abel está muerto, todavía habla por medio de su fe.
+11:5 Por la fe, Enoc traspuso sin morir el umbral de la muerte, y nunca más se supo de él, porque Dios le hizo cruzar ese umbral; pero antes de cruzarlo, todos reconocieron que él era del agrado de Dios.
+11:6 Sin fe es imposible agradar a Dios, porque es necesario que el que se acerca a Dios crea que él existe, y que sabe recompensar a quienes lo buscan.
+11:7 Por la fe, con mucho temor Noé construyó el arca para salvar a su familia, cuando Dios le advirtió acerca de cosas que aún no se veían. Fue su fe la que condenó al mundo, y por ella fue hecho heredero de la justicia que viene por medio de la fe.
+11:8 Por la fe, Abrahán obedeció cuando fue llamado, y salió sin saber a dónde iba, y se dirigió al lugar que iba a recibir como herencia.
+11:9 Por la fe, habitó en la tierra prometida como un extraño en tierra extraña, y vivió en tiendas con Isaac y Jacob, quienes eran coherederos de la misma promesa;
+11:10 porque esperaba llegar a la ciudad que tiene fundamentos, cuyo arquitecto y constructor es Dios.
+11:11 Por la fe, Sara misma recibió fuerzas para concebir, aunque era estéril, y dio a luz, aun cuando por su edad se le había pasado el tiempo, porque creyó que era fiel quien le había hecho la promesa.
+11:12 Por eso también, de un solo hombre, que ya estaba casi muerto, llegó a tener una multitud de descendientes, tan numerosos como las estrellas del cielo y tan incontables como la arena que está a la orilla del mar.
+11:13 Por la fe, todos ellos murieron sin haber recibido lo que se les había prometido, y sólo llegaron a ver esto a lo lejos; pero lo creyeron y lo saludaron, pues reconocieron que eran extranjeros y peregrinos en esta tierra.
+11:14 Porque los que dicen esto, claramente dan a entender que buscan una patria;
+11:15 pues si hubieran estado pensando en la patria de donde salieron, tiempo tenían para volver.
+11:16 Pero ellos anhelaban una patria mejor, es decir, la patria celestial. Por eso Dios no se avergüenza de llamarse su Dios; al contrario, les ha preparado una ciudad.
+11:17 Por la fe, cuando Abrahán fue puesto a prueba, ofreció a Isaac; y el que había recibido las promesas ofrecía a su único hijo,
+11:18 a pesar de que Dios le había dicho: «Por medio de Isaac te vendrá descendencia».
+11:19 Y es que Abrahán sabía que Dios tiene poder incluso para levantar a los muertos; y en sentido figurado, de entre los muertos lo volvió a recibir.
+11:20 Por la fe, Isaac bendijo a Jacob y a Esaú acerca de las cosas venideras.
+11:21 Por la fe, cuando Jacob murió, bendijo a cada uno de los hijos de José, y adoró apoyado en la punta de su bastón.
+11:22 Por la fe, cuando José murió, anunció la salida de los hijos de Israel y dio instrucciones en cuanto a qué hacer con sus restos mortales.
+11:23 Por la fe, cuando Moisés nació, sus padres lo escondieron durante tres meses, pues al ver que era un niño muy hermoso no tuvieron miedo del decreto del rey.
+11:24 Por la fe, cuando Moisés ya era adulto, rehusó llamarse hijo de la hija del faraón,
+11:25 y prefirió ser maltratado junto con el pueblo de Dios, antes que gozar de los deleites temporales del pecado,
+11:26 pues consideró que sufrir el oprobio de Cristo era una riqueza mayor que los tesoros de los egipcios. Y es que su mirada estaba fija en la recompensa.
+11:27 Por la fe salió de Egipto, sin temor a la ira del rey, y se mantuvo firme, como si estuviera viendo al Invisible.
+11:28 Por la fe, celebró la pascua y el rociamiento de la sangre, para que el que destruía a los primogénitos no llegara a tocarlos.
+11:29 Por la fe, pasaron por el Mar Rojo como si pisaran tierra seca; y cuando los egipcios intentaron hacer lo mismo, murieron ahogados.
+11:30 Por la fe, cayeron las murallas de Jericó después de rodearlas siete días.
+11:31 Por la fe, la ramera Rajab no murió junto con los desobedientes, pues había recibido en paz a los espías.
+11:32 ¿Y qué más puedo decir? Tiempo me faltaría para hablar de Gedeón, de Barac, de Sansón, de Jefté, de David, así como de Samuel y de los profetas,
+11:33 que por la fe conquistaron reinos, impartieron justicia, alcanzaron promesas, taparon bocas de leones,
+11:34 apagaron fuegos impetuosos, escaparon del filo de la espada, sacaron fuerzas de flaqueza, llegaron a ser poderosos en batallas y pusieron en fuga a ejércitos extranjeros.
+11:35 Hubo mujeres que por medio de la resurrección recuperaron a sus muertos. Pero otros fueron atormentados, y no aceptaron ser liberados porque esperaban obtener una mejor resurrección.
+11:36 Otros sufrieron burlas y azotes, y hasta cadenas y cárceles.
+11:37 Fueron apedreados, aserrados, puestos a prueba, muertos a filo de espada; anduvieron de un lado a otro cubiertos de pieles de oveja y de cabra, pobres, angustiados y maltratados.
+11:38 Estos hombres, de los que el mundo no era digno, anduvieron errantes por los desiertos, por los montes, por las cuevas y por las cavernas de la tierra.
+11:39 Y aunque por medio de la fe todos ellos fueron reconocidos y aprobados, no recibieron lo prometido.
+11:40 Todo esto sucedió para que ellos no fueran perfeccionados aparte de nosotros, pues Dios había preparado algo mejor para nosotros.
+12:1 Por lo tanto, también nosotros, que tenemos tan grande nube de testigos a nuestro alrededor, liberémonos de todo peso y del pecado que nos asedia, y corramos con paciencia la carrera que tenemos por delante.
+12:2 Fijemos la mirada en Jesús, el autor y consumador de la fe, quien por el gozo que le esperaba sufrió la cruz y menospreció el oprobio, y se sentó a la derecha del trono de Dios.
+12:3 Por lo tanto, consideren a aquel que sufrió tanta contradicción de parte de los pecadores, para que no se cansen ni se desanimen.
+12:4 En la lucha que ustedes libran contra el pecado, todavía no han tenido que resistir hasta derramar su sangre;
+12:5 y ya han olvidado la exhortación que como a hijos se les dirige: «Hijo mío, no menosprecies la disciplina del Señor, ni te desanimes cuando te reprenda;
+12:6 porque el Señor disciplina al que ama, y azota a todo el que recibe como hijo.»
+12:7 Si ustedes soportan la disciplina, Dios los trata como a hijos. ¿Acaso hay algún hijo a quien su padre no discipline?
+12:8 Pero si a ustedes se les deja sin la disciplina que todo el mundo recibe, entonces ya no son hijos legítimos, sino ilegítimos.
+12:9 Por otra parte, tuvimos padres terrenales, los cuales nos disciplinaban, y los respetábamos. ¿Por qué no mejor obedecer al Padre de los espíritus, y así vivir?
+12:10 La verdad es que nuestros padres terrenales nos disciplinaban por poco tiempo, y como mejor les parecía, pero Dios lo hace para nuestro beneficio y para que participemos de su santidad.
+12:11 Claro que ninguna disciplina nos pone alegres al momento de recibirla, sino más bien tristes; pero después de ser ejercitados en ella, nos produce un fruto apacible de justicia.
+12:12 Levanten, pues, las manos caídas y las rodillas entumecidas;
+12:13 enderecen las sendas por donde van, para que no se desvíen los cojos, sino que sean sanados.
+12:14 Procuren vivir en paz con todos, y en santidad, sin la cual nadie verá al Señor.
+12:15 Tengan cuidado. No vayan a perderse la gracia de Dios; no dejen brotar ninguna raíz de amargura, pues podría estorbarles y hacer que muchos se contaminen con ella.
+12:16 Que no haya entre ustedes ningún libertino ni profano, como Esaú, que por una sola comida vendió su primogenitura.
+12:17 Ya ustedes saben que después, aunque deseaba heredar la bendición, fue rechazado y no tuvo ya la oportunidad de arrepentirse, aun cuando con lágrimas buscó la bendición.
+12:18 Ustedes no se han acercado a aquel monte que se podía tocar y que ardía en llamas, ni tampoco a la oscuridad, a las tinieblas y a la tempestad,
+12:19 ni al sonido de la trompeta, ni a la voz que hablaba, y que quienes la oyeron rogaban que no les hablara más
+12:20 porque no podían sobrellevar lo que se les ordenaba: «Incluso si una bestia toca el monte, será apedreada o atravesada con una lanza».
+12:21 Lo que se veía era tan terrible, que Moisés dijo: «Estoy temblando de miedo».
+12:22 Ustedes, por el contrario, se han acercado al monte de Sión, a la celestial Jerusalén, ciudad del Dios vivo, y a una incontable muchedumbre de ángeles,
+12:23 a la congregación de los primogénitos que están inscritos en los cielos, a Dios, el Juez de todos, a los espíritus de los justos que han sido hechos perfectos,
+12:24 a Jesús, el Mediador del nuevo pacto, y a la sangre rociada que habla mejor que la de Abel.
+12:25 Tengan cuidado de no desechar al que habla. Si no escaparon los que desecharon al que los amonestaba en la tierra, mucho menos escaparemos nosotros si desechamos al que amonesta desde los cielos.
+12:26 En aquella ocasión, la voz de Dios sacudió la tierra, pero ahora ha prometido: «Una vez más sacudiré no sólo la tierra, sino también el cielo.»
+12:27 Y esta frase, «Una vez más», significa que las cosas movibles, es decir, las cosas hechas, serán removidas para que permanezcan las inconmovibles.
+12:28 Así que nosotros, que hemos recibido un reino inconmovible, debemos ser agradecidos y, con esa misma gratitud, servir a Dios y agradarle con temor y reverencia.
+12:29 Porque nuestro Dios es un fuego que todo lo consume.
+13:1 Que el amor fraternal permanezca en ustedes.
+13:2 Y no se olviden de practicar la hospitalidad, pues gracias a ella algunos, sin saberlo, hospedaron ángeles.
+13:3 Acuérdense de los presos, como si ustedes mismos estuvieran presos con ellos, y también de los que son maltratados, como si ustedes mismos fueran los que sufren.
+13:4 Todos ustedes deben honrar su matrimonio, y ser fieles a sus cónyuges; pero a los libertinos y a los adúlteros los juzgará Dios.
+13:5 Vivan sin ambicionar el dinero. Más bien, confórmense con lo que ahora tienen, porque Dios ha dicho: «No te desampararé, ni te abandonaré».
+13:6 Así que podemos decir con toda confianza: «El Señor es quien me ayuda; no temeré lo que pueda hacerme el hombre.»
+13:7 Acuérdense de sus pastores, que les dieron a conocer la palabra de Dios. Piensen en los resultados de su conducta, e imiten su fe.
+13:8 Jesucristo es el mismo ayer, hoy, y por los siglos.
+13:9 No se dejen llevar por doctrinas diversas y extrañas. Es mejor afirmar el corazón con la gracia, y no con alimentos, los cuales nunca fueron de provecho para los que se ocuparon de ellos.
+13:10 Nosotros tenemos un altar, del cual no tienen derecho de comer los que sirven en el tabernáculo.
+13:11 Los cuerpos de los animales cuya sangre introduce el sumo sacerdote en el santuario a causa del pecado, se queman fuera del campamento.
+13:12 De igual manera, Jesús sufrió fuera de la puerta, para santificar así al pueblo mediante su propia sangre.
+13:13 Así que salgamos con él fuera del campamento, y llevemos su deshonra,
+13:14 pues no tenemos aquí una ciudad permanente, sino que vamos en pos de la ciudad que está por venir.
+13:15 Por lo tanto, ofrezcamos siempre a Dios, por medio de Jesús, un sacrificio de alabanza, es decir, el fruto de labios que confiesen su nombre.
+13:16 No se olviden de hacer bien ni de la ayuda mutua, porque éstos son los sacrificios que agradan a Dios.
+13:17 Obedezcan a sus pastores, y respétenlos. Ellos cuidan de ustedes porque saben que tienen que rendir cuentas a Dios. Así ellos cuidarán de ustedes con alegría, y sin quejarse; de lo contrario, no será provechoso para ustedes.
+13:18 Oren por nosotros, pues estamos seguros de tener la conciencia tranquila y deseamos portarnos bien en todo.
+13:19 Pido especialmente sus oraciones, para que pronto pueda volver a estar con ustedes.
+13:20 Que el Dios de paz, que resucitó de los muertos a nuestro Señor Jesucristo, el gran pastor de las ovejas, por la sangre del pacto eterno,
+13:21 los capacite para toda buena obra, para que hagan su voluntad, y haga en ustedes lo que a él le agrada, por medio de Jesucristo. A él sea la gloria por los siglos de los siglos. Amén.
+13:22 Hermanos, les ruego que reciban con paciencia estas palabras que les he escrito, como una breve exhortación.
+13:23 Quiero que sepan que nuestro hermano Timoteo ya está en libertad; si llega pronto, iré con él a verlos.
+13:24 Saluden a todos sus pastores y a todos los santos. Los de Italia les mandan saludos.
+13:25 Que la gracia sea con todos ustedes. Amén.

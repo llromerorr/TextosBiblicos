@@ -1,0 +1,99 @@
+#title Colosenses
+#description Descripcion
+#abbreviation 51_Col
+
+1:1 Yo, Pablo, apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo,
+1:2 a los santos y fieles hermanos en Cristo que están en Colosas: Que la gracia y la paz de Dios nuestro Padre y del Señor Jesucristo sean con ustedes.
+1:3 Siempre que oramos por ustedes, damos gracias a Dios, el Padre de nuestro Señor Jesucristo,
+1:4 pues hemos recibido noticias de la fe de ustedes en Cristo Jesús, y del amor que tienen por todos los santos,
+1:5 a causa de la esperanza que en los cielos les está reservada. Ustedes ya han sabido de esto por el evangelio, que es la palabra de verdad,
+1:6 y que ha llegado hasta ustedes, así como a todo el mundo, y que desde el día que ustedes la escucharon y la comprendieron claramente, y conocieron la gracia de Dios, crece en ustedes y produce fruto.
+1:7 Esto lo aprendieron por medio de Epafras, nuestro consiervo amado, que es un fiel ministro de Cristo para ustedes,
+1:8 quien también nos ha hablado del amor que ustedes tienen en el Espíritu.
+1:9 Por eso nosotros, desde el día que lo supimos, no cesamos de orar por ustedes y de pedir que Dios los llene del conocimiento de su voluntad en toda sabiduría e inteligencia espiritual,
+1:10 para que vivan como es digno del Señor, es decir, siempre haciendo todo lo que a él le agrada, produciendo los frutos de toda buena obra, y creciendo en el conocimiento de Dios;
+1:11 todo esto, fortalecidos con todo poder, conforme al dominio de su gloria, para que puedan soportarlo todo con mucha paciencia. Así, con gran gozo,
+1:12 darán las gracias al Padre, que nos hizo aptos para participar de la herencia de los santos en luz;
+1:13 y que también nos ha librado del poder de la oscuridad y nos ha trasladado al reino de su amado Hijo,
+1:14 en quien tenemos redención por su sangre, el perdón de los pecados.
+1:15 Él es la imagen del Dios invisible, el primogénito de toda la creación.
+1:16 En él fue creado todo lo que hay en los cielos y en la tierra, todo lo visible y lo invisible; tronos, poderes, principados, o autoridades, todo fue creado por medio de él y para él.
+1:17 Él existía antes de todas las cosas, y por él se mantiene todo en orden.
+1:18 Él es la cabeza del cuerpo, que es la iglesia. Él es el principio, el primogénito de entre los muertos, para tener la preeminencia en todo,
+1:19 porque al Padre le agradó que en él habitara toda plenitud,
+1:20 y por medio de él reconciliar consigo todas las cosas, tanto las que están en la tierra como las que están en los cielos, haciendo la paz mediante la sangre de su cruz.
+1:21 Y también a ustedes, que en otro tiempo eran extranjeros y enemigos, tanto en sus pensamientos como en sus acciones, ahora los ha reconciliado completamente
+1:22 en su cuerpo físico, por medio de la muerte, para presentárselos a sí mismo santos, sin mancha e irreprensibles,
+1:23 siempre y cuando en verdad permanezcan cimentados y firmes en la fe, inamovibles en la esperanza del evangelio que han recibido, el cual se predica en toda la creación debajo del cielo; del cual yo, Pablo, he llegado a ser ministro.
+1:24 Ahora me alegro de lo que sufro por ustedes, y completo en mi cuerpo lo que falta de los sufrimientos de Cristo por la iglesia, que es su cuerpo;
+1:25 de la cual llegué a ser ministro, según el plan que Dios me encomendó para el bien de ustedes, de anunciar cabalmente la palabra de Dios,
+1:26 el misterio que había estado oculto desde los tiempos antiguos, pero que ahora ha sido manifestado a sus santos,
+1:27 a quienes Dios quiso dar a conocer las riquezas de la gloria de este misterio entre los no judíos, y que es Cristo en ustedes, la esperanza de gloria.
+1:28 Nosotros anunciamos a Cristo, y amonestamos y enseñamos a todo el mundo en toda sabiduría, a fin de presentar perfecta en Cristo Jesús a toda la humanidad.
+1:29 Con este fin, trabajo y lucho con todas mis fuerzas y con el poder que actúa en mí.
+2:1 Quiero que sepan que es grande la lucha que sostengo por ustedes y por los que están en Laodicea, lo mismo que por todos los que nunca me han visto personalmente,
+2:2 para que su corazón se anime y para que permanezcan unidos en amor, hasta que alcancen todas las riquezas que provienen de la convicción y el entendimiento, para que conozcan el misterio de Dios el Padre y de Cristo,
+2:3 en quien se hallan escondidos todos los tesoros de la sabiduría y del conocimiento.
+2:4 Les digo esto para que nadie los engañe con palabras persuasivas,
+2:5 porque aunque físicamente estoy lejos de ustedes, en el espíritu estoy entre ustedes, y me alegra ver su buen orden y la firmeza de su fe en Cristo.
+2:6 Por tanto, vivan en el Señor Jesucristo de la manera que lo recibieron:
+2:7 arraigados y sobreedificados en él, confirmados en la fe y rebosantes de acciones de gracias, que es como fueron enseñados.
+2:8 Cuídense de que nadie los engañe mediante filosofías y huecas sutilezas, que siguen tradiciones humanas y principios de este mundo, pero que no van de acuerdo con Cristo.
+2:9 Porque en él habita corporalmente toda la plenitud de la Deidad,
+2:10 y en él, que es la cabeza de toda autoridad y poder, ustedes reciben esa plenitud.
+2:11 En él ustedes fueron también circuncidados. Pero no me refiero a la circuncisión física, sino a la circuncisión que nos hace Cristo, y que consiste en despojarnos de la naturaleza pecaminosa.
+2:12 Cuando ustedes fueron bautizados, fueron también sepultados con él, pero al mismo tiempo resucitaron con él, por la fe en el poder de Dios, que lo levantó de los muertos.
+2:13 Antes, ustedes estaban muertos en sus pecados; aún no se habían despojado de su naturaleza pecaminosa. Pero ahora, Dios les ha dado vida juntamente con él, y les ha perdonado todos sus pecados.
+2:14 Ha anulado el acta de los decretos que había contra nosotros y que nos era adversa; la quitó de en medio y la clavó en la cruz.
+2:15 Desarmó además a los poderes y las potestades, y los exhibió públicamente al triunfar sobre ellos en la cruz.
+2:16 No permitan, pues, que nadie los juzgue por lo que comen o beben, o en relación con los días de fiesta, la luna nueva o los días de reposo.
+2:17 Todo esto no es más que una sombra de lo que está por venir; pero lo real y verdadero es Cristo.
+2:18 No permitan que los condenen esos que se ufanan de humildad pero rinden culto a los ángeles. Los tales se meten en cosas que no han visto y están envanecidos por su razonamiento humano;
+2:19 no están unidos a la Cabeza, que es quien nutre y une a todo el cuerpo mediante las coyunturas y ligamentos, y lo hace crecer con el crecimiento que da Dios.
+2:20 Si con Cristo ustedes han muerto a los principios de este mundo, ¿por qué, como si vivieran en el mundo, se someten a sus preceptos?
+2:21 Les dicen: «No tomes eso en tus manos, no pruebes aquello, y ni siquiera lo toques.»
+2:22 Esos preceptos se ciñen a mandamientos y doctrinas humanas, y todas ellas son cosas que se destruyen con el uso.
+2:23 Sin duda, tales cosas pueden parecer sabias en cuanto a la religiosidad sumisa y el duro trato del cuerpo, pero no tienen ningún valor contra los apetitos humanos.
+3:1 Puesto que ustedes ya han resucitado con Cristo, busquen las cosas de arriba, donde está Cristo sentado a la derecha de Dios.
+3:2 Pongan la mira en las cosas del cielo, y no en las de la tierra.
+3:3 Porque ustedes ya han muerto, y su vida está escondida con Cristo en Dios.
+3:4 Cuando Cristo, que es la vida de ustedes, se manifieste, entonces también ustedes serán manifestados con él en gloria.
+3:5 Por lo tanto, hagan morir en ustedes todo lo que sea terrenal: inmoralidad sexual, impureza, pasiones desordenadas, malos deseos y avaricia. Eso es idolatría.
+3:6 Por cosas como éstas les sobreviene la ira de Dios a los desobedientes.
+3:7 También ustedes practicaron estas cosas en otro tiempo, cuando vivían en ellas.
+3:8 Pero ahora deben abandonar también la ira, el enojo, la malicia, la blasfemia y las conversaciones obscenas.
+3:9 No se mientan los unos a los otros, pues ya ustedes se han despojado de la vieja naturaleza y de sus hechos,
+3:10 y se han revestido de la nueva naturaleza, la naturaleza del nuevo hombre, que se va renovando a imagen del que lo creó hasta el pleno conocimiento,
+3:11 donde ya no importa el ser griego o judío, estar circuncidado o no estarlo, ser extranjero o inculto, siervo o libre, sino que Cristo es todo, y está en todos.
+3:12 Por lo tanto, como escogidos de Dios, santos y amados, revístanse de entrañable misericordia, de benignidad, de humildad, de mansedumbre y de paciencia.
+3:13 Sean mutuamente tolerantes. Si alguno tiene una queja contra otro, perdónense de la misma manera que Cristo los perdonó.
+3:14 Y sobre todo, revístanse de amor, que es el vínculo perfecto.
+3:15 Que en el corazón de ustedes gobierne la paz de Cristo, a la cual fueron llamados en un solo cuerpo. Y sean agradecidos.
+3:16 La palabra de Cristo habite ricamente en ustedes. Instrúyanse y exhórtense unos a otros con toda sabiduría; canten al Señor salmos, himnos y cánticos espirituales, con gratitud de corazón.
+3:17 Y todo lo que hagan, ya sea de palabra o de hecho, háganlo en el nombre del Señor Jesús, dando gracias a Dios el Padre por medio de él.
+3:18 Ustedes las esposas, respeten a sus esposos, como conviene en el Señor.
+3:19 Ustedes los esposos, amen a sus esposas, y no las traten con dureza.
+3:20 Ustedes los hijos, obedezcan a sus padres en todo, porque esto agrada al Señor.
+3:21 Ustedes los padres, no exasperen a sus hijos, para que no se desalienten.
+3:22 Ustedes los siervos, obedezcan en todo a sus amos terrenales, no sólo cuando los ven, como si quisieran agradar a sus semejantes, sino con sinceridad de corazón, por temor a Dios.
+3:23 Y todo lo que hagan, háganlo de corazón, como para el Señor y no como para la gente,
+3:24 porque ya saben que el Señor les dará la herencia como recompensa, pues ustedes sirven a Cristo el Señor.
+3:25 Pero el que hace lo malo, recibirá el pago del mal que haya hecho, porque ante Dios no hay favoritismos.
+4:1 Ustedes los amos, sean rectos y justos con sus siervos, pues ya saben que tienen un Amo en los cielos.
+4:2 Dedíquense a la oración, y sean constantes en sus acciones de gracias.
+4:3 Oren también por nosotros, para que el Señor nos abra las puertas y prediquemos la palabra, para que demos a conocer el misterio de Cristo, por el cual también estoy preso.
+4:4 Oren para que pueda proclamarlo como debo hacerlo.
+4:5 Compórtense sabiamente con los no creyentes, y aprovechen bien el tiempo.
+4:6 Procuren que su conversación siempre sea agradable y de buen gusto, para que den a cada uno la respuesta debida.
+4:7 Nuestro querido hermano Tíquico, fiel ministro y consiervo en el Señor, les llevará noticias mías.
+4:8 Lo envío a ustedes para que les cuente cómo estamos y reanime su corazón.
+4:9 Lo acompaña Onésimo, querido y fiel hermano, que es uno de ustedes. Ellos les contarán todo lo que sucede aquí.
+4:10 Los saluda Aristarco, mi compañero de prisión, lo mismo que Marcos, el sobrino de Bernabé, acerca del cual ya han recibido instrucciones. Si Marcos va a visitarlos, recíbanlo bien.
+4:11 También los saluda Jesús, llamado el Justo. Éstos son los únicos judíos que me ayudan en el reino de Dios, y para mí han sido un gran consuelo.
+4:12 Los saluda Epafras, que es uno de ustedes. En sus oraciones, este siervo de Cristo siempre está rogando por ustedes con gran preocupación, para que ustedes se mantengan firmes y sean completamente perfectos en todo lo que Dios quiere.
+4:13 Yo soy testigo de que él se preocupa mucho por ustedes, y por los que están en Laodicea y Hierápolis.
+4:14 Los saluda Lucas, el médico amado, y Demas.
+4:15 Saluden a los hermanos que están en Laodicea, y a Ninfas y a la iglesia que se reúne en su casa.
+4:16 Una vez que esta carta haya sido leída entre ustedes, asegúrense de que se lea también en la iglesia de los laodicenses, y que la carta de Laodicea la lean también ustedes.
+4:17 Díganle a Arquipo que no deje de cumplir con el ministerio que recibió del Señor.
+4:18 Yo, Pablo, escribo este saludo de mi puño y letra. Recuerden que estoy preso. Que la gracia sea con ustedes. Amén.

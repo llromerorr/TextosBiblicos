@@ -1,0 +1,121 @@
+#title Cantares
+#description Descripcion
+#abbreviation 22_Cnt
+
+1:1 Cantar de los cantares, de Salomón.
+1:2 ¡Ah, si me dieras uno de tus besos! ¡Son tus caricias más deliciosas que el vino,
+1:3 y delicioso es también el aroma de tus perfumes! Tu nombre es cual perfume derramado; ¡por eso te aman las doncellas!
+1:4 ¡Llévame contigo, démonos prisa! ¡Llévame, rey mío, a tu alcoba! ¡Alegrémonos! ¡Regocijémonos por ti! ¡Evoquemos tus caricias y no el vino! ¡Razones hay para amarte!
+1:5 Escuchen, doncellas de Jerusalén: yo soy una morena hermosa. Morena soy, como las tiendas de Cedar; morena soy, como las cortinas de Salomón.
+1:6 No se fijen en mi piel morena; es que el sol posó en mí su mirada. Mis hermanos se enojaron contra mí y me pusieron a cuidar las viñas; y yo, que soy mi propia viña, no me cuidé.
+1:7 Dime, amor de mi vida, ¿dónde das de comer a tus rebaños?, ¿dónde reposas al mediodía? ¿Por qué tengo que andarte buscando junto a los rebaños de tus amigos?
+1:8 Si no lo sabes tú, bella mujer, ve tras las huellas del rebaño y lleva tus cabritas a los pastos, cerca de las cabañas de los pastores.
+1:9 Comparable es tu andar, amiga mía, al suave trote de las yeguas del faraón.
+1:10 ¡Qué bellas son tus mejillas, enmarcadas entre los pendientes! ¡Qué bello es tu cuello entre los collares!
+1:11 ¡Vamos a hacerte pendientes de oro con incrustaciones de plata!
+1:12 Mientras el rey disfruta del banquete, mi nardo esparce su fragancia.
+1:13 Mi amado es para mí como el saquito de mirra entre mis pechos.
+1:14 Mi amado es para mí como un racimo de flores de alheña en las viñas de Engadí.
+1:15 ¡Hermosa eres tú, amiga mía! ¡Hermosa eres tú, y tus ojos son dos palomas!
+1:16 ¡Hermoso eres tú, amado mío, y además encantador! La verde hierba es nuestro lecho,
+1:17 los cedros son las vigas de la casa, y los cipreses nos cubren como un techo.
+2:1 Yo soy la rosa de Sarón; ¡soy el lirio de los valles!
+2:2 Mi amiga es, entre las doncellas, como la rosa entre las espinas.
+2:3 Mi amado es, entre los jóvenes, como el manzano entre los árboles silvestres. Sentarme a su sombra es un deleite; ¡cuán dulce es su fruto a mi paladar!
+2:4 Me condujo a la sala del banquete, y me cubrió con la bandera de su amor.
+2:5 ¡Aliméntenme con pasas! ¡Reanímenme con manzanas, porque estoy enferma de amor!
+2:6 ¡Cómo anhelo que mi cabeza repose sobre su brazo izquierdo, y que su brazo derecho me abrace!
+2:7 Doncellas de Jerusalén, yo les ruego, por los corzos y por las ciervas del campo, que no despierten a mi amada, ¡que no interrumpan su sueño, mientras ella se complazca en dormir!
+2:8 ¡Ya escucho la voz de mi amado! ¡Viene saltando sobre los montes, ¡viene brincando sobre las lomas!
+2:9 Mi amado es comparable al corzo, semejante a un cervatillo. ¡Ya está aquí, tras la pared! Se asoma por las ventanas, ¡espía por las celosías!
+2:10 Mi amado me habló, y me dijo: «¡Levántate, amiga mía! ¡Ven conmigo, bella mujer!
+2:11 Ya el invierno ha terminado, y con él terminaron las lluvias.
+2:12 Ya han brotado flores en el campo, ha llegado el tiempo de los cantos, y por toda nuestra tierra se escucha el arrullo de la tórtola.
+2:13 Ya las higueras echan higos, y las vides en ciernes esparcen su aroma. ¡Levántate, amiga mía! ¡Ven conmigo, bella mujer!
+2:14 Paloma mía, escondida en los agujeros de la peña, en parajes escondidos y escarpados, ¡déjame contemplar tu rostro!, ¡déjame escuchar tu voz! ¡Cuán placentera es tu voz, y cuán hermoso tu semblante!»
+2:15 ¡Atrapen esas zorras, atrápenlas! Aunque pequeñas, destruyen nuestras viñas, que apenas están en ciernes.
+2:16 Mi amado es mío, y yo soy suya; él cuida sus ovejas entre los lirios.
+2:17 Hasta que llegue el día y las sombras se disipen, ¡vuelve a mí, amado mío! ¡Sé raudo como un venado, como un cervatillo sobre los montes de Beter!
+3:1 Por las noches, en mi lecho, busco al que amo con toda el alma. Lo busco, y no lo encuentro.
+3:2 Me decido a levantarme para rondar por la ciudad, por las calles y avenidas, en busca del que amo con toda el alma. ¡Lo busco, y no lo encuentro!
+3:3 Los guardias, los que rondan la ciudad, me encuentran, y les pregunto si han visto al que amo con toda el alma.
+3:4 ¡Y al poco tiempo de hablar con ellos encuentro al que amo con toda el alma! ¡Lo abrazo, y no lo suelto hasta llevarlo a la casa de mi madre, hasta la alcoba donde fui concebida.
+3:5 Doncellas de Jerusalén, yo les ruego por los corzos y por las ciervas del campo, que no despierten a mi amada, ¡que no interrumpan su sueño, mientras ella se complazca en dormir!
+3:6 ¿Quién es ésta que viene por el desierto y asciende como columna de humo? ¡Viene envuelta en el suave aroma de mirra, incienso y finos perfumes!
+3:7 ¡Aquí viene la litera de Salomón! La escoltan sesenta valientes, de entre los mejores guerreros de Israel.
+3:8 Todos ellos son diestros soldados, y cada uno lleva su espada al cinto en prevención de peligros nocturnos.
+3:9 El rey Salomón se hizo una carroza de finas maderas del Líbano.
+3:10 Las columnas las hizo de plata, el respaldo lo hizo de oro, y el asiento lo recubrió de grana. ¡Con mucho amor recamaron su interior las doncellas de Jerusalén!
+3:11 ¡Salgan, doncellas de Sión! ¡Vean al rey Salomón portando su corona! ¡Es la misma que le ciñó su madre el día de su casamiento, el día en que su corazón se alegró!
+4:1 ¡Qué hermosa eres, amiga mía! ¡Qué hermosa eres! Son tus ojos dos palomas que se asoman tras el velo, y tus cabellos, un rebaño de cabritos que desciende de los montes de Galaad.
+4:2 Comparables son tus dientes a un rebaño de blancas ovejas recién bañadas y trasquiladas. Todas ellas tienen su pareja; ningún espacio dejan vacío.
+4:3 Tus labios son un hilo carmesí, y tus palabras son cautivadoras. Tus mejillas son dos gajos de granada que se asoman tras el velo.
+4:4 Tu cuello, cual la torre de David, es de elegante estructura; de esa torre penden mil escudos, ¡todos ellos escudos de valientes!
+4:5 Son tus pechos dos cervatos gemelos, que reposan entre los lirios.
+4:6 Hasta que llegue el día y las sombras se disipen, quiero ir al monte de la mirra; quiero ir a la colina del incienso.
+4:7 Toda tú eres hermosa, amiga mía; no tienes ningún defecto.
+4:8 Acompáñame desde el Líbano, esposa mía; acompáñame desde el Líbano. Baja conmigo de la cumbre del Amana, bajemos de la cumbre del Senir y del Hermón; donde están las guaridas de los leones, donde están las cuevas de los leopardos.
+4:9 Hermana y esposa mía, con una sola mirada tuya y con un solo hilo de tu collar me robaste el corazón.
+4:10 Hermana y esposa mía, ¡cuán deliciosas son tus caricias! ¡Son más deliciosas que el vino! ¡Es más dulce el olor de tus perfumes que el de todas las especias aromáticas!
+4:11 De tus labios fluye miel, esposa mía; leche y miel hay debajo de tu lengua. La fragancia de tus vestidos evoca la fragancia del monte Líbano.
+4:12 Eres un jardín cercado, hermana y esposa mía; eres cerrada fuente, ¡sellado manantial!
+4:13 Eres un jardín de granados, donde crecen frutos exquisitos, y flores de alheña y nardos;
+4:14 nardo y azafrán, cálamo y canela, toda clase de árboles de incienso, y mirra y áloes, y las más finas especias.
+4:15 Eres fuente de los jardines, eres pozo de aguas vivas que fluyen desde el Líbano.
+4:16 ¡Levántate, viento del norte! ¡Ven acá, viento del sur! ¡Vengan y soplen en mi jardín, para que se esparzan sus aromas! ¡Ven, amado mío, a tu jardín y deléitate con sus dulces frutos!
+5:1 Ya he entrado en mi jardín, hermana y esposa mía; recolecto ya la mirra y las especias, libando estoy la miel del panal, y ahora bebo el vino y la leche que has reservado para mí. Queridos amigos míos, ¡coman y beban hasta saciarse!
+5:2 Yo dormía, pero mi corazón velaba, y pude escuchar la voz de mi amado: «Hermana y amiga mía; mi palomita inmaculada, ¡déjame entrar! Tengo la cabeza empapada de rocío; ¡escurre por mi pelo la lluvia de la noche!»
+5:3 «¡Pero ya me he desnudado! ¿Cómo he de volver a vestirme? ¡Ya me he lavado los pies! ¿Cómo he de volver a ensuciarlos?»
+5:4 Se conmovieron mis entrañas cuando mi amado introdujo la mano por la apertura del cerrojo.
+5:5 Me levanté para abrirle a mi amado. Por mis manos y mis dedos corrían las gotas de mirra hasta caer sobre la aldaba.
+5:6 Le abrí a mi amado, pero él se había marchado ya. Con el alma salí en pos de su voz. ¡Lo busqué, y no lo encontré! ¡Lo llamé, y no me respondió!
+5:7 Los guardias que rondan la ciudad me encontraron y me golpearon. ¡Los que vigilan las murallas me hirieron, me despojaron de mi manto!
+5:8 Doncellas de Jerusalén, yo les ruego, si acaso encuentran a mi amado, ¡le digan que me hallo enferma de amor!
+5:9 «Dinos tú, bella mujer, ¿qué de especial tiene tu amado? ¿Qué de especial tiene tu amado para que nos pidas tal cosa?»
+5:10 «Mi amado es de tez trigueña, y entre la multitud sobresale.
+5:11 Su cabeza es como el oro más fino; su cabellera es rizada, y negra como un cuervo.
+5:12 Sus ojos son como dos palomas que reposan junto a los arroyos y que se bañan en leche.
+5:13 Sus mejillas parecen un jardín en donde crecen especias aromáticas y se cultivan las más fragantes flores; sus labios son como los lirios, y destilan el aroma de la mirra.
+5:14 Sus manos son dos anillos de oro engastados de jacintos; Su cuerpo es labrado marfil recubierto de zafiros.
+5:15 Sus piernas son dos columnas de mármol asentadas sobre bases de oro fino; imponente es él, como el monte Líbano, y tiene el garbo de sus altos cedros.
+5:16 Dulce es su paladar. ¡Todo él es codiciable! Así es mi amado, doncellas de Jerusalén; ¡así es mi amigo!»
+6:1 «Dinos tú, bella mujer, ¿a dónde se ha ido tu amado? ¿A dónde se apartó tu amado, para que contigo vayamos a buscarlo?»
+6:2 «Mi amado está ahora en su jardín, entre los surcos de las especias; se recuesta en los jardines y recoge lirios.
+6:3 Yo soy de mi amado, y mi amado es mío; ¡él se recuesta entre los lirios!»
+6:4 Eres hermosa como Tirsa, amiga mía, y deseable como Jerusalén; ¡majestuosa como las huestes celestiales!
+6:5 ¡Desvía de mí tus miradas, que tus ojos me subyugan! Son tus cabellos como las cabritas que descienden de los montes de Galaad.
+6:6 Comparables son tus dientes a un rebaño de blancas ovejas. Todas ellas tienen su pareja; ningún espacio dejan vacío.
+6:7 Tus mejillas son dos gajos de granada que se asoman tras el velo.
+6:8 Puede haber sesenta reinas, y hasta ochenta concubinas y un sin número de doncellas,
+6:9 pero la paloma que poseo es única y perfecta. Es la hija única y predilecta de la madre que la vio nacer. Las doncellas la ven, y la bendicen; ¡las reinas y las concubinas la alaban!
+6:10 ¿Quién es ésta que aparece como la luz de un nuevo día? Bella es, como la luna; también radiante, como el sol; ¡majestuosa como las huestes celestiales!
+6:11 Yo bajé al jardín de los nogales, para contemplar los frutos del valle y ver si ya brotaban las vides y florecían los granados;
+6:12 ¡pero antes de darme cuenta me vi entre los carros de Aminadab!
+6:13 ¡Regresa, Sulamita, regresa! ¡Regresa, que deseamos contemplarte! ¿Pero qué desean ver en la Sulamita? ¿Acaso una danza de dos campamentos?
+7:1 ¡Cuán bellos se ven, princesa, tus pies en las sandalias! Tus torneados muslos son como joyas labradas por un experto orfebre.
+7:2 Se asemeja tu ombligo a una taza redonda donde abunda la bebida. Tu vientre evoca a un montón de trigo circundado de blancos lirios.
+7:3 Son tus pechos dos cervatos gemelos,
+7:4 y tu cuello, una torre de marfil. Me hacen pensar tus ojos en los manantiales de Jesbón que fluyen a la entrada de Bat Rabín. Tu nariz se asemeja a la torre del Líbano, orientada hacia Damasco.
+7:5 Tu cabeza me recuerda a la cumbre del Carmelo; bucles de púrpura son tus cabellos, ¡preso entre ellos se encuentra un rey!
+7:6 ¡Cuán bella eres, y cuán dulce! ¡Cuán delicioso es el amor!
+7:7 Tienes el garbo de una palmera, Y son tus pechos los racimos.
+7:8 ¡Ya he pensado trepar a esa palmera y apoderarme de sus dátiles! ¡Sean tus pechos cual racimos de uvas, y tu aliento, cual aroma de manzanas!
+7:9 ¡Sea tu paladar como el buen vino, y que fluya, amado mío, por tus labios, y se deslice por tus dientes!
+7:10 Yo soy de mi amado, y él halla en mí su deleite.
+7:11 ¡Ven, amado mío, vayamos al campo! ¡Pasemos la noche en alguna aldea!
+7:12 Por la mañana iremos a las viñas; veremos florecer las vides y abrirse sus tiernos retoños. Veremos florecer los granados, ¡y allí te entregaré mi amor!
+7:13 Las mandrágoras esparcen ya su aroma, y a nuestras puertas tenemos las frutas más variadas y deliciosas, frutas frescas y frutas secas, que para ti, mi amor, tengo guardadas.
+8:1 ¡Ah, cómo quisiera que fueras mi hermano, y que mi madre te hubiera amamantado! ¡Así te besaría al encontrarte, y nadie me difamaría!
+8:2 Te llevaría a la casa de mi madre, y allí tú serías mi maestro. Yo te daría a beber de mi vino y del jugo de mis granadas.
+8:3 ¡Cómo anhelo que mi cabeza repose sobre tu brazo izquierdo, y que tu brazo derecho me abrace!
+8:4 Doncellas de Jerusalén, yo les ruego, que no despierten a mi amada, ¡que no interrumpan su sueño, mientras ella se complazca en dormir!
+8:5 ¿Quién es ésta, que por el desierto viene recostada en el hombro de su amado? Bajo un manzano te desperté; Fue allí donde tu madre tuvo dolores y te dio a luz.
+8:6 Ponme como un sello sobre tu corazón; ponme como una marca sobre tu brazo. Inquebrantable como la muerte es el amor; inflexibles como el sepulcro son los celos. ¡Candentes brasas son, candente fuego!
+8:7 Las muchas aguas no pueden apagar el amor, ni pueden tampoco sofocarlo los ríos. Si por el amor diera el hombre todos los bienes de su casa, ciertamente sería despreciado.
+8:8 Nuestra hermanita no tiene pechos. ¿Qué podremos hacer por nuestra hermana cuando la pidan en matrimonio?
+8:9 Si se tratara de una muralla, levantaríamos sobre ella un palacio de plata; si se tratara de una puerta, la recubriríamos con tablones de cedro.
+8:10 ¡Yo soy una muralla, y mis pechos son dos torres, desde el día en que a sus ojos fui como quien ha hallado la paz.
+8:11 Salomón tenía en Baal Gamón, una viña al cuidado de aparceros. Cada uno de ellos debía entregarle mil monedas de plata por cosecha.
+8:12 ¡Pero yo tengo mi propia viña, y a mi viña la cuido yo! ¡Quédate, Salomón, con las mil monedas, y quédense los aparceros con doscientas!
+8:13 Tú, que habitas en los jardines, ¡hazme oír tu voz! ¡También mis amigos quieren escucharla!
+8:14 ¡Date prisa, amado mío! ¡Corre como un corzo, como un cervato que va por los montes aromáticos!

@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Dart (toTxt)",
+            "program": "toTxt.dart",
+            "args": [".\\RVR60\\1_Gn_RVR60.txt", "RVR60"],
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}

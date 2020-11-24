@@ -1,0 +1,52 @@
+#title Jonás
+#description Descripcion
+#abbreviation 32_Jon
+
+1:1 La palabra del Señor vino a Jonás hijo de Amitay, y le dijo:
+1:2 «Levántate y ve a la gran ciudad de Nínive, y predica contra ella, porque hasta mí ha llegado la maldad de sus habitantes.»
+1:3 Y Jonás se levantó para irse a Tarsis y huir de la presencia del Señor. Descendió a Jope, y halló una nave que partía para Tarsis. Entonces pagó su pasaje y, para alejarse de la presencia del Señor, subió a bordo, dispuesto a irse con ellos a Tarsis.
+1:4 Pero el Señor hizo que en el mar se levantara un fuerte viento, y se desató una tempestad tan grande que parecía que la nave se iba a partir.
+1:5 Los marineros tenían mucho miedo, y cada uno de ellos clamaba a su dios. Entonces echaron al mar los enseres que había en la nave, para deshacerse de ellos. Jonás, en cambio, había bajado al interior de la nave y se había echado a dormir.
+1:6 Así que el patrón de la nave se le acercó y le dijo: «¿Qué te pasa, dormilón? ¡Levántate, y clama a tu Dios! Tal vez tenga compasión de nosotros, y no pereceremos.»
+1:7 Los marineros decían cada uno a sus compañeros: «Vengan, echemos suertes para saber por culpa de quién nos ha sobrevenido este mal.» Y echaron suertes, y la suerte recayó sobre Jonás.
+1:8 Entonces ellos le dijeron: «Dinos ahora por qué nos ha sobrevenido este mal. ¿A qué te dedicas? ¿De dónde vienes? ¿Cuál es tu país? ¿De qué pueblo eres?»
+1:9 Y él les respondió: «Soy hebreo, y temo al Señor, Dios de los cielos, que hizo el mar y la tierra.»
+1:10 Aquellos hombres tuvieron mucho miedo, y le dijeron: «¿Por qué has hecho esto?» Y como sabían que Jonás huía de la presencia del Señor, pues él mismo se lo había dicho,
+1:11 le dijeron: «¿Qué haremos contigo para que el mar se calme?» Y como el mar se iba embraveciendo más y más,
+1:12 Jonás les respondió: «Pues agárrenme y échenme al mar, y el mar se calmará. Yo sé bien que por mi culpa les ha sobrevenido esta gran tempestad.»
+1:13 Aquellos hombres se esforzaron para llevar la nave a tierra, pero no pudieron porque el mar se iba embraveciendo más y más.
+1:14 Entonces clamaron al Señor y dijeron: «Señor, te rogamos que no nos dejes perecer por causa de este hombre, ni nos culpes de derramar sangre inocente, pues tú, Señor, haces lo que te parece mejor.»
+1:15 Entonces tomaron a Jonás y lo arrojaron al mar, y la furia del mar se calmó.
+1:16 Y aquellos hombres sintieron gran temor del Señor, y le ofrecieron un sacrificio y le hicieron votos.
+1:17 Pero el Señor tenía preparado un gran pez, para que se tragara a Jonás; y Jonás estuvo en el vientre del pez tres días y tres noches.
+2:1 Entonces Jonás oró al Señor su Dios desde el vientre del pez,
+2:2 y dijo: «Señor, en mi angustia te invoqué, y tú me oíste. Desde el fondo del abismo clamé a ti, y tú escuchaste mi voz.
+2:3 Me echaste a las profundidades del mar, y las corrientes me rodearon; ¡todas tus ondas y tus olas pasaron sobre mí!
+2:4 Entonces dije: “Me has desechado delante de tus ojos, pero todavía he de ver tu santo templo.”
+2:5 Las aguas me rodearon hasta el cuello, y el abismo me envolvió. ¡Las algas se enredaron en mi cabeza!
+2:6 Bajé hasta los cimientos de los montes; la tierra echó para siempre sus cerrojos sobre mí; pero tú, mi Señor y Dios, rescataste mi vida del sepulcro.
+2:7 Cuando dentro de mí desfallecía mi alma, me acordé de ti, Señor, Y mi oración llegó hasta ti, hasta tu santo templo.
+2:8 Los que siguen vanidades ilusorias, abandonan tu misericordia.
+2:9 Pero yo, con voz de alabanza, te ofreceré sacrificios y cumpliré mis promesas. La salvación es tuya, Señor.»
+2:10 Y el Señor ordenó al pez que vomitara a Jonás en tierra.
+3:1 La palabra del Señor vino a Jonás por segunda vez, y le dijo:
+3:2 «Levántate y ve a la gran ciudad de Nínive, y proclama allí el mensaje que yo te daré.»
+3:3 Jonás se levantó y, conforme a la palabra del Señor, fue a Nínive. Y era Nínive una ciudad grande en extremo, de tres días de camino.
+3:4 Jonás comenzó a recorrer la ciudad, camino de un día, y en su predicación decía: «¡Dentro de cuarenta días Nínive será destruida!»
+3:5 Todos los habitantes de Nínive creyeron a Dios y decretaron ayuno, y desde el mayor hasta el menor se vistieron de cilicio.
+3:6 Cuando la noticia llegó hasta el rey de Nínive, éste se levantó de su trono, se despojó de sus vestidos, se cubrió de cilicio y se sentó sobre ceniza;
+3:7 luego ordenó que, por mandato suyo y de sus altos personajes, se proclamara en Nínive este decreto: «Ningún hombre ni animal, ni tampoco ningún buey ni oveja, debe probar bocado ni alimento alguno, ni beber agua.
+3:8 Al contrario, hombres y animales por igual deberán cubrirse de cilicio y clamar a Dios con todas sus fuerzas. Apártese cada uno de su mal camino y de la violencia que hay en sus manos.
+3:9 ¿Quién sabe? Tal vez Dios se arrepienta y el ardor de su ira se calme, ¡y entonces no pereceremos!»
+3:10 Y al ver Dios lo que hicieron, y que se habían apartado de su mal camino, también él se arrepintió de hacerles el daño que les había anunciado, y desistió de hacerlo.
+4:1 Pero Jonás se quedó muy disgustado, y se enojó.
+4:2 Entonces oró al Señor y le dijo: «Y bien, Señor, ¿no es esto lo que yo decía cuando aún estaba en mi tierra? ¡Por eso me apresuré a huir a Tarsis! ¡Ya sabía yo que tú eres un Dios clemente y piadoso, lento para la ira y grande en misericordia, y que te arrepientes del mal!
+4:3 Yo te ruego, Señor, que me quites la vida. ¡Prefiero la muerte a la vida!»
+4:4 Y el Señor le dijo: «¿Te parece bien enojarte tanto?»
+4:5 Entonces Jonás salió de la ciudad y acampó en la parte oriental de la ciudad; allí se hizo una enramada y se sentó bajo su sombra, esperando a ver lo que sucedería en la ciudad.
+4:6 Dios, el Señor, preparó una enredadera para que creciera por encima de Jonás y le hiciera sombra sobre la cabeza, y le quitara el malestar. Jonás se alegró en gran manera por la enredadera.
+4:7 Pero al día siguiente, al llegar el alba, Dios dispuso que un gusano dañara la enredadera, y ésta se marchitó.
+4:8 Además, Dios dispuso que al salir el sol soplara un fuerte viento solano, y el sol le dio a Jonás en la cabeza. Éste casi se desmayaba, y hasta deseaba morirse. Decía: «Mejor me sería morir que seguir viviendo.»
+4:9 Entonces Dios le dijo a Jonás: «¿Tanto enojo te causa lo que le pasó a la enredadera?» Y él respondió: «Es tanto el enojo que me causa, ¡que hasta quisiera morirme!»
+4:10 Y el Señor le dijo: «Tú sientes lástima por la enredadera, por la cual no trabajaste, y a la cual no hiciste crecer; durante una noche creció, y a la noche siguiente dejó de existir.
+4:11 ¿Y yo no habría de tener piedad de Nínive, esa gran ciudad con más de ciento veinte mil habitantes que no saben distinguir cuál es su mano derecha y cuál su mano izquierda, y donde hay muchos animales?»
